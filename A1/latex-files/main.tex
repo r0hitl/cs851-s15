@@ -1,0 +1,67 @@
+\documentclass[letterpaper]{report}
+
+% packages to include additional functionality
+\usepackage{makeidx}         % allows index generation
+\usepackage{graphicx}        % standard LaTeX graphics tool
+                             % when including figure files
+\usepackage{multicol}        % used for the two-column index
+\usepackage[bottom]{footmisc}% places footnotes at page bottom
+\usepackage{wrapfig} % for wrapping images with text
+\usepackage{color} % for coloring links
+\usepackage{fancyvrb}
+\usepackage{listings}
+\usepackage{verbatim}
+\usepackage{alltt}
+\usepackage{hyperref}%for including URL%Start Margins
+\addtolength{\oddsidemargin}{-.875in}
+\addtolength{\evensidemargin}{-.875in}
+\addtolength{\textwidth}{1.75in}
+\addtolength{\topmargin}{-.885in}
+\addtolength{\textheight}{1.95in}
+%End Margins
+
+\begin{document}
+
+\renewcommand{\thesection}{\arabic{section}}
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CLASS SECTION
+%----------------------------------------------------------------------------------------
+
+\newcommand{\hmwkTitle}{Assignment\ \1}
+\newcommand{\assignmentDescription}{Write a program that extracts 10000 tweets with links from Twitter. \\
+Note that only Twitter API 1.1 is currently available; version 1 code will no longer work. \\
+Reference: http://thomassileo.com/blog/2013/01/25/using-twitter-rest-api-v1-dot-1-with-python/
+}
+\newcommand{\hmwkDueDate}{Saturday,\ February\ 14,\ 2014} 
+\newcommand{\hmwkClass}{CS\ 751} 
+\newcommand{\hmwkAuthorName}{Rohit Lambi <rlambi>}
+
+%----------------------------------------------------------------------------------------
+%	TITLE
+%----------------------------------------------------------------------------------------
+
+\author{Rohit Lambi}
+\title{CS 751: Assignment 1 \\
+\normalsize\vspace{0.1in}\large{\assignmentDescription}
+}
+
+\date{Spring 2015}
+
+\maketitle
+
+\tableofcontents
+\newpage
+
+% include other tex files
+
+\include{part1}
+\include{part2}
+\include{references}
+
+\bibliographystyle{plain}
+\bibliography{ref}
+\nocite{*}
+
+\end{document}
+
