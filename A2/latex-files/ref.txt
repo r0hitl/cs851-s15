@@ -1,0 +1,4 @@
+
+[1] OpenWayback - https://github.com/iipc/openwayback
+[2] Python WayBack for web archive replay, web proxy - https://github.com/ikreymer/pywb
+[3] WARC and ARC indexing and discovery tool - https://github.com/ukwa/webarchive-discovery 

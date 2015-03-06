@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}Q1}{2}{section.0.1}
+\contentsline {subsection}{\numberline {1.1}Description}{2}{subsection.0.1.1}
+\contentsline {subsubsection}{Replay of Different WARC files on webrecorder.io}{3}{section*.2}
+\contentsline {section}{\numberline {2}Q2}{6}{section.0.2}
+\contentsline {subsection}{\numberline {2.1}Description}{6}{subsection.0.2.1}
+\contentsline {subsubsection}{Functioning queries on SOLR}{7}{section*.3}
+\contentsline {section}{\numberline {3}References}{13}{section.0.3}

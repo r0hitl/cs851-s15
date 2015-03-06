@@ -1,0 +1,64 @@
+\documentclass[letterpaper]{report}
+
+% packages to include additional functionality
+\usepackage{makeidx}         % allows index generation
+\usepackage{graphicx}        % standard LaTeX graphics tool
+                             % when including figure files
+\usepackage{multicol}        % used for the two-column index
+\usepackage[bottom]{footmisc}% places footnotes at page bottom
+\usepackage{wrapfig} % for wrapping images with text
+\usepackage{color} % for coloring links
+\usepackage{fancyvrb}
+\usepackage{listings}
+\usepackage{verbatim}
+\usepackage{alltt}
+\usepackage{hyperref}%for including URL%Start Margins
+\addtolength{\oddsidemargin}{-.875in}
+\addtolength{\evensidemargin}{-.875in}
+\addtolength{\textwidth}{1.75in}
+\addtolength{\topmargin}{-.885in}
+\addtolength{\textheight}{1.95in}
+%End Margins
+
+\begin{document}
+
+\renewcommand{\thesection}{\arabic{section}}
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CLASS SECTION
+%----------------------------------------------------------------------------------------
+
+\newcommand{\hmwkTitle}{Assignment\ \2}
+\newcommand{\assignmentDescription}{}
+\newcommand{\hmwkDueDate}{Thursday,\ March\ 05,\ 2015} 
+\newcommand{\hmwkClass}{CS\ 751} 
+\newcommand{\hmwkAuthorName}{Rohit Lambi <rlambi>}
+
+%----------------------------------------------------------------------------------------
+%	TITLE
+%----------------------------------------------------------------------------------------
+
+\author{Rohit Lambi}
+\title{CS 751: Assignment 2 \\
+\normalsize\vspace{0.1in}\large{\assignmentDescription}
+}
+
+\date{Spring 2015}
+
+\maketitle
+
+\tableofcontents
+\newpage
+
+% include other tex files
+
+\include{part1}
+\include{part2}
+\include{references}
+
+\bibliographystyle{plain}
+\bibliography{ref}
+\nocite{*}
+
+\end{document}
+
