@@ -1,0 +1,23 @@
+\begin{thebibliography}{1}
+
+\bibitem{website:boilerpipe}
+Boilerpipe python library.
+\newblock https://pypi.python.org/pypi/boilerpipe.
+
+\bibitem{website:graphs}
+Draw line plot in gnuplot.
+\newblock https://github.com/rdp/ruby_gnuplot.
+
+\bibitem{website:latexTables}
+Draw tables in {LaTex}.
+\newblock http://en.wikibooks.org/wiki/LaTeX/Tables.
+
+\bibitem{website:stopWordList}
+Stop word list.
+\newblock http://www.ranks.nl/stopwords.
+
+\bibitem{website:zipfsLaw}
+Zipf's law.
+\newblock http://en.wikipedia.org/wiki/Zipf's_law.
+
+\end{thebibliography}

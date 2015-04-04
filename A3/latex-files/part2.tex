@@ -1,0 +1,195 @@
+
+
+
+\section{Q2}
+\label{part2}
+\begin{enumerate}
+
+\item Collection1: Extract all the unique terms and their frequency from the 10000 files*
+
+\item Collection2: Extract all the unique terms and their frequency of the 10000 files* after running boilerpipe
+
+\item Construct a table with the top 50 terms from each collection. 
+	- Find a common stop word list.  How many of the 50 terms are on that stop word list?
+
+\item For both collections, construct a graph with the x-axis as word rank, and y-axis as word frequency.  
+	- Do either follow a Zipf distribution? Support your answer.
+
+\end{enumerate}
+
+\subsection{Solution}
+\begin{enumerate}
+
+\item I wrote two python programs to extract the unique terms and their frequency and saved it in text file.
+
+\item In the collection1 there are 12 terms and in collection2 there are 41 terms that are from the stop word list. The stop word list is at the end of this document. The tables for both the collections with top 50 terms are shown below:
+
+	\begin{table}
+		\caption{Collection1: Word Frequency Table}
+			\begin{center}
+				\begin{tabular}{ c | c | c }
+					\hline
+Rank & Word & Word Frequency \\ \hline
+1 & div & 1170684 \\ \hline
+2 & a & 538390 \\ \hline
+3 & li & 324226 \\ \hline
+4 & span & 307373 \\ \hline
+5 & script & 159971 \\ \hline
+6 & ul & 129377 \\ \hline
+7 & span & 120620 \\ \hline
+8 & px & 110074 \\ \hline
+9 & lia & 107868 \\ \hline
+10 & the & 103445 \\ \hline
+11 & meta & 100232 \\ \hline
+12 & width & 97620 \\ \hline
+13 & var & 97257 \\ \hline
+14 & td & 93394 \\ \hline
+15 & to & 86910 \\ \hline
+16 & tr & 86689 \\ \hline
+17 & img & 76837 \\ \hline
+18 & height & 74584 \\ \hline
+19 & and & 74201 \\ \hline
+20 & p & 66089 \\ \hline
+21 & typetext & 59865 \\ \hline
+22 & javascript & 59865 \\ \hline
+23 & link & 56247 \\ \hline
+24 & in & 55901 \\ \hline
+25 & false & 55637 \\ \hline
+26 & of & 54765 \\ \hline
+27 & h & 54099 \\ \hline
+28 & if & 52750 \\ \hline
+29 & de & 49659 \\ \hline
+30 & button & 42086 \\ \hline
+31 & targetblank & 42050 \\ \hline
+32 & function & 41691 \\ \hline
+33 & class & 41129 \\ \hline
+34 & i & 40408 \\ \hline
+35 & for & 39959 \\ \hline
+36 & option & 38933 \\ \hline
+37 & typebutton & 38543 \\ \hline
+38 & input & 37612 \\ \hline
+39 & onclickreturn & 33841 \\ \hline
+40 & alt & 32257 \\ \hline
+41 & on & 31724 \\ \hline
+42 & is & 29757 \\ \hline
+43 & href & 29362 \\ \hline
+44 & with & 28148 \\ \hline
+45 & border & 28143 \\ \hline
+46 & br & 27742 \\ \hline
+47 & this & 27409 \\ \hline
+48 & value & 25635 \\ \hline
+49 & your & 25497 \\ \hline
+50 & color & 25470 \\ \hline
+				\end{tabular}
+			\end{center}  
+	\end{table}  
+	
+	\begin{table}
+		\caption{Collection2: Word Frequency Table}
+			\begin{center}
+				\begin{tabular}{ c | c | c }
+					\hline
+Rank & Word & Word Frequency \\ \hline
+1 & the & 41228 \\ \hline
+2 & to & 27058 \\ \hline
+3 & a & 23068 \\ \hline
+4 & and & 21496 \\ \hline
+5 & of & 17275 \\ \hline
+6 & in & 14449 \\ \hline
+7 & is & 11417 \\ \hline
+8 & you & 10493 \\ \hline
+9 & for & 8928 \\ \hline
+10 & this & 8494 \\ \hline
+11 & play & 8330 \\ \hline
+12 & on & 7955 \\ \hline
+13 & your & 7593 \\ \hline
+14 & that & 7545 \\ \hline
+15 & it & 7250 \\ \hline
+16 & now & 6905 \\ \hline
+17 & que & 6760 \\ \hline
+18 & with & 6335 \\ \hline
+19 & i & 5735 \\ \hline
+20 & are & 5187 \\ \hline
+21 & y & 5070 \\ \hline
+22 & as & 4928 \\ \hline
+23 & be & 4858 \\ \hline
+24 & next & 4632 \\ \hline
+25 & by & 4579 \\ \hline
+26 & have & 4355 \\ \hline
+27 & or & 4209 \\ \hline
+28 & not & 4119 \\ \hline
+29 & from & 3512 \\ \hline
+30 & no & 3486 \\ \hline
+31 & more & 3388 \\ \hline
+32 & at & 3301 \\ \hline
+33 & has & 3263 \\ \hline
+34 & was & 3191 \\ \hline
+35 & but & 3170 \\ \hline
+36 & will & 3101 \\ \hline
+37 & an & 3043 \\ \hline
+38 & we & 2961 \\ \hline
+39 & can & 2915 \\ \hline
+40 & if & 2764 \\ \hline
+41 & all & 2560 \\ \hline
+42 & up & 2402 \\ \hline
+43 & they & 2357 \\ \hline
+44 & he & 2284 \\ \hline
+45 & new & 2164 \\ \hline
+46 & add & 2151 \\ \hline
+47 & been & 2063 \\ \hline
+48 & get & 2049 \\ \hline
+49 & about & 2011 \\ \hline
+50 & when & 1991 \\ \hline
+				\end{tabular}
+			\end{center}  
+	\end{table}  
+  
+\end{enumerate}
+
+
+
+\newpage
+
+\subsection{Graphs}
+\begin{figure}[ht]    
+    \begin{center}
+        \includegraphics[scale=0.60]{plot_graph_c1.png}
+        \caption{Graph for Collection1}        
+    \end{center}
+\end{figure}
+
+\begin{figure}[ht]    
+    \begin{center}
+        \includegraphics[scale=0.60]{plot_graph_c2.png}
+        \caption{Graph for Collection2}        
+    \end{center}
+\end{figure}
+
+Zipf law states that the frequency of any word is inversely proportional to its rank. In the above two graphs the value on Y axis decreases as the value on the X axis increases, which indicates that the frequency of the word is inversely proportional to its rank. Hence, both the collections follow Zipf distribution.
+
+\newpage
+\subsection{Code Listing}
+\subsubsection{Collection 1: Python program to extract all the unique terms and their frequency from the 10,000 files generated by fetchWebpages.py}
+
+\lstinputlisting[language=Python,breaklines = true,frame=single, label=lst:q1-1,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{wordcount.py}
+\newpage
+
+\subsubsection{Collection 2: Python program to extract all the unique terms and their frequency of the 10,000 files after running boilerpipe}
+\lstinputlisting[language=Python,breaklines = true,frame=single,label=lst:q1-1,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{wordcountboilerpipe.py}
+\newpage
+
+\subsubsection{Collection 1: Ruby program using gnuplot to plot the word frequency distribution graph}
+\lstinputlisting[language=Ruby,breaklines = true,frame=single,label=lst:q1-1,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{plotgraphc1.rb}
+\newpage
+
+\subsubsection{Collection 2: Ruby program using gnuplot to plot the word frequency distribution graph}
+\lstinputlisting[language=Ruby,breaklines = true,frame=single,label=lst:q1-1,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{plotgraphc2.rb}
+
+\newpage
+
+\subsection{Stopword List}
+\begingroup
+\obeylines
+\input{stopwords.txt}
+\endgroup
+

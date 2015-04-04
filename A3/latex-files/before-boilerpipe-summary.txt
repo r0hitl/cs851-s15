@@ -1,0 +1,3 @@
+Total Words:	35106673
+Total Unique Words:	11041362
+Byte Size:	914 MB
