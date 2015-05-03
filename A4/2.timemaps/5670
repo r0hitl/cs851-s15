@@ -1,0 +1,20 @@
+{"original_uri":"http://Kimsdatastash.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://Kimsdatastash.com",
+"mementos": {
+"list": [
+{"datetime":"2015-02-02T01:06:35Z",
+"uri":"http://archive.is/20150202010635/http://kimsdatastash.com/"
+},
+{"datetime":"2015-02-08T15:17:46Z",
+"uri":"http://web.archive.org/web/20150208151746/http://kimsdatastash.com/"
+},
+{"datetime":"2015-03-14T20:19:34Z",
+"uri":"http://web.archive.org/web/20150314201934/http://kimsdatastash.com/"
+},
+{"datetime":"2015-03-16T16:11:35Z",
+"uri":"http://web.archive.org/web/20150316161135/http://kimsdatastash.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://Kimsdatastash.com"}
+ }

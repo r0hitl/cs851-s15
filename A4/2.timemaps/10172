@@ -1,0 +1,14 @@
+{"original_uri":"http://www.facebook.com/D.S.Williams.Author",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.facebook.com/D.S.Williams.Author",
+"mementos": {
+"list": [
+{"datetime":"2015-04-01T09:20:50Z",
+"uri":"//wayback.archive-it.org/all/20150401092050/https://www.facebook.com/D.S.Williams.Author"
+},
+{"datetime":"2015-04-01T09:20:50Z",
+"uri":"http://web.archive.org/web/20150401092050/https://www.facebook.com/D.S.Williams.Author"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.facebook.com/D.S.Williams.Author"}
+ }

@@ -1,0 +1,11 @@
+{"original_uri":"http://www.bbc.co.uk/sport/0/football/gossip/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.bbc.co.uk/sport/0/football/gossip/",
+"timemap_index": [
+{"from":"2012-02-01T20:03:16Z",
+"until":"2013-12-20T02:30:57Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://www.bbc.co.uk/sport/0/football/gossip/"
+},{"from":"2013-12-20T21:15:06Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://www.bbc.co.uk/sport/0/football/gossip/"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://www.bbc.co.uk/sport/0/football/gossip/",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://www.bbc.co.uk/sport/0/football/gossip/"
+}}

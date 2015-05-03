@@ -1,0 +1,17 @@
+{"original_uri":"http://www.nicovideo.jp/watch/sm25290210",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.nicovideo.jp/watch/sm25290210",
+"mementos": {
+"list": [
+{"datetime":"2015-01-08T08:20:47Z",
+"uri":"http://web.archive.org/web/20150108082047/http://www.nicovideo.jp/watch/sm25290210"
+},
+{"datetime":"2015-01-21T09:29:05Z",
+"uri":"http://web.archive.org/web/20150121092905/http://www.nicovideo.jp/watch/sm25290210"
+},
+{"datetime":"2015-04-09T15:57:33Z",
+"uri":"http://web.archive.org/web/20150409155733/http://www.nicovideo.jp/watch/sm25290210"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.nicovideo.jp/watch/sm25290210"}
+ }

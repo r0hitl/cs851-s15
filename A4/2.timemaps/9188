@@ -1,0 +1,11 @@
+{"original_uri":"http://www.weather.com/weather/today/27322",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.weather.com/weather/today/27322",
+"mementos": {
+"list": [
+{"datetime":"2011-01-24T04:09:35Z",
+"uri":"http://web.archive.org/web/20110124040935/http://www.weather.com/weather/today/27322"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.weather.com/weather/today/27322"}
+ }

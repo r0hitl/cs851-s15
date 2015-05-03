@@ -1,0 +1,11 @@
+{"original_uri":"http://johnnys-net-20xx.seesaa.net/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://johnnys-net-20xx.seesaa.net/",
+"mementos": {
+"list": [
+{"datetime":"2014-07-07T08:07:53Z",
+"uri":"http://web.archive.org/web/20140707080753/http://johnnys-net-20xx.seesaa.net/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://johnnys-net-20xx.seesaa.net/"}
+ }

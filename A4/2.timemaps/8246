@@ -1,0 +1,26 @@
+{"original_uri":"http://www.healthyaging.jp/pg44.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.healthyaging.jp/pg44.html",
+"mementos": {
+"list": [
+{"datetime":"2013-09-18T03:12:24Z",
+"uri":"http://web.archive.org/web/20130918031224/http://healthyaging.jp/pg44.html"
+},
+{"datetime":"2014-04-24T07:24:45Z",
+"uri":"http://web.archive.org/web/20140424072445/http://healthyaging.jp/pg44.html"
+},
+{"datetime":"2014-06-24T13:03:49Z",
+"uri":"http://web.archive.org/web/20140624130349/http://healthyaging.jp/pg44.html"
+},
+{"datetime":"2014-11-14T22:26:57Z",
+"uri":"http://web.archive.org/web/20141114222657/http://healthyaging.jp/pg44.html"
+},
+{"datetime":"2015-02-11T07:20:03Z",
+"uri":"http://web.archive.org/web/20150211072003/http://healthyaging.jp/pg44.html"
+},
+{"datetime":"2015-02-15T10:06:55Z",
+"uri":"http://web.archive.org/web/20150215100655/http://www.healthyaging.jp/pg44.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.healthyaging.jp/pg44.html"}
+ }

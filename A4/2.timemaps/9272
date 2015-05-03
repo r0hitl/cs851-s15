@@ -1,0 +1,14 @@
+{"original_uri":"http://vimeo.com/114113372",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://vimeo.com/114113372",
+"mementos": {
+"list": [
+{"datetime":"2015-01-13T19:02:17Z",
+"uri":"http://web.archive.org/web/20150113190217/http://vimeo.com/114113372"
+},
+{"datetime":"2015-01-21T13:45:17Z",
+"uri":"http://web.archive.org/web/20150121134517/http://vimeo.com/114113372"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://vimeo.com/114113372"}
+ }

@@ -1,0 +1,23 @@
+{"original_uri":"http://paper.li/totaltelecom/1387214042",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://paper.li/totaltelecom/1387214042",
+"mementos": {
+"list": [
+{"datetime":"2014-04-03T21:09:20Z",
+"uri":"http://web.archive.org/web/20140403210920/http://paper.li/totaltelecom/1387214042"
+},
+{"datetime":"2014-04-05T08:30:50Z",
+"uri":"http://web.archive.org/web/20140405083050/http://paper.li/totaltelecom/1387214042"
+},
+{"datetime":"2014-05-05T01:32:59Z",
+"uri":"http://web.archive.org/web/20140505013259/http://paper.li/totaltelecom/1387214042"
+},
+{"datetime":"2014-07-11T10:40:14Z",
+"uri":"http://web.archive.org/web/20140711104014/http://paper.li/totaltelecom/1387214042"
+},
+{"datetime":"2014-08-12T09:02:40Z",
+"uri":"http://web.archive.org/web/20140812090240/http://paper.li/totaltelecom/1387214042"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://paper.li/totaltelecom/1387214042"}
+ }

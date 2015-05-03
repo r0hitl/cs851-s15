@@ -1,0 +1,14 @@
+{"original_uri":"http://cafe.naver.com/taobaomart",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://cafe.naver.com/taobaomart",
+"mementos": {
+"list": [
+{"datetime":"2012-08-30T00:10:34Z",
+"uri":"http://web.archive.org/web/20120830001034/http://cafe.naver.com/taobaomart?"
+},
+{"datetime":"2012-09-30T11:39:23Z",
+"uri":"http://web.archive.org/web/20120930113923/http://cafe.naver.com/taobaomart?"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://cafe.naver.com/taobaomart"}
+ }

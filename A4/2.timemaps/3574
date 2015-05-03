@@ -1,0 +1,20 @@
+{"original_uri":"http://www.sankei.com/politics/news/150203/plt1502030036-n1.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.sankei.com/politics/news/150203/plt1502030036-n1.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T09:25:19Z",
+"uri":"http://web.archive.org/web/20150203092519/http://www.sankei.com/politics/news/150203/plt1502030036-n1.html"
+},
+{"datetime":"2015-02-03T09:25:59Z",
+"uri":"http://archive.is/20150203092559/http://www.sankei.com/politics/news/150203/plt1502030036-n1.html"
+},
+{"datetime":"2015-02-03T15:07:44Z",
+"uri":"http://web.archive.org/web/20150203150744/http://www.sankei.com/politics/news/150203/plt1502030036-n1.html"
+},
+{"datetime":"2015-04-12T18:40:16Z",
+"uri":"http://web.archive.org/web/20150412184016/http://www.sankei.com/politics/news/150203/plt1502030036-n1.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.sankei.com/politics/news/150203/plt1502030036-n1.html"}
+ }

@@ -1,0 +1,17 @@
+{"original_uri":"http://batross.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://batross.com",
+"mementos": {
+"list": [
+{"datetime":"2009-06-13T04:54:18Z",
+"uri":"http://web.archive.org/web/20090613045418/http://www.batross.com/"
+},
+{"datetime":"2009-07-14T00:29:49Z",
+"uri":"http://web.archive.org/web/20090714002949/http://www.batross.com/"
+},
+{"datetime":"2015-04-26T01:26:55Z",
+"uri":"http://web.archive.org/web/20150426012655/http://batross.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://batross.com"}
+ }

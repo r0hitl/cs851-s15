@@ -1,0 +1,47 @@
+{"original_uri":"http://www.youtube.com/watch?v=IF8kySIcWNw",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.youtube.com/watch?v=IF8kySIcWNw",
+"mementos": {
+"list": [
+{"datetime":"2014-10-15T02:03:44Z",
+"uri":"http://web.archive.org/web/20141015020344/http://www.youtube.com/watch?v=IF8kySIcWNw"
+},
+{"datetime":"2014-11-26T03:15:38Z",
+"uri":"http://web.archive.org/web/20141126031538/http://www.youtube.com/watch?v=IF8kySIcWNw"
+},
+{"datetime":"2014-11-26T03:15:38Z",
+"uri":"//wayback.archive-it.org/all/20141126031538/http://www.youtube.com/watch?v=IF8kySIcWNw"
+},
+{"datetime":"2014-12-17T19:10:14Z",
+"uri":"http://web.archive.org/web/20141217191014/http://www.youtube.com/watch?v=IF8kySIcWNw"
+},
+{"datetime":"2014-12-17T19:10:14Z",
+"uri":"//wayback.archive-it.org/all/20141217191014/http://www.youtube.com/watch?v=IF8kySIcWNw"
+},
+{"datetime":"2014-12-31T18:38:00Z",
+"uri":"http://web.archive.org/web/20141231183800/http://www.youtube.com/watch?v=IF8kySIcWNw"
+},
+{"datetime":"2014-12-31T18:38:01Z",
+"uri":"http://web.archive.org/web/20141231183801/https://www.youtube.com/watch?v=IF8kySIcWNw"
+},
+{"datetime":"2015-01-29T17:08:34Z",
+"uri":"http://web.archive.org/web/20150129170834/http://www.youtube.com/watch?v=IF8kySIcWNw"
+},
+{"datetime":"2015-01-29T17:08:35Z",
+"uri":"http://web.archive.org/web/20150129170835/https://www.youtube.com/watch?v=IF8kySIcWNw"
+},
+{"datetime":"2015-02-26T03:40:25Z",
+"uri":"http://web.archive.org/web/20150226034025/http://www.youtube.com/watch?v=IF8kySIcWNw"
+},
+{"datetime":"2015-02-26T03:40:25Z",
+"uri":"//wayback.archive-it.org/all/20150226034025/http://www.youtube.com/watch?v=IF8kySIcWNw"
+},
+{"datetime":"2015-02-26T03:56:19Z",
+"uri":"http://web.archive.org/web/20150226035619/https://www.youtube.com/watch?v=IF8kySIcWNw"
+},
+{"datetime":"2015-02-26T03:56:19Z",
+"uri":"//wayback.archive-it.org/all/20150226035619/https://www.youtube.com/watch?v=IF8kySIcWNw"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.youtube.com/watch?v=IF8kySIcWNw"}
+ }

@@ -1,0 +1,11 @@
+{"original_uri":"http://russian.rt.com/article/72113",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://russian.rt.com/article/72113",
+"mementos": {
+"list": [
+{"datetime":"2015-02-05T01:59:36Z",
+"uri":"http://web.archive.org/web/20150205015936/http://russian.rt.com/article/72113"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://russian.rt.com/article/72113"}
+ }

@@ -1,0 +1,11 @@
+{"original_uri":"http://headlines.yahoo.co.jp/hl?a=20150203-00277788-soccerk-socc",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://headlines.yahoo.co.jp/hl?a=20150203-00277788-soccerk-socc",
+"mementos": {
+"list": [
+{"datetime":"2015-04-04T01:13:57Z",
+"uri":"http://web.archive.org/web/20150404011357/http://headlines.yahoo.co.jp/hl?a=20150203-00277788-soccerk-socc"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://headlines.yahoo.co.jp/hl?a=20150203-00277788-soccerk-socc"}
+ }

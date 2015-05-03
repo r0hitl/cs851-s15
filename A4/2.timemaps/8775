@@ -1,0 +1,11 @@
+{"original_uri":"http://Wholi.net/connect.php",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://Wholi.net/connect.php",
+"mementos": {
+"list": [
+{"datetime":"2015-04-07T00:52:03Z",
+"uri":"http://archive.is/20150407005203/http://wholi.net/connect.php"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://Wholi.net/connect.php"}
+ }

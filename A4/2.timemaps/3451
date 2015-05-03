@@ -1,0 +1,14 @@
+{"original_uri":"http://www.gbb-procesmanagement.nl/kwaliteit/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.gbb-procesmanagement.nl/kwaliteit/",
+"mementos": {
+"list": [
+{"datetime":"2013-04-25T14:11:42Z",
+"uri":"http://web.archive.org/web/20130425141142/http://www.gbb-procesmanagement.nl/kwaliteit/"
+},
+{"datetime":"2014-08-25T20:06:36Z",
+"uri":"http://web.archive.org/web/20140825200636/http://www.gbb-procesmanagement.nl/kwaliteit/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.gbb-procesmanagement.nl/kwaliteit/"}
+ }

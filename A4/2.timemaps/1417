@@ -1,0 +1,38 @@
+{"original_uri":"http://mashable.com/2015/02/02/super-bowl-regional-ads/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://mashable.com/2015/02/02/super-bowl-regional-ads/",
+"mementos": {
+"list": [
+{"datetime":"2015-03-17T16:46:52Z",
+"uri":"http://web.archive.org/web/20150317164652/http://mashable.com/2015/02/02/super-bowl-regional-ads/"
+},
+{"datetime":"2015-03-24T02:54:43Z",
+"uri":"http://web.archive.org/web/20150324025443/http://mashable.com/2015/02/02/super-bowl-regional-ads"
+},
+{"datetime":"2015-03-24T02:55:45Z",
+"uri":"http://web.archive.org/web/20150324025545/http://mashable.com/2015/02/02/super-bowl-regional-ads/"
+},
+{"datetime":"2015-04-07T08:56:46Z",
+"uri":"http://web.archive.org/web/20150407085646/http://mashable.com/2015/02/02/super-bowl-regional-ads"
+},
+{"datetime":"2015-04-07T08:57:18Z",
+"uri":"http://web.archive.org/web/20150407085718/http://mashable.com/2015/02/02/super-bowl-regional-ads/"
+},
+{"datetime":"2015-04-14T09:19:30Z",
+"uri":"http://web.archive.org/web/20150414091930/http://mashable.com/2015/02/02/super-bowl-regional-ads"
+},
+{"datetime":"2015-04-14T09:20:02Z",
+"uri":"http://web.archive.org/web/20150414092002/http://mashable.com/2015/02/02/super-bowl-regional-ads/"
+},
+{"datetime":"2015-04-19T09:12:04Z",
+"uri":"http://web.archive.org/web/20150419091204/http://mashable.com/2015/02/02/super-bowl-regional-ads/"
+},
+{"datetime":"2015-04-21T07:01:54Z",
+"uri":"http://web.archive.org/web/20150421070154/http://mashable.com/2015/02/02/super-bowl-regional-ads"
+},
+{"datetime":"2015-04-21T07:03:19Z",
+"uri":"http://web.archive.org/web/20150421070319/http://mashable.com/2015/02/02/super-bowl-regional-ads/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://mashable.com/2015/02/02/super-bowl-regional-ads/"}
+ }

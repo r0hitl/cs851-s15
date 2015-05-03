@@ -1,0 +1,14 @@
+{"original_uri":"http://headlines.yahoo.co.jp/hl?a=20150203-00327418-gekisaka-socc",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://headlines.yahoo.co.jp/hl?a=20150203-00327418-gekisaka-socc",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T08:50:26Z",
+"uri":"http://web.archive.org/web/20150203085026/http://headlines.yahoo.co.jp/hl?a=20150203-00327418-gekisaka-socc"
+},
+{"datetime":"2015-02-03T08:56:47Z",
+"uri":"http://web.archive.org/web/20150203085647/http://headlines.yahoo.co.jp/hl?a=20150203-00327418-gekisaka-socc"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://headlines.yahoo.co.jp/hl?a=20150203-00327418-gekisaka-socc"}
+ }

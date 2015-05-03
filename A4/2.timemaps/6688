@@ -1,0 +1,20 @@
+{"original_uri":"http://MissysPorn.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://MissysPorn.com",
+"mementos": {
+"list": [
+{"datetime":"2014-01-01T01:01:20Z",
+"uri":"http://web.archive.org/web/20140101010120/http://missysporn.com/"
+},
+{"datetime":"2014-02-07T22:50:27Z",
+"uri":"http://web.archive.org/web/20140207225027/http://www.missysporn.com/"
+},
+{"datetime":"2014-05-17T15:25:56Z",
+"uri":"http://web.archive.org/web/20140517152556/http://missysporn.com/"
+},
+{"datetime":"2014-12-17T12:15:25Z",
+"uri":"http://web.archive.org/web/20141217121525/http://missysporn.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://MissysPorn.com"}
+ }

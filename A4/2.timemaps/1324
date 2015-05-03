@@ -1,0 +1,20 @@
+{"original_uri":"http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4",
+"mementos": {
+"list": [
+{"datetime":"2009-05-25T03:44:40Z",
+"uri":"http://web.archive.org/web/20090525034440/http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4"
+},
+{"datetime":"2013-10-05T05:50:30Z",
+"uri":"http://web.archive.org/web/20131005055030/http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4"
+},
+{"datetime":"2014-04-09T13:48:27Z",
+"uri":"http://web.archive.org/web/20140409134827/http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4"
+},
+{"datetime":"2015-02-24T23:49:24Z",
+"uri":"http://web.archive.org/web/20150224234924/http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4"}
+ }

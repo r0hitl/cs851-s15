@@ -1,0 +1,11 @@
+{"original_uri":"http://shindanmaker.com/513512",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://shindanmaker.com/513512",
+"mementos": {
+"list": [
+{"datetime":"2015-04-05T05:22:58Z",
+"uri":"http://web.archive.org/web/20150405052258/http://shindanmaker.com/513512"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://shindanmaker.com/513512"}
+ }

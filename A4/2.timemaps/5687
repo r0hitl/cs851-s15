@@ -1,0 +1,32 @@
+{"original_uri":"http://mydirtydesires.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://mydirtydesires.com",
+"mementos": {
+"list": [
+{"datetime":"2013-06-15T11:02:09Z",
+"uri":"http://web.archive.org/web/20130615110209/http://mydirtydesires.com/"
+},
+{"datetime":"2014-01-02T10:43:06Z",
+"uri":"http://web.archive.org/web/20140102104306/http://mydirtydesires.com/"
+},
+{"datetime":"2014-05-17T14:25:39Z",
+"uri":"http://web.archive.org/web/20140517142539/http://mydirtydesires.com/"
+},
+{"datetime":"2014-12-17T23:13:01Z",
+"uri":"http://web.archive.org/web/20141217231301/http://mydirtydesires.com/"
+},
+{"datetime":"2015-01-07T14:57:40Z",
+"uri":"//wayback.archive-it.org/all/20150107145740/http://mydirtydesires.com/"
+},
+{"datetime":"2015-01-07T14:57:40Z",
+"uri":"http://web.archive.org/web/20150107145740/http://mydirtydesires.com/"
+},
+{"datetime":"2015-01-08T08:39:30Z",
+"uri":"//wayback.archive-it.org/all/20150108083930/http://mydirtydesires.com/"
+},
+{"datetime":"2015-01-08T08:39:30Z",
+"uri":"http://web.archive.org/web/20150108083930/http://mydirtydesires.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://mydirtydesires.com"}
+ }

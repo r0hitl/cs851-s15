@@ -1,0 +1,11 @@
+{"original_uri":"http://twitter.com/mousaalmousa",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://twitter.com/mousaalmousa",
+"mementos": {
+"list": [
+{"datetime":"2012-04-21T22:36:14Z",
+"uri":"http://web.archive.org/web/20120421223614/http://twitter.com/mousaalmousa"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://twitter.com/mousaalmousa"}
+ }

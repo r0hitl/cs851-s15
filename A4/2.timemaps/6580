@@ -1,0 +1,11 @@
+{"original_uri":"http://nginx.com/oreilly-building-microservices/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://nginx.com/oreilly-building-microservices/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-11T10:56:19Z",
+"uri":"http://web.archive.org/web/20150211105619/http://nginx.com/oreilly-building-microservices/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://nginx.com/oreilly-building-microservices/"}
+ }

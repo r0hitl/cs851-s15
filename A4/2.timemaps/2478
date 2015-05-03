@@ -1,0 +1,17 @@
+{"original_uri":"http://bylines.news.yahoo.co.jp/kuriharakiyoshi/20150203-00042767/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://bylines.news.yahoo.co.jp/kuriharakiyoshi/20150203-00042767/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T03:04:56Z",
+"uri":"http://archive.is/20150203030456/http://bylines.news.yahoo.co.jp/kuriharakiyoshi/20150203-00042767/"
+},
+{"datetime":"2015-02-03T03:05:16Z",
+"uri":"http://web.archive.org/web/20150203030516/http://bylines.news.yahoo.co.jp/kuriharakiyoshi/20150203-00042767/"
+},
+{"datetime":"2015-04-02T21:44:28Z",
+"uri":"http://web.archive.org/web/20150402214428/http://bylines.news.yahoo.co.jp/kuriharakiyoshi/20150203-00042767/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://bylines.news.yahoo.co.jp/kuriharakiyoshi/20150203-00042767/"}
+ }

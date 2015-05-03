@@ -1,0 +1,23 @@
+{"original_uri":"http://www.bbc.co.uk/news/uk-scotland-glasgow-west-31091808",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.bbc.co.uk/news/uk-scotland-glasgow-west-31091808",
+"mementos": {
+"list": [
+{"datetime":"2015-02-02T10:20:45Z",
+"uri":"http://web.archive.org/web/20150202102045/http://www.bbc.co.uk/news/uk-scotland-glasgow-west-31091808"
+},
+{"datetime":"2015-02-03T05:14:42Z",
+"uri":"http://archive.is/20150203051442/http://www.bbc.co.uk/news/uk-scotland-glasgow-west-31091808"
+},
+{"datetime":"2015-02-08T05:02:24Z",
+"uri":"//wayback.archive-it.org/all/20150208050224/http://www.bbc.co.uk/news/uk-scotland-glasgow-west-31091808"
+},
+{"datetime":"2015-02-08T05:02:24Z",
+"uri":"http://web.archive.org/web/20150208050224/http://www.bbc.co.uk/news/uk-scotland-glasgow-west-31091808"
+},
+{"datetime":"2015-04-06T14:57:04Z",
+"uri":"http://web.archive.org/web/20150406145704/http://www.bbc.co.uk/news/uk-scotland-glasgow-west-31091808"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.bbc.co.uk/news/uk-scotland-glasgow-west-31091808"}
+ }

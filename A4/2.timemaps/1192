@@ -1,0 +1,20 @@
+{"original_uri":"http://ameblo.jp/twinklelovereiki/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://ameblo.jp/twinklelovereiki/",
+"mementos": {
+"list": [
+{"datetime":"2012-11-19T10:48:47Z",
+"uri":"http://web.archive.org/web/20121119104847/http://ameblo.jp/twinklelovereiki/"
+},
+{"datetime":"2013-06-01T03:24:15Z",
+"uri":"http://web.archive.org/web/20130601032415/http://ameblo.jp/twinklelovereiki/"
+},
+{"datetime":"2013-12-14T03:37:38Z",
+"uri":"http://web.archive.org/web/20131214033738/http://ameblo.jp/twinklelovereiki/"
+},
+{"datetime":"2015-02-25T00:17:11Z",
+"uri":"http://web.archive.org/web/20150225001711/http://ameblo.jp/twinklelovereiki/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://ameblo.jp/twinklelovereiki/"}
+ }

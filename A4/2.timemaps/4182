@@ -1,0 +1,14 @@
+{"original_uri":"http://internacional.elpais.com/internacional/2015/02/02/actualidad/1422900121_388403.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://internacional.elpais.com/internacional/2015/02/02/actualidad/1422900121_388403.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T11:53:34Z",
+"uri":"http://web.archive.org/web/20150203115334/http://internacional.elpais.com/internacional/2015/02/02/actualidad/1422900121_388403.html"
+},
+{"datetime":"2015-04-21T07:28:00Z",
+"uri":"http://web.archive.org/web/20150421072800/http://internacional.elpais.com/internacional/2015/02/02/actualidad/1422900121_388403.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://internacional.elpais.com/internacional/2015/02/02/actualidad/1422900121_388403.html"}
+ }

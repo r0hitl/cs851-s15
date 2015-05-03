@@ -1,0 +1,20 @@
+{"original_uri":"http://nagoyamosque.com/3107.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://nagoyamosque.com/3107.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-02T23:34:43Z",
+"uri":"http://archive.is/20150202233443/http://nagoyamosque.com/3107.html"
+},
+{"datetime":"2015-02-03T02:15:19Z",
+"uri":"http://web.archive.org/web/20150203021519/http://nagoyamosque.com/3107.html"
+},
+{"datetime":"2015-02-03T02:15:21Z",
+"uri":"http://archive.is/20150203021521/http://nagoyamosque.com/3107.html"
+},
+{"datetime":"2015-02-08T07:26:24Z",
+"uri":"http://web.archive.org/web/20150208072624/http://nagoyamosque.com/3107.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://nagoyamosque.com/3107.html"}
+ }

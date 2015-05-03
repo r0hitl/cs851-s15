@@ -1,0 +1,20 @@
+{"original_uri":"http://syrup-zakka.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://syrup-zakka.com",
+"mementos": {
+"list": [
+{"datetime":"2014-03-30T05:53:10Z",
+"uri":"http://web.archive.org/web/20140330055310/http://syrup-zakka.com/"
+},
+{"datetime":"2014-04-12T22:52:54Z",
+"uri":"http://web.archive.org/web/20140412225254/http://syrup-zakka.com/"
+},
+{"datetime":"2014-07-02T10:07:30Z",
+"uri":"http://web.archive.org/web/20140702100730/http://syrup-zakka.com/"
+},
+{"datetime":"2014-12-18T08:52:42Z",
+"uri":"http://web.archive.org/web/20141218085242/http://syrup-zakka.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://syrup-zakka.com"}
+ }

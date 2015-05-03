@@ -1,0 +1,62 @@
+{"original_uri":"http://www.sns48.com/pazudora/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.sns48.com/pazudora/",
+"mementos": {
+"list": [
+{"datetime":"2013-02-05T05:08:27Z",
+"uri":"http://web.archive.org/web/20130205050827/http://sns48.com/pazudora"
+},
+{"datetime":"2013-02-05T05:08:27Z",
+"uri":"http://web.archive.org/web/20130205050827/http://sns48.com/pazudora/"
+},
+{"datetime":"2013-02-07T00:06:31Z",
+"uri":"http://web.archive.org/web/20130207000631/http://sns48.com/pazudora/"
+},
+{"datetime":"2013-03-08T10:22:15Z",
+"uri":"http://web.archive.org/web/20130308102215/http://sns48.com/pazudora"
+},
+{"datetime":"2013-03-08T10:22:15Z",
+"uri":"http://web.archive.org/web/20130308102215/http://sns48.com/pazudora/"
+},
+{"datetime":"2013-04-08T08:30:24Z",
+"uri":"http://web.archive.org/web/20130408083024/http://sns48.com/pazudora"
+},
+{"datetime":"2013-04-08T08:30:24Z",
+"uri":"http://web.archive.org/web/20130408083024/http://sns48.com/pazudora/"
+},
+{"datetime":"2013-05-09T02:03:43Z",
+"uri":"http://web.archive.org/web/20130509020343/http://sns48.com/pazudora"
+},
+{"datetime":"2013-05-09T02:03:43Z",
+"uri":"http://web.archive.org/web/20130509020343/http://sns48.com/pazudora/"
+},
+{"datetime":"2013-05-10T09:48:36Z",
+"uri":"http://web.archive.org/web/20130510094836/http://sns48.com/pazudora"
+},
+{"datetime":"2013-05-10T09:48:36Z",
+"uri":"http://web.archive.org/web/20130510094836/http://sns48.com/pazudora/"
+},
+{"datetime":"2013-06-15T06:40:32Z",
+"uri":"http://web.archive.org/web/20130615064032/http://sns48.com/pazudora/"
+},
+{"datetime":"2013-06-27T17:50:54Z",
+"uri":"http://web.archive.org/web/20130627175054/http://sns48.com/pazudora"
+},
+{"datetime":"2013-06-27T17:50:54Z",
+"uri":"http://web.archive.org/web/20130627175054/http://sns48.com/pazudora/"
+},
+{"datetime":"2013-07-29T09:58:49Z",
+"uri":"http://web.archive.org/web/20130729095849/http://sns48.com/pazudora"
+},
+{"datetime":"2013-07-29T09:58:49Z",
+"uri":"http://web.archive.org/web/20130729095849/http://sns48.com/pazudora/"
+},
+{"datetime":"2013-08-30T03:37:47Z",
+"uri":"http://web.archive.org/web/20130830033747/http://sns48.com/pazudora"
+},
+{"datetime":"2013-08-30T03:37:47Z",
+"uri":"http://web.archive.org/web/20130830033747/http://sns48.com/pazudora/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.sns48.com/pazudora/"}
+ }

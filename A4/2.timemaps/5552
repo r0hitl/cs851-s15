@@ -1,0 +1,26 @@
+{"original_uri":"http://www.elsatower32.org/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.elsatower32.org/",
+"mementos": {
+"list": [
+{"datetime":"2013-11-29T18:44:13Z",
+"uri":"http://web.archive.org/web/20131129184413/http://www.elsatower32.org/"
+},
+{"datetime":"2014-05-17T07:23:10Z",
+"uri":"http://web.archive.org/web/20140517072310/http://elsatower32.org/"
+},
+{"datetime":"2014-08-11T04:48:13Z",
+"uri":"http://web.archive.org/web/20140811044813/http://www.elsatower32.org/"
+},
+{"datetime":"2014-12-17T10:15:51Z",
+"uri":"http://web.archive.org/web/20141217101551/http://elsatower32.org/"
+},
+{"datetime":"2015-04-06T19:11:25Z",
+"uri":"http://web.archive.org/web/20150406191125/http://www.elsatower32.org/"
+},
+{"datetime":"2015-04-06T20:24:48Z",
+"uri":"http://web.archive.org/web/20150406202448/http://elsatower32.org/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.elsatower32.org/"}
+ }

@@ -1,0 +1,20 @@
+{"original_uri":"http://runwarrenrun.org/?rc=tw",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://runwarrenrun.org/?rc=tw",
+"mementos": {
+"list": [
+{"datetime":"2015-01-08T23:31:22Z",
+"uri":"//wayback.archive-it.org/all/20150108233122/http://runwarrenrun.org/?rc=tw"
+},
+{"datetime":"2015-01-08T23:31:22Z",
+"uri":"http://web.archive.org/web/20150108233122/http://runwarrenrun.org/?rc=tw"
+},
+{"datetime":"2015-01-13T06:41:07Z",
+"uri":"//wayback.archive-it.org/all/20150113064107/http://runwarrenrun.org/?rc=tw"
+},
+{"datetime":"2015-01-13T06:41:07Z",
+"uri":"http://web.archive.org/web/20150113064107/http://runwarrenrun.org/?rc=tw"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://runwarrenrun.org/?rc=tw"}
+ }

@@ -1,0 +1,23 @@
+{"original_uri":"http://Grd5.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://Grd5.com",
+"mementos": {
+"list": [
+{"datetime":"2013-12-21T13:03:25Z",
+"uri":"http://web.archive.org/web/20131221130325/http://grd5.com/"
+},
+{"datetime":"2013-12-22T10:31:44Z",
+"uri":"http://web.archive.org/web/20131222103144/http://grd5.com/"
+},
+{"datetime":"2014-01-01T10:02:10Z",
+"uri":"http://web.archive.org/web/20140101100210/http://grd5.com/"
+},
+{"datetime":"2014-05-17T11:28:36Z",
+"uri":"http://web.archive.org/web/20140517112836/http://grd5.com/"
+},
+{"datetime":"2014-12-17T07:36:12Z",
+"uri":"http://web.archive.org/web/20141217073612/http://grd5.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://Grd5.com"}
+ }

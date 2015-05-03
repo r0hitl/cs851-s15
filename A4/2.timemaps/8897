@@ -1,0 +1,11 @@
+{"original_uri":"http://kazantakipci.com/connect.php",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://kazantakipci.com/connect.php",
+"mementos": {
+"list": [
+{"datetime":"2015-04-07T07:49:05Z",
+"uri":"http://archive.is/20150407074905/http://kazantakipci.com/connect.php"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://kazantakipci.com/connect.php"}
+ }

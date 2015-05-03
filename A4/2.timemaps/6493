@@ -1,0 +1,32 @@
+{"original_uri":"http://www.ntv.com.tr/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.ntv.com.tr/",
+"mementos": {
+"list": [
+{"datetime":"2007-07-28T14:37:36Z",
+"uri":"//wayback.archive-it.org/all/20070728143736/http://www.ntv.com.tr/"
+},
+{"datetime":"2007-08-02T13:02:42Z",
+"uri":"//wayback.archive-it.org/all/20070802130242/http://www.ntv.com.tr/"
+},
+{"datetime":"2007-08-07T00:45:00Z",
+"uri":"//wayback.archive-it.org/all/20070807004500/http://www.ntv.com.tr/"
+},
+{"datetime":"2010-06-05T16:18:08Z",
+"uri":"//wayback.archive-it.org/all/20100605161808/http://www.ntv.com.tr/"
+},
+{"datetime":"2014-12-21T19:52:21Z",
+"uri":"http://archive.is/20141221195221/http://www.ntv.com.tr/"
+},
+{"datetime":"2015-04-07T01:57:22Z",
+"uri":"//wayback.archive-it.org/all/20150407015722/http://www.ntv.com.tr/"
+},
+{"datetime":"2015-04-20T18:26:40Z",
+"uri":"http://archive.is/20150420182640/http://www.ntv.com.tr/"
+},
+{"datetime":"2015-04-20T18:26:47Z",
+"uri":"http://archive.is/20150420182647/http://www.ntv.com.tr/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.ntv.com.tr/"}
+ }

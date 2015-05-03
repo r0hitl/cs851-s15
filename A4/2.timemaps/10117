@@ -1,0 +1,26 @@
+{"original_uri":"http://r.gnavi.co.jp/fauy800/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://r.gnavi.co.jp/fauy800/",
+"mementos": {
+"list": [
+{"datetime":"2013-05-08T13:10:19Z",
+"uri":"http://web.archive.org/web/20130508131019/http://r.gnavi.co.jp/fauy800/"
+},
+{"datetime":"2013-06-23T07:42:11Z",
+"uri":"http://web.archive.org/web/20130623074211/http://r.gnavi.co.jp/fauy800"
+},
+{"datetime":"2013-07-15T01:02:16Z",
+"uri":"http://web.archive.org/web/20130715010216/http://r.gnavi.co.jp/fauy800/"
+},
+{"datetime":"2013-09-16T08:24:49Z",
+"uri":"http://web.archive.org/web/20130916082449/http://r.gnavi.co.jp/fauy800/"
+},
+{"datetime":"2013-12-14T09:28:17Z",
+"uri":"http://web.archive.org/web/20131214092817/http://r.gnavi.co.jp/fauy800/"
+},
+{"datetime":"2014-02-28T05:58:11Z",
+"uri":"http://web.archive.org/web/20140228055811/http://r.gnavi.co.jp/fauy800"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://r.gnavi.co.jp/fauy800/"}
+ }

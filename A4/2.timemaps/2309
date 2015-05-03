@@ -1,0 +1,11 @@
+{"original_uri":"http://GistMp3.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://GistMp3.com",
+"mementos": {
+"list": [
+{"datetime":"2015-03-15T17:14:47Z",
+"uri":"http://web.archive.org/web/20150315171447/http://gistmp3.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://GistMp3.com"}
+ }

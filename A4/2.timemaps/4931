@@ -1,0 +1,14 @@
+{"original_uri":"http://twitter.com/qp04",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://twitter.com/qp04",
+"mementos": {
+"list": [
+{"datetime":"2013-11-27T03:55:13Z",
+"uri":"http://web.archive.org/web/20131127035513/http://twitter.com/qp04"
+},
+{"datetime":"2014-01-08T11:54:01Z",
+"uri":"http://web.archive.org/web/20140108115401/https://twitter.com/qp04"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://twitter.com/qp04"}
+ }

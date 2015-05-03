@@ -1,0 +1,65 @@
+{"original_uri":"http://radio.wub-fur.us",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://radio.wub-fur.us",
+"mementos": {
+"list": [
+{"datetime":"2006-12-28T18:42:14Z",
+"uri":"http://web.archive.org/web/20061228184214/http://radio.wub-fur.us/"
+},
+{"datetime":"2008-04-30T15:58:20Z",
+"uri":"http://web.archive.org/web/20080430155820/http://radio.wub-fur.us/"
+},
+{"datetime":"2008-09-28T23:04:18Z",
+"uri":"http://web.archive.org/web/20080928230418/http://radio.wub-fur.us/"
+},
+{"datetime":"2010-10-27T08:35:16Z",
+"uri":"http://web.archive.org/web/20101027083516/http://radio.wub-fur.us/"
+},
+{"datetime":"2011-05-19T16:16:19Z",
+"uri":"http://web.archive.org/web/20110519161619/http://radio.wub-fur.us/"
+},
+{"datetime":"2011-07-23T06:27:12Z",
+"uri":"http://web.archive.org/web/20110723062712/http://radio.wub-fur.us/"
+},
+{"datetime":"2011-09-05T08:36:12Z",
+"uri":"http://web.archive.org/web/20110905083612/http://radio.wub-fur.us/"
+},
+{"datetime":"2011-11-10T23:41:05Z",
+"uri":"http://web.archive.org/web/20111110234105/http://radio.wub-fur.us/"
+},
+{"datetime":"2011-11-17T21:34:44Z",
+"uri":"http://web.archive.org/web/20111117213444/http://radio.wub-fur.us/"
+},
+{"datetime":"2011-12-11T08:06:51Z",
+"uri":"http://web.archive.org/web/20111211080651/http://radio.wub-fur.us/"
+},
+{"datetime":"2012-01-24T12:24:56Z",
+"uri":"http://web.archive.org/web/20120124122456/http://radio.wub-fur.us/"
+},
+{"datetime":"2012-06-09T05:07:21Z",
+"uri":"http://web.archive.org/web/20120609050721/http://radio.wub-fur.us/"
+},
+{"datetime":"2012-08-15T19:04:17Z",
+"uri":"http://web.archive.org/web/20120815190417/http://radio.wub-fur.us/"
+},
+{"datetime":"2012-10-29T09:13:32Z",
+"uri":"http://web.archive.org/web/20121029091332/http://radio.wub-fur.us/"
+},
+{"datetime":"2013-05-02T23:38:35Z",
+"uri":"http://web.archive.org/web/20130502233835/http://radio.wub-fur.us/"
+},
+{"datetime":"2013-11-02T22:06:15Z",
+"uri":"http://web.archive.org/web/20131102220615/http://radio.wub-fur.us/"
+},
+{"datetime":"2014-01-05T14:58:21Z",
+"uri":"http://archive.is/20140105145821/http://radio.wub-fur.us/"
+},
+{"datetime":"2014-08-10T05:31:32Z",
+"uri":"http://web.archive.org/web/20140810053132/http://radio.wub-fur.us/"
+},
+{"datetime":"2015-04-26T02:20:01Z",
+"uri":"http://web.archive.org/web/20150426022001/http://radio.wub-fur.us/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://radio.wub-fur.us"}
+ }

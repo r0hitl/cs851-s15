@@ -1,0 +1,26 @@
+{"original_uri":"http://internet.watch.impress.co.jp/docs/news/20150203_686605.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://internet.watch.impress.co.jp/docs/news/20150203_686605.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T08:47:07Z",
+"uri":"http://web.archive.org/web/20150203084707/http://internet.watch.impress.co.jp/docs/news/20150203_686605.html"
+},
+{"datetime":"2015-02-03T08:47:51Z",
+"uri":"http://archive.is/20150203084751/http://internet.watch.impress.co.jp/docs/news/20150203_686605.html"
+},
+{"datetime":"2015-02-03T08:59:49Z",
+"uri":"http://archive.is/20150203085949/http://internet.watch.impress.co.jp/docs/news/20150203_686605.html"
+},
+{"datetime":"2015-02-03T08:59:52Z",
+"uri":"http://web.archive.org/web/20150203085952/http://internet.watch.impress.co.jp/docs/news/20150203_686605.html"
+},
+{"datetime":"2015-02-04T12:02:25Z",
+"uri":"http://web.archive.org/web/20150204120225/http://internet.watch.impress.co.jp/docs/news/20150203_686605.html"
+},
+{"datetime":"2015-04-13T11:27:19Z",
+"uri":"http://web.archive.org/web/20150413112719/http://internet.watch.impress.co.jp/docs/news/20150203_686605.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://internet.watch.impress.co.jp/docs/news/20150203_686605.html"}
+ }

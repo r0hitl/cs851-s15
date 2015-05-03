@@ -1,0 +1,65 @@
+{"original_uri":"http://wedding.gnavi.co.jp/wedding/chiba/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://wedding.gnavi.co.jp/wedding/chiba/",
+"mementos": {
+"list": [
+{"datetime":"2013-04-03T02:54:42Z",
+"uri":"http://web.archive.org/web/20130403025442/http://wedding.gnavi.co.jp/wedding/chiba/"
+},
+{"datetime":"2013-04-26T00:28:50Z",
+"uri":"http://web.archive.org/web/20130426002850/http://wedding.gnavi.co.jp/wedding/chiba/?"
+},
+{"datetime":"2013-05-01T10:34:25Z",
+"uri":"http://web.archive.org/web/20130501103425/http://wedding.gnavi.co.jp/wedding/chiba/"
+},
+{"datetime":"2013-05-12T19:50:57Z",
+"uri":"http://web.archive.org/web/20130512195057/http://wedding.gnavi.co.jp/wedding/chiba/"
+},
+{"datetime":"2013-06-04T02:13:47Z",
+"uri":"http://web.archive.org/web/20130604021347/http://wedding.gnavi.co.jp/wedding/chiba/"
+},
+{"datetime":"2013-07-02T10:27:56Z",
+"uri":"http://web.archive.org/web/20130702102756/http://wedding.gnavi.co.jp/wedding/chiba/"
+},
+{"datetime":"2013-08-04T03:32:56Z",
+"uri":"http://web.archive.org/web/20130804033256/http://wedding.gnavi.co.jp/wedding/chiba/"
+},
+{"datetime":"2013-09-01T04:04:42Z",
+"uri":"http://web.archive.org/web/20130901040442/http://wedding.gnavi.co.jp/wedding/chiba/"
+},
+{"datetime":"2013-11-01T15:45:08Z",
+"uri":"http://web.archive.org/web/20131101154508/http://wedding.gnavi.co.jp/wedding/chiba/"
+},
+{"datetime":"2014-01-01T19:06:29Z",
+"uri":"http://web.archive.org/web/20140101190629/http://wedding.gnavi.co.jp/wedding/chiba/"
+},
+{"datetime":"2014-03-03T11:17:13Z",
+"uri":"http://web.archive.org/web/20140303111713/http://wedding.gnavi.co.jp/wedding/chiba/"
+},
+{"datetime":"2014-03-14T06:39:10Z",
+"uri":"http://web.archive.org/web/20140314063910/http://wedding.gnavi.co.jp/wedding/chiba/"
+},
+{"datetime":"2014-03-18T12:31:42Z",
+"uri":"http://web.archive.org/web/20140318123142/http://wedding.gnavi.co.jp/wedding/chiba/"
+},
+{"datetime":"2014-05-03T15:09:16Z",
+"uri":"http://web.archive.org/web/20140503150916/http://wedding.gnavi.co.jp/wedding/chiba/"
+},
+{"datetime":"2014-07-03T10:09:06Z",
+"uri":"http://web.archive.org/web/20140703100906/http://wedding.gnavi.co.jp/wedding/chiba/"
+},
+{"datetime":"2014-07-03T13:42:43Z",
+"uri":"http://web.archive.org/web/20140703134243/http://wedding.gnavi.co.jp/wedding/chiba/"
+},
+{"datetime":"2014-09-02T12:17:10Z",
+"uri":"http://web.archive.org/web/20140902121710/http://wedding.gnavi.co.jp/wedding/chiba/"
+},
+{"datetime":"2015-03-15T02:23:33Z",
+"uri":"http://web.archive.org/web/20150315022333/http://wedding.gnavi.co.jp/wedding/chiba/"
+},
+{"datetime":"2015-03-25T04:50:48Z",
+"uri":"http://web.archive.org/web/20150325045048/https://wedding.gnavi.co.jp/wedding/chiba/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://wedding.gnavi.co.jp/wedding/chiba/"}
+ }

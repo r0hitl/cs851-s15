@@ -1,0 +1,11 @@
+{"original_uri":"http://www.pravda.com.ua/news/2015/02/3/7057266/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.pravda.com.ua/news/2015/02/3/7057266/",
+"mementos": {
+"list": [
+{"datetime":"2015-04-21T06:44:03Z",
+"uri":"http://web.archive.org/web/20150421064403/http://www.pravda.com.ua/news/2015/02/3/7057266/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.pravda.com.ua/news/2015/02/3/7057266/"}
+ }

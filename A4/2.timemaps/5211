@@ -1,0 +1,11 @@
+{"original_uri":"http://meteotrafic.fr/?Meteo-Grand-Est",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://meteotrafic.fr/?Meteo-Grand-Est",
+"mementos": {
+"list": [
+{"datetime":"2015-02-12T12:36:10Z",
+"uri":"http://web.archive.org/web/20150212123610/http://meteotrafic.fr/?Meteo-Grand-Est"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://meteotrafic.fr/?Meteo-Grand-Est"}
+ }

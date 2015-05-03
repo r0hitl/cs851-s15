@@ -1,0 +1,14 @@
+{"original_uri":"http://ure.pia.co.jp/articles/-/30768",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://ure.pia.co.jp/articles/-/30768",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T05:35:30Z",
+"uri":"http://web.archive.org/web/20150203053530/http://ure.pia.co.jp/articles/-/30768"
+},
+{"datetime":"2015-02-03T05:35:51Z",
+"uri":"http://archive.is/20150203053551/http://ure.pia.co.jp/articles/-/30768"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://ure.pia.co.jp/articles/-/30768"}
+ }

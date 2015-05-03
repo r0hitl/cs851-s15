@@ -1,0 +1,20 @@
+{"original_uri":"http://www.47news.jp/CN/201502/CN2015020201001464.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.47news.jp/CN/201502/CN2015020201001464.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-02T04:55:35Z",
+"uri":"http://web.archive.org/web/20150202045535/http://www.47news.jp/CN/201502/CN2015020201001464.html"
+},
+{"datetime":"2015-02-02T04:55:42Z",
+"uri":"http://archive.is/20150202045542/http://www.47news.jp/CN/201502/CN2015020201001464.html"
+},
+{"datetime":"2015-02-03T01:55:37Z",
+"uri":"http://web.archive.org/web/20150203015537/http://www.47news.jp/CN/201502/CN2015020201001464.html"
+},
+{"datetime":"2015-02-03T10:40:19Z",
+"uri":"http://archive.is/20150203104019/http://www.47news.jp/CN/201502/CN2015020201001464.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.47news.jp/CN/201502/CN2015020201001464.html"}
+ }

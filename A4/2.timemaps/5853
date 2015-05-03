@@ -1,0 +1,20 @@
+{"original_uri":"http://www.enveurope.com/content/27/1/4/abstract",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.enveurope.com/content/27/1/4/abstract",
+"mementos": {
+"list": [
+{"datetime":"2015-01-31T07:48:50Z",
+"uri":"http://archive.is/20150131074850/http://www.enveurope.com/content/27/1/4/abstract"
+},
+{"datetime":"2015-03-16T19:56:13Z",
+"uri":"http://web.archive.org/web/20150316195613/http://www.enveurope.com/content/27/1/4/abstract"
+},
+{"datetime":"2015-03-18T03:33:52Z",
+"uri":"//wayback.archive-it.org/all/20150318033352/http://www.enveurope.com/content/27/1/4/abstract"
+},
+{"datetime":"2015-03-18T03:33:52Z",
+"uri":"http://web.archive.org/web/20150318033352/http://www.enveurope.com/content/27/1/4/abstract"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.enveurope.com/content/27/1/4/abstract"}
+ }

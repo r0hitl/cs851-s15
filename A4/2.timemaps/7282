@@ -1,0 +1,17 @@
+{"original_uri":"http://www.jjangdrip.com/bbs/board.php?bo_table=19_01",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.jjangdrip.com/bbs/board.php?bo_table=19_01",
+"mementos": {
+"list": [
+{"datetime":"2013-09-24T03:01:52Z",
+"uri":"http://web.archive.org/web/20130924030152/http://jjangdrip.com/bbs/board.php?bo_table=19_01"
+},
+{"datetime":"2014-10-31T10:35:32Z",
+"uri":"http://web.archive.org/web/20141031103532/http://jjangdrip.com/bbs/board.php?bo_table=19_01"
+},
+{"datetime":"2015-02-24T07:14:58Z",
+"uri":"http://web.archive.org/web/20150224071458/http://jjangdrip.com/bbs/board.php?bo_table=19_01"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.jjangdrip.com/bbs/board.php?bo_table=19_01"}
+ }

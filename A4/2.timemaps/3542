@@ -1,0 +1,26 @@
+{"original_uri":"http://d-tool.biz/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://d-tool.biz/",
+"mementos": {
+"list": [
+{"datetime":"2014-05-24T11:50:41Z",
+"uri":"http://web.archive.org/web/20140524115041/http://d-tool.biz/"
+},
+{"datetime":"2014-06-25T01:24:12Z",
+"uri":"http://web.archive.org/web/20140625012412/http://d-tool.biz/"
+},
+{"datetime":"2014-06-28T18:59:28Z",
+"uri":"http://archive.is/20140628185928/http://d-tool.biz/"
+},
+{"datetime":"2014-07-02T22:16:26Z",
+"uri":"http://web.archive.org/web/20140702221626/http://d-tool.biz/"
+},
+{"datetime":"2014-12-16T22:08:10Z",
+"uri":"http://web.archive.org/web/20141216220810/http://d-tool.biz/"
+},
+{"datetime":"2015-03-18T21:06:52Z",
+"uri":"http://web.archive.org/web/20150318210652/http://d-tool.biz/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://d-tool.biz/"}
+ }

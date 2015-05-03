@@ -1,0 +1,11 @@
+{"original_uri":"http://www.h2boom.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.h2boom.com/",
+"mementos": {
+"list": [
+{"datetime":"2014-07-18T12:16:01Z",
+"uri":"http://web.archive.org/web/20140718121601/http://www.h2boom.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.h2boom.com/"}
+ }

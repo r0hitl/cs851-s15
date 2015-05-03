@@ -1,0 +1,17 @@
+{"original_uri":"http://www.itaindou.com/sc_023nissan",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.itaindou.com/sc_023nissan",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T12:20:29Z",
+"uri":"http://archive.is/20150203122029/http://www.itaindou.com/sc_023nissan"
+},
+{"datetime":"2015-03-15T05:30:15Z",
+"uri":"http://web.archive.org/web/20150315053015/http://www.itaindou.com/sc_023nissan"
+},
+{"datetime":"2015-03-25T17:57:04Z",
+"uri":"http://web.archive.org/web/20150325175704/https://www.itaindou.com/sc_023nissan"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.itaindou.com/sc_023nissan"}
+ }

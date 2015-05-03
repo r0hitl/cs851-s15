@@ -1,0 +1,38 @@
+{"original_uri":"http://ViralShowPR.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://ViralShowPR.com",
+"mementos": {
+"list": [
+{"datetime":"2012-06-25T05:00:11Z",
+"uri":"http://webarchive.nationalarchives.gov.uk/20120625050011/http://ViralShowPR.com"
+},
+{"datetime":"2012-12-13T10:30:45Z",
+"uri":"//wayback.archive-it.org/all/20121213103045/http://www.viralshowpr.com/"
+},
+{"datetime":"2012-12-13T10:30:47Z",
+"uri":"//wayback.archive-it.org/all/20121213103047/http://viralshowpr.com/"
+},
+{"datetime":"2013-11-16T04:50:10Z",
+"uri":"http://archive.is/20131116045010/http://viralshowpr.com/"
+},
+{"datetime":"2014-01-11T07:59:42Z",
+"uri":"//wayback.archive-it.org/all/20140111075942/http://www.viralshowpr.com/"
+},
+{"datetime":"2014-01-11T07:59:45Z",
+"uri":"//wayback.archive-it.org/all/20140111075945/http://viralshowpr.com/"
+},
+{"datetime":"2015-01-08T02:43:50Z",
+"uri":"//wayback.archive-it.org/all/20150108024350/http://viralshowpr.com/"
+},
+{"datetime":"2015-01-08T10:04:44Z",
+"uri":"//wayback.archive-it.org/all/20150108100444/http://viralshowpr.com/"
+},
+{"datetime":"2015-01-10T07:12:58Z",
+"uri":"//wayback.archive-it.org/all/20150110071258/http://viralshowpr.com/"
+},
+{"datetime":"2015-01-10T08:35:27Z",
+"uri":"//wayback.archive-it.org/all/20150110083527/http://viralshowpr.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://ViralShowPR.com"}
+ }

@@ -1,0 +1,14 @@
+{"original_uri":"http://ChristmasBinge.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://ChristmasBinge.com",
+"mementos": {
+"list": [
+{"datetime":"2015-01-08T10:18:21Z",
+"uri":"//wayback.archive-it.org/all/20150108101821/http://christmasbinge.com/"
+},
+{"datetime":"2015-01-08T10:18:21Z",
+"uri":"http://web.archive.org/web/20150108101821/http://christmasbinge.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://ChristmasBinge.com"}
+ }

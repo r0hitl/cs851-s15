@@ -1,0 +1,26 @@
+{"original_uri":"http://com.nicovideo.jp/community/co1698460",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://com.nicovideo.jp/community/co1698460",
+"mementos": {
+"list": [
+{"datetime":"2013-05-19T20:50:29Z",
+"uri":"http://web.archive.org/web/20130519205029/http://com.nicovideo.jp/community/co1698460"
+},
+{"datetime":"2013-06-01T08:53:24Z",
+"uri":"http://web.archive.org/web/20130601085324/http://com.nicovideo.jp/community/co1698460"
+},
+{"datetime":"2013-11-08T15:07:42Z",
+"uri":"http://web.archive.org/web/20131108150742/http://com.nicovideo.jp/community/co1698460?"
+},
+{"datetime":"2013-11-09T17:56:33Z",
+"uri":"http://web.archive.org/web/20131109175633/http://com.nicovideo.jp/community/co1698460?"
+},
+{"datetime":"2014-07-04T08:02:17Z",
+"uri":"http://web.archive.org/web/20140704080217/http://com.nicovideo.jp/community/co1698460"
+},
+{"datetime":"2014-07-21T12:08:41Z",
+"uri":"http://web.archive.org/web/20140721120841/http://com.nicovideo.jp/community/co1698460?"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://com.nicovideo.jp/community/co1698460"}
+ }

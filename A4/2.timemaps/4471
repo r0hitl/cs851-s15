@@ -1,0 +1,14 @@
+{"original_uri":"http://zpg.ehoh.net/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://zpg.ehoh.net/",
+"mementos": {
+"list": [
+{"datetime":"2009-05-07T08:51:35Z",
+"uri":"http://web.archive.org/web/20090507085135/http://zpg.ehoh.net/"
+},
+{"datetime":"2013-06-19T02:30:44Z",
+"uri":"http://web.archive.org/web/20130619023044/http://zpg.ehoh.net/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://zpg.ehoh.net/"}
+ }

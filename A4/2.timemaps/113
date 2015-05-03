@@ -1,0 +1,14 @@
+{"original_uri":"http://natalie.mu/music/news/137682",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://natalie.mu/music/news/137682",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T11:29:58Z",
+"uri":"http://archive.is/20150203112958/http://natalie.mu/music/news/137682"
+},
+{"datetime":"2015-02-03T12:52:31Z",
+"uri":"http://web.archive.org/web/20150203125231/http://natalie.mu/music/news/137682"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://natalie.mu/music/news/137682"}
+ }

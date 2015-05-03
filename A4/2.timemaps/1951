@@ -1,0 +1,26 @@
+{"original_uri":"http://Instagram.com/leamakhoul/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://Instagram.com/leamakhoul/",
+"mementos": {
+"list": [
+{"datetime":"2015-01-09T11:53:47Z",
+"uri":"http://web.archive.org/web/20150109115347/http://instagram.com/leamakhoul/"
+},
+{"datetime":"2015-01-09T11:53:47Z",
+"uri":"//wayback.archive-it.org/all/20150109115347/http://instagram.com/leamakhoul/"
+},
+{"datetime":"2015-01-11T05:50:32Z",
+"uri":"http://web.archive.org/web/20150111055032/http://instagram.com/leamakhoul/"
+},
+{"datetime":"2015-01-11T05:50:32Z",
+"uri":"//wayback.archive-it.org/all/20150111055032/http://instagram.com/leamakhoul/"
+},
+{"datetime":"2015-04-06T05:21:18Z",
+"uri":"http://web.archive.org/web/20150406052118/http://instagram.com/leamakhoul"
+},
+{"datetime":"2015-04-06T05:21:20Z",
+"uri":"http://web.archive.org/web/20150406052120/https://instagram.com/leamakhoul/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://Instagram.com/leamakhoul/"}
+ }

@@ -1,0 +1,11 @@
+{"original_uri":"http://twitpic.com/drdars",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://twitpic.com/drdars",
+"mementos": {
+"list": [
+{"datetime":"2014-10-29T20:50:50Z",
+"uri":"http://web.archive.org/web/20141029205050/http://twitpic.com/drdars"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://twitpic.com/drdars"}
+ }

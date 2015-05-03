@@ -1,0 +1,17 @@
+{"original_uri":"http://www.redgage.com/c-rhihhb",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.redgage.com/c-rhihhb",
+"mementos": {
+"list": [
+{"datetime":"2014-07-03T13:17:39Z",
+"uri":"http://web.archive.org/web/20140703131739/http://www.redgage.com/c-rhihhb"
+},
+{"datetime":"2015-01-08T01:19:22Z",
+"uri":"http://web.archive.org/web/20150108011922/http://www.redgage.com/c-rhihhb"
+},
+{"datetime":"2015-01-08T01:19:22Z",
+"uri":"//wayback.archive-it.org/all/20150108011922/http://www.redgage.com/c-rhihhb"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.redgage.com/c-rhihhb"}
+ }

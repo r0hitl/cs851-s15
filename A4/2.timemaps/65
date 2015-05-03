@@ -1,0 +1,17 @@
+{"original_uri":"http://twitpic.com/awmn5w",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://twitpic.com/awmn5w",
+"mementos": {
+"list": [
+{"datetime":"2012-10-18T15:32:42Z",
+"uri":"http://web.archive.org/web/20121018153242/http://twitpic.com/awmn5w"
+},
+{"datetime":"2013-03-27T10:13:36Z",
+"uri":"http://web.archive.org/web/20130327101336/http://twitpic.com/awmn5w"
+},
+{"datetime":"2014-11-06T05:26:46Z",
+"uri":"http://web.archive.org/web/20141106052646/http://twitpic.com/awmn5w"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://twitpic.com/awmn5w"}
+ }

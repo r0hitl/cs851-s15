@@ -1,0 +1,11 @@
+{"original_uri":"http://www.haaretz.com/news/middle-east/1.640497",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.haaretz.com/news/middle-east/1.640497",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T08:00:49Z",
+"uri":"http://web.archive.org/web/20150203080049/http://www.haaretz.com/news/middle-east/1.640497"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.haaretz.com/news/middle-east/1.640497"}
+ }

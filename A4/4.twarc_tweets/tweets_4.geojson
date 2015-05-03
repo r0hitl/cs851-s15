@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -87.62626724, 
+          41.88804564
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Chicago Press", 
+        "url": "http://twitter.com/Chicago_CP/status/593614899583913985", 
+        "text": "Chicago-area man trapped on mountain in Nepal after quake: \u00a0 The death toll in\u00a0 Nepal after this week\u2019s earthquake\u2026 http://t.co/61FopEXDvp", 
+        "created_at": "Thu Apr 30 03:16:35 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/529069377916633088/QukL-Om2_normal.png", 
+        "screen_name": "Chicago_CP"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          82.4887007, 
+          28.0335792
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "asmt goofi", 
+        "url": "http://twitter.com/AsmtGoofi/status/593614007853920256", 
+        "text": "Hi my Twitter friends , have hear news earthquake in nepal ? If you can help , help those poor who loss their parents , house and relative", 
+        "created_at": "Thu Apr 30 03:13:02 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/535322523433312257/VmfgS5hU_normal.jpeg", 
+        "screen_name": "AsmtGoofi"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -73.88076376, 
+          40.74282633
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Tzu Chi USA", 
+        "url": "http://twitter.com/TzuChiUSA/status/593613871384023041", 
+        "text": "#TzuChi on @InterActionOrg's list of trusted organizations providing #NepalQuakeRelief http://t.co/wNOlYxbUeX http://t.co/MqkpmiUD79", 
+        "created_at": "Thu Apr 30 03:12:30 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/502254018723201024/vLodLB_Y_normal.jpeg", 
+        "screen_name": "TzuChiUSA"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          72.97343959, 
+          19.18918919
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Sahil Natu", 
+        "url": "http://twitter.com/Naa_Two/status/593612780390846466", 
+        "text": "Knowing Nepal is a Hindu majority, how cheap.\n\nRT @IndiaToday: Pakistan serves beef to Nepal earthquake survivors \nhttp://t.co/u8LTTfJhor", 
+        "created_at": "Thu Apr 30 03:08:10 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/536710583903473664/DlQO2Ley_normal.jpeg", 
+        "screen_name": "Naa_Two"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -84.38326111, 
+          33.76125658
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "InvestNextDoor", 
+        "url": "http://twitter.com/InvestNextDoor/status/593612086284066817", 
+        "text": "Empowering #Nepal girl leaders is a reality thanks to @womenLEADnepal Amazing response in earthquake crisis! #CIVICX http://t.co/NbbrGAIffP", 
+        "created_at": "Thu Apr 30 03:05:24 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/553060647760445441/BhojIk-O_normal.jpeg", 
+        "screen_name": "InvestNextDoor"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          73.8131059, 
+          15.4732738
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Arun Naik", 
+        "url": "http://twitter.com/arunbnaik/status/593611962463858689", 
+        "text": "14 Amazing Things India Has Done To Help Nepal's Earthquake Rescue Mission http://t.co/XSgFcRCMR6 via @thebetterindia @narendramodi", 
+        "created_at": "Thu Apr 30 03:04:55 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/577024996167446529/wBe6fZ2q_normal.jpeg", 
+        "screen_name": "arunbnaik"
+      }
+    }
+  ]
+}

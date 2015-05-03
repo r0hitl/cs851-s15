@@ -1,0 +1,56 @@
+{"original_uri":"http://www.motorwaycameras.co.uk/traffic/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.motorwaycameras.co.uk/traffic/",
+"mementos": {
+"list": [
+{"datetime":"2012-10-29T18:33:44Z",
+"uri":"http://web.archive.org/web/20121029183344/http://www.motorwaycameras.co.uk/traffic/"
+},
+{"datetime":"2012-12-16T03:23:30Z",
+"uri":"http://web.archive.org/web/20121216032330/http://www.motorwaycameras.co.uk/traffic"
+},
+{"datetime":"2012-12-16T03:23:30Z",
+"uri":"http://web.archive.org/web/20121216032330/http://www.motorwaycameras.co.uk/traffic/"
+},
+{"datetime":"2012-12-28T23:54:35Z",
+"uri":"http://web.archive.org/web/20121228235435/http://www.motorwaycameras.co.uk/traffic"
+},
+{"datetime":"2012-12-28T23:54:35Z",
+"uri":"http://web.archive.org/web/20121228235435/http://www.motorwaycameras.co.uk/traffic/"
+},
+{"datetime":"2013-06-30T10:28:17Z",
+"uri":"http://web.archive.org/web/20130630102817/http://www.motorwaycameras.co.uk/traffic"
+},
+{"datetime":"2013-06-30T10:28:17Z",
+"uri":"http://web.archive.org/web/20130630102817/http://www.motorwaycameras.co.uk/traffic/"
+},
+{"datetime":"2013-08-08T05:11:57Z",
+"uri":"http://web.archive.org/web/20130808051157/http://www.motorwaycameras.co.uk/traffic"
+},
+{"datetime":"2013-08-08T05:11:57Z",
+"uri":"http://web.archive.org/web/20130808051157/http://www.motorwaycameras.co.uk/traffic/"
+},
+{"datetime":"2013-08-16T16:34:00Z",
+"uri":"http://web.archive.org/web/20130816163400/http://www.motorwaycameras.co.uk/traffic/"
+},
+{"datetime":"2013-10-24T18:35:37Z",
+"uri":"http://web.archive.org/web/20131024183537/http://www.motorwaycameras.co.uk/traffic"
+},
+{"datetime":"2013-11-01T05:11:07Z",
+"uri":"http://web.archive.org/web/20131101051107/http://www.motorwaycameras.co.uk/traffic/"
+},
+{"datetime":"2013-11-10T04:05:17Z",
+"uri":"http://web.archive.org/web/20131110040517/http://www.motorwaycameras.co.uk/traffic/"
+},
+{"datetime":"2014-02-13T19:32:36Z",
+"uri":"http://web.archive.org/web/20140213193236/http://www.motorwaycameras.co.uk/traffic/"
+},
+{"datetime":"2014-07-26T11:35:58Z",
+"uri":"http://web.archive.org/web/20140726113558/http://www.motorwaycameras.co.uk/traffic/"
+},
+{"datetime":"2015-03-18T18:54:12Z",
+"uri":"http://web.archive.org/web/20150318185412/http://www.motorwaycameras.co.uk/traffic/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.motorwaycameras.co.uk/traffic/"}
+ }

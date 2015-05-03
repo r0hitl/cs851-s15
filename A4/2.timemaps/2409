@@ -1,0 +1,41 @@
+{"original_uri":"http://www.nicovideo.jp/watch/sm25349871",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.nicovideo.jp/watch/sm25349871",
+"mementos": {
+"list": [
+{"datetime":"2015-01-16T06:27:41Z",
+"uri":"http://web.archive.org/web/20150116062741/http://www.nicovideo.jp/watch/sm25349871"
+},
+{"datetime":"2015-01-17T08:48:58Z",
+"uri":"http://web.archive.org/web/20150117084858/http://www.nicovideo.jp/watch/sm25349871"
+},
+{"datetime":"2015-01-20T04:32:52Z",
+"uri":"http://web.archive.org/web/20150120043252/http://www.nicovideo.jp/watch/sm25349871"
+},
+{"datetime":"2015-01-21T05:43:46Z",
+"uri":"http://web.archive.org/web/20150121054346/http://www.nicovideo.jp/watch/sm25349871"
+},
+{"datetime":"2015-01-22T09:03:36Z",
+"uri":"http://web.archive.org/web/20150122090336/http://www.nicovideo.jp/watch/sm25349871"
+},
+{"datetime":"2015-01-23T12:13:50Z",
+"uri":"http://web.archive.org/web/20150123121350/http://www.nicovideo.jp/watch/sm25349871"
+},
+{"datetime":"2015-01-24T15:57:56Z",
+"uri":"http://web.archive.org/web/20150124155756/http://www.nicovideo.jp/watch/sm25349871"
+},
+{"datetime":"2015-01-25T19:02:26Z",
+"uri":"http://web.archive.org/web/20150125190226/http://www.nicovideo.jp/watch/sm25349871"
+},
+{"datetime":"2015-01-27T02:30:58Z",
+"uri":"http://web.archive.org/web/20150127023058/http://www.nicovideo.jp/watch/sm25349871"
+},
+{"datetime":"2015-01-28T06:19:54Z",
+"uri":"http://web.archive.org/web/20150128061954/http://www.nicovideo.jp/watch/sm25349871"
+},
+{"datetime":"2015-01-29T09:28:36Z",
+"uri":"http://web.archive.org/web/20150129092836/http://www.nicovideo.jp/watch/sm25349871"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.nicovideo.jp/watch/sm25349871"}
+ }

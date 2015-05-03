@@ -1,0 +1,11 @@
+{"original_uri":"http://www.kaumudiglobal.com/innerpage1.php?newsid=60813",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.kaumudiglobal.com/innerpage1.php?newsid=60813",
+"mementos": {
+"list": [
+{"datetime":"2015-02-05T02:12:54Z",
+"uri":"http://web.archive.org/web/20150205021254/http://kaumudiglobal.com/innerpage1.php?newsid=60813"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.kaumudiglobal.com/innerpage1.php?newsid=60813"}
+ }

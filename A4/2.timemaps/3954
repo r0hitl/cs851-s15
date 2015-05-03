@@ -1,0 +1,20 @@
+{"original_uri":"http://medi-centr.ru/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://medi-centr.ru/",
+"mementos": {
+"list": [
+{"datetime":"2010-03-01T01:01:02Z",
+"uri":"http://web.archive.org/web/20100301010102/http://www.medi-centr.ru/"
+},
+{"datetime":"2010-04-02T05:56:31Z",
+"uri":"http://web.archive.org/web/20100402055631/http://www.medi-centr.ru/"
+},
+{"datetime":"2010-05-03T19:21:06Z",
+"uri":"http://web.archive.org/web/20100503192106/http://www.medi-centr.ru/"
+},
+{"datetime":"2014-12-17T14:59:47Z",
+"uri":"http://web.archive.org/web/20141217145947/http://medi-centr.ru/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://medi-centr.ru/"}
+ }

@@ -1,0 +1,11 @@
+{"original_uri":"http://headlines.yahoo.co.jp/hl?a=20150202-00000006-jct-soci",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://headlines.yahoo.co.jp/hl?a=20150202-00000006-jct-soci",
+"mementos": {
+"list": [
+{"datetime":"2015-02-02T20:21:11Z",
+"uri":"http://web.archive.org/web/20150202202111/http://headlines.yahoo.co.jp/hl?a=20150202-00000006-jct-soci"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://headlines.yahoo.co.jp/hl?a=20150202-00000006-jct-soci"}
+ }

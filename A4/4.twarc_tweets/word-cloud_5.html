@@ -1,0 +1,1248 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="https://raw.github.com/jasondavies/d3-cloud/master/d3.layout.cloud.js"></script>
+</head>
+<body>
+<script>
+
+  // embed Jason Davies' d3-cloud since it's not available in a CDN
+  // Word cloud layout by Jason Davies, http://www.jasondavies.com/word-cloud/
+// Algorithm due to Jonathan Feinberg, http://static.mrfeinberg.com/bv_ch03.pdf
+(function() {
+  function cloud() {
+    var size = [256, 256],
+        text = cloudText,
+        font = cloudFont,
+        fontSize = cloudFontSize,
+        fontStyle = cloudFontNormal,
+        fontWeight = cloudFontNormal,
+        rotate = cloudRotate,
+        padding = cloudPadding,
+        spiral = archimedeanSpiral,
+        words = [],
+        timeInterval = Infinity,
+        event = d3.dispatch("word", "end"),
+        timer = null,
+        cloud = {};
+
+    cloud.start = function() {
+      var board = zeroArray((size[0] >> 5) * size[1]),
+          bounds = null,
+          n = words.length,
+          i = -1,
+          tags = [],
+          data = words.map(function(d, i) {
+            d.text = text.call(this, d, i);
+            d.font = font.call(this, d, i);
+            d.style = fontStyle.call(this, d, i);
+            d.weight = fontWeight.call(this, d, i);
+            d.rotate = rotate.call(this, d, i);
+            d.size = ~~fontSize.call(this, d, i);
+            d.padding = padding.call(this, d, i);
+            return d;
+          }).sort(function(a, b) { return b.size - a.size; });
+
+      if (timer) clearInterval(timer);
+      timer = setInterval(step, 0);
+      step();
+
+      return cloud;
+
+      function step() {
+        var start = +new Date,
+            d;
+        while (+new Date - start < timeInterval && ++i < n && timer) {
+          d = data[i];
+          d.x = (size[0] * (Math.random() + .5)) >> 1;
+          d.y = (size[1] * (Math.random() + .5)) >> 1;
+          cloudSprite(d, data, i);
+          if (d.hasText && place(board, d, bounds)) {
+            tags.push(d);
+            event.word(d);
+            if (bounds) cloudBounds(bounds, d);
+            else bounds = [{x: d.x + d.x0, y: d.y + d.y0}, {x: d.x + d.x1, y: d.y + d.y1}];
+            // Temporary hack
+            d.x -= size[0] >> 1;
+            d.y -= size[1] >> 1;
+          }
+        }
+        if (i >= n) {
+          cloud.stop();
+          event.end(tags, bounds);
+        }
+      }
+    }
+
+    cloud.stop = function() {
+      if (timer) {
+        clearInterval(timer);
+        timer = null;
+      }
+      return cloud;
+    };
+
+    cloud.timeInterval = function(x) {
+      if (!arguments.length) return timeInterval;
+      timeInterval = x == null ? Infinity : x;
+      return cloud;
+    };
+
+    function place(board, tag, bounds) {
+      var perimeter = [{x: 0, y: 0}, {x: size[0], y: size[1]}],
+          startX = tag.x,
+          startY = tag.y,
+          maxDelta = Math.sqrt(size[0] * size[0] + size[1] * size[1]),
+          s = spiral(size),
+          dt = Math.random() < .5 ? 1 : -1,
+          t = -dt,
+          dxdy,
+          dx,
+          dy;
+
+      while (dxdy = s(t += dt)) {
+        dx = ~~dxdy[0];
+        dy = ~~dxdy[1];
+
+        if (Math.min(dx, dy) > maxDelta) break;
+
+        tag.x = startX + dx;
+        tag.y = startY + dy;
+
+        if (tag.x + tag.x0 < 0 || tag.y + tag.y0 < 0 ||
+            tag.x + tag.x1 > size[0] || tag.y + tag.y1 > size[1]) continue;
+        // TODO only check for collisions within current bounds.
+        if (!bounds || !cloudCollide(tag, board, size[0])) {
+          if (!bounds || collideRects(tag, bounds)) {
+            var sprite = tag.sprite,
+                w = tag.width >> 5,
+                sw = size[0] >> 5,
+                lx = tag.x - (w << 4),
+                sx = lx & 0x7f,
+                msx = 32 - sx,
+                h = tag.y1 - tag.y0,
+                x = (tag.y + tag.y0) * sw + (lx >> 5),
+                last;
+            for (var j = 0; j < h; j++) {
+              last = 0;
+              for (var i = 0; i <= w; i++) {
+                board[x + i] |= (last << msx) | (i < w ? (last = sprite[j * w + i]) >>> sx : 0);
+              }
+              x += sw;
+            }
+            delete tag.sprite;
+            return true;
+          }
+        }
+      }
+      return false;
+    }
+
+    cloud.words = function(x) {
+      if (!arguments.length) return words;
+      words = x;
+      return cloud;
+    };
+
+    cloud.size = function(x) {
+      if (!arguments.length) return size;
+      size = [+x[0], +x[1]];
+      return cloud;
+    };
+
+    cloud.font = function(x) {
+      if (!arguments.length) return font;
+      font = d3.functor(x);
+      return cloud;
+    };
+
+    cloud.fontStyle = function(x) {
+      if (!arguments.length) return fontStyle;
+      fontStyle = d3.functor(x);
+      return cloud;
+    };
+
+    cloud.fontWeight = function(x) {
+      if (!arguments.length) return fontWeight;
+      fontWeight = d3.functor(x);
+      return cloud;
+    };
+
+    cloud.rotate = function(x) {
+      if (!arguments.length) return rotate;
+      rotate = d3.functor(x);
+      return cloud;
+    };
+
+    cloud.text = function(x) {
+      if (!arguments.length) return text;
+      text = d3.functor(x);
+      return cloud;
+    };
+
+    cloud.spiral = function(x) {
+      if (!arguments.length) return spiral;
+      spiral = spirals[x + ""] || x;
+      return cloud;
+    };
+
+    cloud.fontSize = function(x) {
+      if (!arguments.length) return fontSize;
+      fontSize = d3.functor(x);
+      return cloud;
+    };
+
+    cloud.padding = function(x) {
+      if (!arguments.length) return padding;
+      padding = d3.functor(x);
+      return cloud;
+    };
+
+    return d3.rebind(cloud, event, "on");
+  }
+
+  function cloudText(d) {
+    return d.text;
+  }
+
+  function cloudFont() {
+    return "serif";
+  }
+
+  function cloudFontNormal() {
+    return "normal";
+  }
+
+  function cloudFontSize(d) {
+    return Math.sqrt(d.value);
+  }
+
+  function cloudRotate() {
+    return (~~(Math.random() * 6) - 3) * 30;
+  }
+
+  function cloudPadding() {
+    return 1;
+  }
+
+  // Fetches a monochrome sprite bitmap for the specified text.
+  // Load in batches for speed.
+  function cloudSprite(d, data, di) {
+    if (d.sprite) return;
+    c.clearRect(0, 0, (cw << 5) / ratio, ch / ratio);
+    var x = 0,
+        y = 0,
+        maxh = 0,
+        n = data.length;
+    --di;
+    while (++di < n) {
+      d = data[di];
+      c.save();
+      c.font = d.style + " " + d.weight + " " + ~~((d.size + 1) / ratio) + "px " + d.font;
+      var w = c.measureText(d.text + "m").width * ratio,
+          h = d.size << 1;
+      if (d.rotate) {
+        var sr = Math.sin(d.rotate * cloudRadians),
+            cr = Math.cos(d.rotate * cloudRadians),
+            wcr = w * cr,
+            wsr = w * sr,
+            hcr = h * cr,
+            hsr = h * sr;
+        w = (Math.max(Math.abs(wcr + hsr), Math.abs(wcr - hsr)) + 0x1f) >> 5 << 5;
+        h = ~~Math.max(Math.abs(wsr + hcr), Math.abs(wsr - hcr));
+      } else {
+        w = (w + 0x1f) >> 5 << 5;
+      }
+      if (h > maxh) maxh = h;
+      if (x + w >= (cw << 5)) {
+        x = 0;
+        y += maxh;
+        maxh = 0;
+      }
+      if (y + h >= ch) break;
+      c.translate((x + (w >> 1)) / ratio, (y + (h >> 1)) / ratio);
+      if (d.rotate) c.rotate(d.rotate * cloudRadians);
+      c.fillText(d.text, 0, 0);
+      if (d.padding) c.lineWidth = 2 * d.padding, c.strokeText(d.text, 0, 0);
+      c.restore();
+      d.width = w;
+      d.height = h;
+      d.xoff = x;
+      d.yoff = y;
+      d.x1 = w >> 1;
+      d.y1 = h >> 1;
+      d.x0 = -d.x1;
+      d.y0 = -d.y1;
+      d.hasText = true;
+      x += w;
+    }
+    var pixels = c.getImageData(0, 0, (cw << 5) / ratio, ch / ratio).data,
+        sprite = [];
+    while (--di >= 0) {
+      d = data[di];
+      if (!d.hasText) continue;
+      var w = d.width,
+          w32 = w >> 5,
+          h = d.y1 - d.y0;
+      // Zero the buffer
+      for (var i = 0; i < h * w32; i++) sprite[i] = 0;
+      x = d.xoff;
+      if (x == null) return;
+      y = d.yoff;
+      var seen = 0,
+          seenRow = -1;
+      for (var j = 0; j < h; j++) {
+        for (var i = 0; i < w; i++) {
+          var k = w32 * j + (i >> 5),
+              m = pixels[((y + j) * (cw << 5) + (x + i)) << 2] ? 1 << (31 - (i % 32)) : 0;
+          sprite[k] |= m;
+          seen |= m;
+        }
+        if (seen) seenRow = j;
+        else {
+          d.y0++;
+          h--;
+          j--;
+          y++;
+        }
+      }
+      d.y1 = d.y0 + seenRow;
+      d.sprite = sprite.slice(0, (d.y1 - d.y0) * w32);
+    }
+  }
+
+  // Use mask-based collision detection.
+  function cloudCollide(tag, board, sw) {
+    sw >>= 5;
+    var sprite = tag.sprite,
+        w = tag.width >> 5,
+        lx = tag.x - (w << 4),
+        sx = lx & 0x7f,
+        msx = 32 - sx,
+        h = tag.y1 - tag.y0,
+        x = (tag.y + tag.y0) * sw + (lx >> 5),
+        last;
+    for (var j = 0; j < h; j++) {
+      last = 0;
+      for (var i = 0; i <= w; i++) {
+        if (((last << msx) | (i < w ? (last = sprite[j * w + i]) >>> sx : 0))
+            & board[x + i]) return true;
+      }
+      x += sw;
+    }
+    return false;
+  }
+
+  function cloudBounds(bounds, d) {
+    var b0 = bounds[0],
+        b1 = bounds[1];
+    if (d.x + d.x0 < b0.x) b0.x = d.x + d.x0;
+    if (d.y + d.y0 < b0.y) b0.y = d.y + d.y0;
+    if (d.x + d.x1 > b1.x) b1.x = d.x + d.x1;
+    if (d.y + d.y1 > b1.y) b1.y = d.y + d.y1;
+  }
+
+  function collideRects(a, b) {
+    return a.x + a.x1 > b[0].x && a.x + a.x0 < b[1].x && a.y + a.y1 > b[0].y && a.y + a.y0 < b[1].y;
+  }
+
+  function archimedeanSpiral(size) {
+    var e = size[0] / size[1];
+    return function(t) {
+      return [e * (t *= .1) * Math.cos(t), t * Math.sin(t)];
+    };
+  }
+
+  function rectangularSpiral(size) {
+    var dy = 4,
+        dx = dy * size[0] / size[1],
+        x = 0,
+        y = 0;
+    return function(t) {
+      var sign = t < 0 ? -1 : 1;
+      // See triangular numbers: T_n = n * (n + 1) / 2.
+      switch ((Math.sqrt(1 + 4 * sign * t) - sign) & 3) {
+        case 0:  x += dx; break;
+        case 1:  y += dy; break;
+        case 2:  x -= dx; break;
+        default: y -= dy; break;
+      }
+      return [x, y];
+    };
+  }
+
+  // TODO reuse arrays?
+  function zeroArray(n) {
+    var a = [],
+        i = -1;
+    while (++i < n) a[i] = 0;
+    return a;
+  }
+
+  var cloudRadians = Math.PI / 180,
+      cw = 1 << 11 >> 5,
+      ch = 1 << 11,
+      canvas,
+      ratio = 1;
+
+  if (typeof document !== "undefined") {
+    canvas = document.createElement("canvas");
+    canvas.width = 1;
+    canvas.height = 1;
+    ratio = Math.sqrt(canvas.getContext("2d").getImageData(0, 0, 1, 1).data.length >> 2);
+    canvas.width = (cw << 5) / ratio;
+    canvas.height = ch / ratio;
+  } else {
+    // Attempt to use node-canvas.
+    canvas = new Canvas(cw << 5, ch);
+  }
+
+  var c = canvas.getContext("2d"),
+      spirals = {
+        archimedean: archimedeanSpiral,
+        rectangular: rectangularSpiral
+      };
+  c.fillStyle = c.strokeStyle = "red";
+  c.textAlign = "center";
+
+  if (typeof module === "object" && module.exports) module.exports = cloud;
+  else (d3.layout || (d3.layout = {})).cloud = cloud;
+})();
+
+
+  var fill = d3.scale.category20();
+  var words = [
+  {
+    "text": "nepal", 
+    "size": 116
+  }, 
+  {
+    "text": "earthquake", 
+    "size": 88
+  }, 
+  {
+    "text": "hope", 
+    "size": 50
+  }, 
+  {
+    "text": "bring", 
+    "size": 44
+  }, 
+  {
+    "text": "five", 
+    "size": 42
+  }, 
+  {
+    "text": "remarkable", 
+    "size": 41
+  }, 
+  {
+    "text": "rescues", 
+    "size": 41
+  }, 
+  {
+    "text": "devastation", 
+    "size": 41
+  }, 
+  {
+    "text": "week", 
+    "size": 40
+  }, 
+  {
+    "text": "help", 
+    "size": 32
+  }, 
+  {
+    "text": "toll", 
+    "size": 32
+  }, 
+  {
+    "text": "earthquake:", 
+    "size": 31
+  }, 
+  {
+    "text": "relief", 
+    "size": 30
+  }, 
+  {
+    "text": "death", 
+    "size": 29
+  }, 
+  {
+    "text": "baby", 
+    "size": 28
+  }, 
+  {
+    "text": "rubble", 
+    "size": 27
+  }, 
+  {
+    "text": "text:", 
+    "size": 26
+  }, 
+  {
+    "text": "donate5", 
+    "size": 26
+  }, 
+  {
+    "text": "those", 
+    "size": 24
+  }, 
+  {
+    "text": "affected", 
+    "size": 24
+  }, 
+  {
+    "text": "nepal,", 
+    "size": 23
+  }, 
+  {
+    "text": "give", 
+    "size": 23
+  }, 
+  {
+    "text": "devastating", 
+    "size": 23
+  }, 
+  {
+    "text": "rescued", 
+    "size": 22
+  }, 
+  {
+    "text": "news", 
+    "size": 22
+  }, 
+  {
+    "text": "appeal", 
+    "size": 22
+  }, 
+  {
+    "text": "victims", 
+    "size": 22
+  }, 
+  {
+    "text": "pulled", 
+    "size": 22
+  }, 
+  {
+    "text": "woman", 
+    "size": 21
+  }, 
+  {
+    "text": "everyone", 
+    "size": 21
+  }, 
+  {
+    "text": "donated", 
+    "size": 21
+  }, 
+  {
+    "text": "here", 
+    "size": 21
+  }, 
+  {
+    "text": "thank", 
+    "size": 21
+  }, 
+  {
+    "text": "thinking", 
+    "size": 21
+  }, 
+  {
+    "text": "alive", 
+    "size": 21
+  }, 
+  {
+    "text": "involved", 
+    "size": 21
+  }, 
+  {
+    "text": "awful", 
+    "size": 21
+  }, 
+  {
+    "text": "such", 
+    "size": 21
+  }, 
+  {
+    "text": "rises", 
+    "size": 21
+  }, 
+  {
+    "text": "symbol", 
+    "size": 21
+  }, 
+  {
+    "text": "people", 
+    "size": 20
+  }, 
+  {
+    "text": "sonies", 
+    "size": 20
+  }, 
+  {
+    "text": "earthquake,", 
+    "size": 20
+  }, 
+  {
+    "text": "crosses", 
+    "size": 20
+  }, 
+  {
+    "text": "too,", 
+    "size": 20
+  }, 
+  {
+    "text": "nepal's", 
+    "size": 20
+  }, 
+  {
+    "text": "awal,", 
+    "size": 20
+  }, 
+  {
+    "text": "hours,", 
+    "size": 20
+  }, 
+  {
+    "text": "being", 
+    "size": 20
+  }, 
+  {
+    "text": "amazing", 
+    "size": 20
+  }, 
+  {
+    "text": "please", 
+    "size": 20
+  }, 
+  {
+    "text": "lost", 
+    "size": 20
+  }, 
+  {
+    "text": "everything", 
+    "size": 20
+  }, 
+  {
+    "text": "hours", 
+    "size": 19
+  }, 
+  {
+    "text": "efforts", 
+    "size": 19
+  }, 
+  {
+    "text": "kathmandu", 
+    "size": 19
+  }, 
+  {
+    "text": "provide", 
+    "size": 19
+  }, 
+  {
+    "text": "more", 
+    "size": 19
+  }, 
+  {
+    "text": "offers", 
+    "size": 19
+  }, 
+  {
+    "text": "lunch", 
+    "size": 19
+  }, 
+  {
+    "text": "tells", 
+    "size": 19
+  }, 
+  {
+    "text": "humbling", 
+    "size": 19
+  }, 
+  {
+    "text": "nepal:", 
+    "size": 19
+  }, 
+  {
+    "text": "australians", 
+    "size": 19
+  }, 
+  {
+    "text": "aid", 
+    "size": 19
+  }, 
+  {
+    "text": "india", 
+    "size": 18
+  }, 
+  {
+    "text": "ground", 
+    "size": 18
+  }, 
+  {
+    "text": "made", 
+    "size": 18
+  }, 
+  {
+    "text": "needed", 
+    "size": 18
+  }, 
+  {
+    "text": "hit", 
+    "size": 18
+  }, 
+  {
+    "text": "donate", 
+    "size": 18
+  }, 
+  {
+    "text": "report", 
+    "size": 18
+  }, 
+  {
+    "text": "ravaged", 
+    "size": 18
+  }, 
+  {
+    "text": "via", 
+    "size": 18
+  }, 
+  {
+    "text": "nepal\u2019s", 
+    "size": 18
+  }, 
+  {
+    "text": "days", 
+    "size": 18
+  }, 
+  {
+    "text": "number", 
+    "size": 18
+  }, 
+  {
+    "text": "fund", 
+    "size": 18
+  }, 
+  {
+    "text": "support", 
+    "size": 18
+  }, 
+  {
+    "text": "defence", 
+    "size": 18
+  }, 
+  {
+    "text": "family", 
+    "size": 18
+  }, 
+  {
+    "text": "evacuates", 
+    "size": 18
+  }, 
+  {
+    "text": "save", 
+    "size": 18
+  }, 
+  {
+    "text": "dead", 
+    "size": 18
+  }, 
+  {
+    "text": "each", 
+    "size": 17
+  }, 
+  {
+    "text": "latest", 
+    "size": 17
+  }, 
+  {
+    "text": "need", 
+    "size": 17
+  }, 
+  {
+    "text": "new", 
+    "size": 17
+  }, 
+  {
+    "text": "aftermath", 
+    "size": 17
+  }, 
+  {
+    "text": "boy", 
+    "size": 17
+  }, 
+  {
+    "text": "hands", 
+    "size": 17
+  }, 
+  {
+    "text": "killed", 
+    "size": 17
+  }, 
+  {
+    "text": "live:", 
+    "size": 17
+  }, 
+  {
+    "text": "everest", 
+    "size": 17
+  }, 
+  {
+    "text": "inch", 
+    "size": 17
+  }, 
+  {
+    "text": "following", 
+    "size": 17
+  }, 
+  {
+    "text": "rebuilding:", 
+    "size": 17
+  }, 
+  {
+    "text": "given", 
+    "size": 17
+  }, 
+  {
+    "text": "don't", 
+    "size": 17
+  }, 
+  {
+    "text": "found", 
+    "size": 17
+  }, 
+  {
+    "text": "another", 
+    "size": 17
+  }, 
+  {
+    "text": "take", 
+    "size": 17
+  }, 
+  {
+    "text": "rs40,000", 
+    "size": 17
+  }, 
+  {
+    "text": "besides,", 
+    "size": 17
+  }, 
+  {
+    "text": "survivors'", 
+    "size": 17
+  }, 
+  {
+    "text": "citizens", 
+    "size": 17
+  }, 
+  {
+    "text": "under", 
+    "size": 17
+  }, 
+  {
+    "text": "first", 
+    "size": 17
+  }, 
+  {
+    "text": "disaster", 
+    "size": 17
+  }, 
+  {
+    "text": "quake", 
+    "size": 16
+  }, 
+  {
+    "text": "rites,", 
+    "size": 16
+  }, 
+  {
+    "text": "witness", 
+    "size": 16
+  }, 
+  {
+    "text": "one", 
+    "size": 16
+  }, 
+  {
+    "text": "conduct", 
+    "size": 16
+  }, 
+  {
+    "text": "last", 
+    "size": 16
+  }, 
+  {
+    "text": "rescue", 
+    "size": 16
+  }, 
+  {
+    "text": "fan", 
+    "size": 16
+  }, 
+  {
+    "text": "club", 
+    "size": 16
+  }, 
+  {
+    "text": "women", 
+    "size": 16
+  }, 
+  {
+    "text": "needs", 
+    "size": 16
+  }, 
+  {
+    "text": "now", 
+    "size": 16
+  }, 
+  {
+    "text": "lifted", 
+    "size": 16
+  }, 
+  {
+    "text": "villages", 
+    "size": 16
+  }, 
+  {
+    "text": "foreign", 
+    "size": 16
+  }, 
+  {
+    "text": "down", 
+    "size": 16
+  }, 
+  {
+    "text": "risk", 
+    "size": 16
+  }, 
+  {
+    "text": "area", 
+    "size": 16
+  }, 
+  {
+    "text": "actor", 
+    "size": 16
+  }, 
+  {
+    "text": "tremors", 
+    "size": 16
+  }, 
+  {
+    "text": "climbs", 
+    "size": 16
+  }, 
+  {
+    "text": "hard", 
+    "size": 16
+  }, 
+  {
+    "text": "destruction", 
+    "size": 16
+  }, 
+  {
+    "text": "buried", 
+    "size": 16
+  }, 
+  {
+    "text": "came", 
+    "size": 16
+  }, 
+  {
+    "text": "spread", 
+    "size": 16
+  }, 
+  {
+    "text": "epicentre", 
+    "size": 16
+  }, 
+  {
+    "text": "felt", 
+    "size": 16
+  }, 
+  {
+    "text": "fresh", 
+    "size": 16
+  }, 
+  {
+    "text": "indian", 
+    "size": 16
+  }, 
+  {
+    "text": "australiannepal", 
+    "size": 16
+  }, 
+  {
+    "text": "effort", 
+    "size": 16
+  }, 
+  {
+    "text": "survivors", 
+    "size": 16
+  }, 
+  {
+    "text": "york", 
+    "size": 16
+  }, 
+  {
+    "text": "food", 
+    "size": 16
+  }, 
+  {
+    "text": "money", 
+    "size": 16
+  }, 
+  {
+    "text": "hope\na", 
+    "size": 16
+  }, 
+  {
+    "text": "read", 
+    "size": 16
+  }, 
+  {
+    "text": "post", 
+    "size": 16
+  }, 
+  {
+    "text": "time", 
+    "size": 16
+  }, 
+  {
+    "text": "damon", 
+    "size": 16
+  }, 
+  {
+    "text": "magnitude-78", 
+    "size": 16
+  }, 
+  {
+    "text": "travels", 
+    "size": 16
+  }, 
+  {
+    "text": "small", 
+    "size": 16
+  }, 
+  {
+    "text": "tibet", 
+    "size": 16
+  }, 
+  {
+    "text": "army", 
+    "size": 16
+  }, 
+  {
+    "text": "over", 
+    "size": 16
+  }, 
+  {
+    "text": "through", 
+    "size": 16
+  }, 
+  {
+    "text": "times", 
+    "size": 16
+  }, 
+  {
+    "text": "evacuated", 
+    "size": 16
+  }, 
+  {
+    "text": "collecting", 
+    "size": 16
+  }, 
+  {
+    "text": "reach", 
+    "size": 16
+  }, 
+  {
+    "text": "find", 
+    "size": 16
+  }, 
+  {
+    "text": "watch", 
+    "size": 16
+  }, 
+  {
+    "text": "teams", 
+    "size": 16
+  }, 
+  {
+    "text": "cnn's", 
+    "size": 16
+  }, 
+  {
+    "text": "national", 
+    "size": 16
+  }, 
+  {
+    "text": "poorest", 
+    "size": 16
+  }, 
+  {
+    "text": "lives", 
+    "size": 16
+  }, 
+  {
+    "text": "loss", 
+    "size": 16
+  }, 
+  {
+    "text": "security", 
+    "size": 16
+  }, 
+  {
+    "text": "images", 
+    "size": 16
+  }, 
+  {
+    "text": "helping", 
+    "size": 16
+  }, 
+  {
+    "text": "arwa", 
+    "size": 16
+  }, 
+  {
+    "text": "jaishankar", 
+    "size": 16
+  }, 
+  {
+    "text": "hats", 
+    "size": 16
+  }, 
+  {
+    "text": "children", 
+    "size": 16
+  }, 
+  {
+    "text": "tweet", 
+    "size": 16
+  }, 
+  {
+    "text": "adviser", 
+    "size": 16
+  }, 
+  {
+    "text": "discovered", 
+    "size": 16
+  }, 
+  {
+    "text": "abt", 
+    "size": 16
+  }, 
+  {
+    "text": "water", 
+    "size": 16
+  }, 
+  {
+    "text": "ajit", 
+    "size": 16
+  }, 
+  {
+    "text": "nepalese", 
+    "size": 16
+  }, 
+  {
+    "text": "australian", 
+    "size": 16
+  }, 
+  {
+    "text": "today", 
+    "size": 16
+  }, 
+  {
+    "text": "work", 
+    "size": 16
+  }, 
+  {
+    "text": "haven't", 
+    "size": 16
+  }, 
+  {
+    "text": "million", 
+    "size": 16
+  }, 
+  {
+    "text": "aid:", 
+    "size": 16
+  }, 
+  {
+    "text": "before", 
+    "size": 16
+  }, 
+  {
+    "text": "seen", 
+    "size": 16
+  }, 
+  {
+    "text": "fans\ud83d\ude4c\n\nhttp:/\u2026", 
+    "size": 16
+  }, 
+  {
+    "text": "left", 
+    "size": 16
+  }, 
+  {
+    "text": "during", 
+    "size": 16
+  }, 
+  {
+    "text": "reveal", 
+    "size": 16
+  }, 
+  {
+    "text": "secretary", 
+    "size": 16
+  }, 
+  {
+    "text": "destroyed", 
+    "size": 16
+  }, 
+  {
+    "text": "review", 
+    "size": 16
+  }, 
+  {
+    "text": "doval", 
+    "size": 16
+  }, 
+  {
+    "text": "much", 
+    "size": 16
+  }
+]
+
+  d3.layout.cloud().size([800, 800])
+      .words(words)
+      .rotate(function() { return ~~(Math.random() * 2) * 90; })
+      .font("Impact")
+      .fontSize(function(d) { return d.size; })
+      .on("end", draw)
+      .start();
+
+  function draw(words) {
+    d3.select("body").append("svg")
+        .attr("width", 1000)
+        .attr("height", 1000)
+      .append("g")
+        .attr("transform", "translate(400,400)")
+      .selectAll("text")
+        .data(words)
+      .enter().append("text")
+        .style("font-size", function(d) { return d.size + "px"; })
+        .style("font-family", "Impact")
+        .style("fill", function(d, i) { return fill(i); })
+        .attr("text-anchor", "middle")
+        .attr("transform", function(d) {
+          return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
+        })
+        .text(function(d) { return d.text; });
+  }
+</script>
+</body>
+</html>
+

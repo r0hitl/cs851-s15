@@ -1,0 +1,53 @@
+{"original_uri":"http://www.brettmurphy.org/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.brettmurphy.org/",
+"mementos": {
+"list": [
+{"datetime":"2014-12-17T06:36:07Z",
+"uri":"//wayback.archive-it.org/all/20141217063607/http://brettmurphy.org/"
+},
+{"datetime":"2014-12-17T06:36:07Z",
+"uri":"http://web.archive.org/web/20141217063607/http://brettmurphy.org/"
+},
+{"datetime":"2014-12-17T06:36:10Z",
+"uri":"//wayback.archive-it.org/all/20141217063610/http://www.brettmurphy.org/"
+},
+{"datetime":"2014-12-17T06:36:10Z",
+"uri":"http://web.archive.org/web/20141217063610/http://www.brettmurphy.org/"
+},
+{"datetime":"2015-01-10T04:19:48Z",
+"uri":"//wayback.archive-it.org/all/20150110041948/http://brettmurphy.org/"
+},
+{"datetime":"2015-01-10T04:19:48Z",
+"uri":"http://web.archive.org/web/20150110041948/http://brettmurphy.org/"
+},
+{"datetime":"2015-01-10T04:19:49Z",
+"uri":"//wayback.archive-it.org/all/20150110041949/http://www.brettmurphy.org/"
+},
+{"datetime":"2015-01-10T04:19:49Z",
+"uri":"http://web.archive.org/web/20150110041949/http://www.brettmurphy.org/"
+},
+{"datetime":"2015-01-10T06:10:39Z",
+"uri":"//wayback.archive-it.org/all/20150110061039/http://brettmurphy.org/"
+},
+{"datetime":"2015-01-10T06:10:39Z",
+"uri":"http://web.archive.org/web/20150110061039/http://brettmurphy.org/"
+},
+{"datetime":"2015-01-10T06:10:40Z",
+"uri":"//wayback.archive-it.org/all/20150110061040/http://www.brettmurphy.org/"
+},
+{"datetime":"2015-01-21T20:16:15Z",
+"uri":"//wayback.archive-it.org/all/20150121201615/http://brettmurphy.org/"
+},
+{"datetime":"2015-01-21T20:16:15Z",
+"uri":"http://web.archive.org/web/20150121201615/http://brettmurphy.org/"
+},
+{"datetime":"2015-01-21T20:16:23Z",
+"uri":"//wayback.archive-it.org/all/20150121201623/http://www.brettmurphy.org/"
+},
+{"datetime":"2015-01-21T20:16:23Z",
+"uri":"http://web.archive.org/web/20150121201623/http://www.brettmurphy.org/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.brettmurphy.org/"}
+ }

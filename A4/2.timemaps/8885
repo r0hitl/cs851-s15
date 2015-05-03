@@ -1,0 +1,11 @@
+{"original_uri":"http://blog.kaspersky.com/office-of-the-future/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://blog.kaspersky.com/office-of-the-future/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-22T07:52:30Z",
+"uri":"http://web.archive.org/web/20150222075230/http://blog.kaspersky.com/office-of-the-future/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://blog.kaspersky.com/office-of-the-future/"}
+ }

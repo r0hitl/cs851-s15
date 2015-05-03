@@ -1,0 +1,59 @@
+{"original_uri":"http://www.umoni.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.umoni.com",
+"mementos": {
+"list": [
+{"datetime":"2008-09-18T09:51:35Z",
+"uri":"http://web.archive.org/web/20080918095135/http://www.umoni.com/"
+},
+{"datetime":"2009-03-26T04:42:36Z",
+"uri":"http://web.archive.org/web/20090326044236/http://www.umoni.com/"
+},
+{"datetime":"2010-03-01T18:16:55Z",
+"uri":"http://web.archive.org/web/20100301181655/http://www.umoni.com/"
+},
+{"datetime":"2010-03-03T02:26:11Z",
+"uri":"http://web.archive.org/web/20100303022611/http://www.umoni.com/"
+},
+{"datetime":"2011-01-31T02:05:49Z",
+"uri":"http://web.archive.org/web/20110131020549/http://umoni.com/"
+},
+{"datetime":"2011-03-03T06:18:31Z",
+"uri":"http://web.archive.org/web/20110303061831/http://umoni.com/"
+},
+{"datetime":"2013-06-26T03:22:54Z",
+"uri":"http://web.archive.org/web/20130626032254/http://umoni.com/"
+},
+{"datetime":"2014-01-05T14:02:51Z",
+"uri":"http://web.archive.org/web/20140105140251/http://umoni.com/"
+},
+{"datetime":"2014-05-18T11:59:28Z",
+"uri":"http://web.archive.org/web/20140518115928/http://www.umoni.com/"
+},
+{"datetime":"2014-06-06T03:34:02Z",
+"uri":"http://web.archive.org/web/20140606033402/http://www.umoni.com/"
+},
+{"datetime":"2014-06-20T19:41:15Z",
+"uri":"http://web.archive.org/web/20140620194115/http://www.umoni.com/"
+},
+{"datetime":"2014-06-25T04:01:59Z",
+"uri":"http://web.archive.org/web/20140625040159/http://umoni.com/"
+},
+{"datetime":"2014-06-26T17:07:04Z",
+"uri":"http://web.archive.org/web/20140626170704/http://umoni.com/"
+},
+{"datetime":"2014-08-07T08:19:28Z",
+"uri":"http://web.archive.org/web/20140807081928/http://www.umoni.com/"
+},
+{"datetime":"2014-12-18T08:57:59Z",
+"uri":"http://web.archive.org/web/20141218085759/http://umoni.com/"
+},
+{"datetime":"2015-03-19T13:13:16Z",
+"uri":"http://web.archive.org/web/20150319131316/http://www.umoni.com/"
+},
+{"datetime":"2015-04-21T04:24:25Z",
+"uri":"http://web.archive.org/web/20150421042425/http://www.umoni.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.umoni.com"}
+ }

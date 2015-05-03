@@ -1,0 +1,17 @@
+{"original_uri":"http://instagram.com/p/xzMIuZytSH",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://instagram.com/p/xzMIuZytSH",
+"mementos": {
+"list": [
+{"datetime":"2015-01-16T06:33:32Z",
+"uri":"//wayback.archive-it.org/all/20150116063332/http://instagram.com/p/xzMIuZytSH"
+},
+{"datetime":"2015-01-16T06:33:32Z",
+"uri":"http://web.archive.org/web/20150116063332/http://instagram.com/p/xzMIuZytSH"
+},
+{"datetime":"2015-01-16T06:33:34Z",
+"uri":"//wayback.archive-it.org/all/20150116063334/http://instagram.com/p/xzMIuZytSH/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://instagram.com/p/xzMIuZytSH"}
+ }

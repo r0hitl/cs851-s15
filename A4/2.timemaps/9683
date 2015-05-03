@@ -1,0 +1,23 @@
+{"original_uri":"http://www.bbc.co.uk/news/business-31107688",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.bbc.co.uk/news/business-31107688",
+"mementos": {
+"list": [
+{"datetime":"2015-02-08T05:07:41Z",
+"uri":"//wayback.archive-it.org/all/20150208050741/http://www.bbc.co.uk/news/business-31107688"
+},
+{"datetime":"2015-02-08T05:07:41Z",
+"uri":"http://web.archive.org/web/20150208050741/http://www.bbc.co.uk/news/business-31107688"
+},
+{"datetime":"2015-03-12T04:45:21Z",
+"uri":"//wayback.archive-it.org/all/20150312044521/http://www.bbc.co.uk/news/business-31107688"
+},
+{"datetime":"2015-04-06T20:40:39Z",
+"uri":"http://web.archive.org/web/20150406204039/http://www.bbc.co.uk/news/business-31107688"
+},
+{"datetime":"2015-04-21T01:54:37Z",
+"uri":"http://web.archive.org/web/20150421015437/http://www.bbc.co.uk/news/business-31107688"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.bbc.co.uk/news/business-31107688"}
+ }

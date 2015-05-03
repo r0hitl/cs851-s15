@@ -1,0 +1,14 @@
+{"original_uri":"http://www.yyc.co.jp/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.yyc.co.jp/",
+"timemap_index": [
+{"from":"2000-11-10T15:02:00Z",
+"until":"2014-03-14T16:43:17Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://www.yyc.co.jp/"
+},{"from":"2014-03-14T16:57:37Z",
+"until":"2015-01-20T18:11:32Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://www.yyc.co.jp/"
+},{"from":"2015-01-21T17:35:05Z",
+"uri":"http://labs.mementoweb.org/timemap/json/2000/http://www.yyc.co.jp/"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://www.yyc.co.jp/",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://www.yyc.co.jp/"
+}}

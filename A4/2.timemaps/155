@@ -1,0 +1,56 @@
+{"original_uri":"http://mama-mall.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://mama-mall.com/",
+"mementos": {
+"list": [
+{"datetime":"2013-03-31T17:20:33Z",
+"uri":"http://web.archive.org/web/20130331172033/http://mama-mall.com/"
+},
+{"datetime":"2013-06-30T05:40:55Z",
+"uri":"http://web.archive.org/web/20130630054055/http://mama-mall.com/"
+},
+{"datetime":"2013-07-31T02:04:33Z",
+"uri":"http://web.archive.org/web/20130731020433/http://mama-mall.com/"
+},
+{"datetime":"2013-08-31T14:48:59Z",
+"uri":"http://web.archive.org/web/20130831144859/http://mama-mall.com/"
+},
+{"datetime":"2013-10-01T18:13:29Z",
+"uri":"http://web.archive.org/web/20131001181329/http://mama-mall.com/"
+},
+{"datetime":"2013-11-03T08:15:48Z",
+"uri":"http://web.archive.org/web/20131103081548/http://mama-mall.com/"
+},
+{"datetime":"2013-12-04T10:01:53Z",
+"uri":"http://web.archive.org/web/20131204100153/http://mama-mall.com/"
+},
+{"datetime":"2014-01-04T16:26:27Z",
+"uri":"http://web.archive.org/web/20140104162627/http://mama-mall.com/"
+},
+{"datetime":"2014-02-04T05:25:47Z",
+"uri":"http://web.archive.org/web/20140204052547/http://mama-mall.com/"
+},
+{"datetime":"2014-03-12T20:18:29Z",
+"uri":"http://web.archive.org/web/20140312201829/http://mama-mall.com/"
+},
+{"datetime":"2014-04-12T17:03:06Z",
+"uri":"http://web.archive.org/web/20140412170306/http://mama-mall.com/"
+},
+{"datetime":"2014-05-15T07:41:19Z",
+"uri":"http://web.archive.org/web/20140515074119/http://mama-mall.com/"
+},
+{"datetime":"2014-05-17T20:22:09Z",
+"uri":"http://web.archive.org/web/20140517202209/http://mama-mall.com/"
+},
+{"datetime":"2014-07-29T01:54:01Z",
+"uri":"http://web.archive.org/web/20140729015401/http://mama-mall.com/"
+},
+{"datetime":"2014-08-29T02:21:44Z",
+"uri":"http://web.archive.org/web/20140829022144/http://mama-mall.com/"
+},
+{"datetime":"2014-12-17T16:58:27Z",
+"uri":"http://web.archive.org/web/20141217165827/http://mama-mall.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://mama-mall.com/"}
+ }

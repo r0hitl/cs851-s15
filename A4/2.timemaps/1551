@@ -1,0 +1,17 @@
+{"original_uri":"http://cadot.jp/impression/1794.html?detail",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://cadot.jp/impression/1794.html?detail",
+"mementos": {
+"list": [
+{"datetime":"2015-02-21T18:11:15Z",
+"uri":"http://web.archive.org/web/20150221181115/http://cadot.jp/impression/1794.html?detail"
+},
+{"datetime":"2015-03-25T06:19:42Z",
+"uri":"http://web.archive.org/web/20150325061942/http://cadot.jp/impression/1794.html?detail"
+},
+{"datetime":"2015-04-14T00:16:43Z",
+"uri":"http://web.archive.org/web/20150414001643/http://cadot.jp/impression/1794.html?detail"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://cadot.jp/impression/1794.html?detail"}
+ }

@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          90.8248203, 
+          23.1428434
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Hamidullah Babu", 
+        "url": "http://twitter.com/HamidullahBabu/status/594003148676603904", 
+        "text": "Dispatches: After the #Earthquake - What #Nepal Needs @HelenClarkUNDP @MSF_USA http://t.co/OI2hH3X1HK By @mg2411", 
+        "created_at": "Fri May 01 04:59:21 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/478103136179978240/cPz16f8Z_normal.jpeg", 
+        "screen_name": "HamidullahBabu"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          85.333333, 
+          27.7
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Navize", 
+        "url": "http://twitter.com/navizeapp/status/594002775572262912", 
+        "text": "Nepal earthquake epicentre area 'devastated' http://t.co/WwgSXNIBJI #PembaTamang #Pemba http://t.co/4HFGrJEwZ4", 
+        "created_at": "Fri May 01 04:57:52 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/552724796220243969/roZzjS0O_normal.jpeg", 
+        "screen_name": "navizeapp"
+      }
+    }
+  ]
+}

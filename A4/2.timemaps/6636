@@ -1,0 +1,20 @@
+{"original_uri":"http://comic.pixiv.net/works/1250",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://comic.pixiv.net/works/1250",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T09:13:09Z",
+"uri":"http://archive.is/20150203091309/http://comic.pixiv.net/works/1250"
+},
+{"datetime":"2015-02-03T09:13:28Z",
+"uri":"http://web.archive.org/web/20150203091328/http://comic.pixiv.net/works/1250"
+},
+{"datetime":"2015-02-03T09:17:26Z",
+"uri":"http://web.archive.org/web/20150203091726/http://comic.pixiv.net/works/1250"
+},
+{"datetime":"2015-03-18T01:49:57Z",
+"uri":"http://web.archive.org/web/20150318014957/http://comic.pixiv.net/works/1250"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://comic.pixiv.net/works/1250"}
+ }

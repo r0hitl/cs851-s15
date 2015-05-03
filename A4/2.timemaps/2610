@@ -1,0 +1,11 @@
+{"original_uri":"http://news.nifty.com/cs/headline/de",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://news.nifty.com/cs/headline/de",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T02:09:54Z",
+"uri":"http://archive.is/20150203020954/http://news.nifty.com/cs/headline/de"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://news.nifty.com/cs/headline/de"}
+ }

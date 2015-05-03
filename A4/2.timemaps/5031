@@ -1,0 +1,20 @@
+{"original_uri":"http://7snah.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://7snah.com",
+"mementos": {
+"list": [
+{"datetime":"2014-07-27T01:13:08Z",
+"uri":"http://web.archive.org/web/20140727011308/http://7snah.com/"
+},
+{"datetime":"2015-03-02T00:49:42Z",
+"uri":"http://web.archive.org/web/20150302004942/http://7snah.com/"
+},
+{"datetime":"2015-03-29T15:24:37Z",
+"uri":"//wayback.archive-it.org/all/20150329152437/http://7snah.com/"
+},
+{"datetime":"2015-03-29T15:24:37Z",
+"uri":"http://web.archive.org/web/20150329152437/http://7snah.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://7snah.com"}
+ }

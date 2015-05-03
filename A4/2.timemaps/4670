@@ -1,0 +1,20 @@
+{"original_uri":"http://weatherfor.me/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://weatherfor.me/",
+"mementos": {
+"list": [
+{"datetime":"2009-05-06T07:55:51Z",
+"uri":"http://web.archive.org/web/20090506075551/http://www.weatherfor.me/"
+},
+{"datetime":"2009-05-07T09:20:34Z",
+"uri":"http://web.archive.org/web/20090507092034/http://www.weatherfor.me/"
+},
+{"datetime":"2013-07-20T00:54:07Z",
+"uri":"http://web.archive.org/web/20130720005407/http://weatherfor.me/"
+},
+{"datetime":"2014-12-18T15:43:32Z",
+"uri":"http://web.archive.org/web/20141218154332/http://weatherfor.me/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://weatherfor.me/"}
+ }

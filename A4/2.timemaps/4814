@@ -1,0 +1,14 @@
+{"original_uri":"http://www.chrisducker.com/s/25",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.chrisducker.com/s/25",
+"mementos": {
+"list": [
+{"datetime":"2015-04-01T16:03:13Z",
+"uri":"//wayback.archive-it.org/all/20150401160313/http://www.chrisducker.com/s/25"
+},
+{"datetime":"2015-04-01T16:03:13Z",
+"uri":"http://web.archive.org/web/20150401160313/http://www.chrisducker.com/s/25"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.chrisducker.com/s/25"}
+ }

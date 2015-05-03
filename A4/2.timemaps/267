@@ -1,0 +1,26 @@
+{"original_uri":"http://paulstamatiou.com/twitter-video/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://paulstamatiou.com/twitter-video/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-02T17:42:23Z",
+"uri":"http://archive.is/20150202174223/http://paulstamatiou.com/twitter-video/"
+},
+{"datetime":"2015-02-02T18:56:54Z",
+"uri":"http://web.archive.org/web/20150202185654/http://paulstamatiou.com/twitter-video/"
+},
+{"datetime":"2015-03-12T18:43:58Z",
+"uri":"http://web.archive.org/web/20150312184358/http://paulstamatiou.com/twitter-video/"
+},
+{"datetime":"2015-03-12T23:03:22Z",
+"uri":"http://web.archive.org/web/20150312230322/http://paulstamatiou.com/twitter-video/"
+},
+{"datetime":"2015-03-15T00:56:43Z",
+"uri":"http://web.archive.org/web/20150315005643/http://paulstamatiou.com/twitter-video/"
+},
+{"datetime":"2015-03-15T05:57:04Z",
+"uri":"http://web.archive.org/web/20150315055704/http://paulstamatiou.com/twitter-video/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://paulstamatiou.com/twitter-video/"}
+ }

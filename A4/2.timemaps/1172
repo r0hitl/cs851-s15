@@ -1,0 +1,11 @@
+{"original_uri":"http://earthquake.usgs.gov/earthquakes/shakemap/ak/shake/11501768/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://earthquake.usgs.gov/earthquakes/shakemap/ak/shake/11501768/",
+"mementos": {
+"list": [
+{"datetime":"2015-04-26T08:35:55Z",
+"uri":"http://web.archive.org/web/20150426083555/http://earthquake.usgs.gov/earthquakes/shakemap/ak/shake/11501768/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://earthquake.usgs.gov/earthquakes/shakemap/ak/shake/11501768/"}
+ }

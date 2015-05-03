@@ -1,0 +1,50 @@
+{"original_uri":"http://www.viptravelvegas.net/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.viptravelvegas.net/",
+"mementos": {
+"list": [
+{"datetime":"2015-01-07T19:41:11Z",
+"uri":"//wayback.archive-it.org/all/20150107194111/http://www.viptravelvegas.net/"
+},
+{"datetime":"2015-01-07T19:41:11Z",
+"uri":"http://web.archive.org/web/20150107194111/http://www.viptravelvegas.net/"
+},
+{"datetime":"2015-01-08T11:44:01Z",
+"uri":"//wayback.archive-it.org/all/20150108114401/http://www.viptravelvegas.net/"
+},
+{"datetime":"2015-01-08T11:44:01Z",
+"uri":"http://web.archive.org/web/20150108114401/http://www.viptravelvegas.net/"
+},
+{"datetime":"2015-01-09T18:03:09Z",
+"uri":"//wayback.archive-it.org/all/20150109180309/http://www.viptravelvegas.net/"
+},
+{"datetime":"2015-01-09T18:03:09Z",
+"uri":"http://web.archive.org/web/20150109180309/http://www.viptravelvegas.net/"
+},
+{"datetime":"2015-01-09T19:14:20Z",
+"uri":"//wayback.archive-it.org/all/20150109191420/http://www.viptravelvegas.net/"
+},
+{"datetime":"2015-01-09T19:14:20Z",
+"uri":"http://web.archive.org/web/20150109191420/http://www.viptravelvegas.net/"
+},
+{"datetime":"2015-01-10T04:58:21Z",
+"uri":"//wayback.archive-it.org/all/20150110045821/http://www.viptravelvegas.net/"
+},
+{"datetime":"2015-01-10T04:58:21Z",
+"uri":"http://web.archive.org/web/20150110045821/http://www.viptravelvegas.net/"
+},
+{"datetime":"2015-04-02T01:19:05Z",
+"uri":"//wayback.archive-it.org/all/20150402011905/http://viptravelvegas.net/"
+},
+{"datetime":"2015-04-02T01:19:05Z",
+"uri":"http://web.archive.org/web/20150402011905/http://viptravelvegas.net/"
+},
+{"datetime":"2015-04-02T01:19:07Z",
+"uri":"//wayback.archive-it.org/all/20150402011907/http://www.viptravelvegas.net/"
+},
+{"datetime":"2015-04-02T01:19:07Z",
+"uri":"http://web.archive.org/web/20150402011907/http://www.viptravelvegas.net/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.viptravelvegas.net/"}
+ }

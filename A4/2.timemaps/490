@@ -1,0 +1,20 @@
+{"original_uri":"http://exclaim.ca/Music/Streams",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://exclaim.ca/Music/Streams",
+"mementos": {
+"list": [
+{"datetime":"2014-12-14T20:40:31Z",
+"uri":"http://web.archive.org/web/20141214204031/http://exclaim.ca/Music/Streams"
+},
+{"datetime":"2015-02-10T07:25:55Z",
+"uri":"http://web.archive.org/web/20150210072555/http://exclaim.ca/Music/Streams"
+},
+{"datetime":"2015-03-15T00:49:05Z",
+"uri":"http://web.archive.org/web/20150315004905/http://exclaim.ca/Music/Streams"
+},
+{"datetime":"2015-04-06T19:29:29Z",
+"uri":"http://web.archive.org/web/20150406192929/http://exclaim.ca/music/Streams"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://exclaim.ca/Music/Streams"}
+ }

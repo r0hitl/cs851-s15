@@ -1,0 +1,20 @@
+{"original_uri":"http://info.happy-science.jp/lecture/2015/12680/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://info.happy-science.jp/lecture/2015/12680/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T09:08:58Z",
+"uri":"http://archive.is/20150203090858/http://info.happy-science.jp/lecture/2015/12680/"
+},
+{"datetime":"2015-02-03T09:13:34Z",
+"uri":"http://archive.is/20150203091334/http://info.happy-science.jp/lecture/2015/12680/"
+},
+{"datetime":"2015-02-03T11:39:08Z",
+"uri":"http://archive.is/20150203113908/http://info.happy-science.jp/lecture/2015/12680/"
+},
+{"datetime":"2015-03-16T02:30:45Z",
+"uri":"http://web.archive.org/web/20150316023045/http://info.happy-science.jp/lecture/2015/12680/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://info.happy-science.jp/lecture/2015/12680/"}
+ }

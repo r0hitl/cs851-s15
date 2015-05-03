@@ -1,0 +1,17 @@
+{"original_uri":"http://www.twitch.tv/missshowoff",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.twitch.tv/missshowoff",
+"mementos": {
+"list": [
+{"datetime":"2014-06-12T03:17:40Z",
+"uri":"http://web.archive.org/web/20140612031740/http://www.twitch.tv/missshowoff"
+},
+{"datetime":"2014-07-14T04:34:33Z",
+"uri":"http://web.archive.org/web/20140714043433/http://www.twitch.tv/missshowoff"
+},
+{"datetime":"2014-08-14T19:13:59Z",
+"uri":"http://web.archive.org/web/20140814191359/http://www.twitch.tv/missshowoff"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.twitch.tv/missshowoff"}
+ }

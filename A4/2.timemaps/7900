@@ -1,0 +1,14 @@
+{"original_uri":"http://www.bbc.co.uk/news/business-31017312?OCID=twitterasia",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.bbc.co.uk/news/business-31017312?OCID=twitterasia",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T15:07:49Z",
+"uri":"http://web.archive.org/web/20150203150749/http://www.bbc.co.uk/news/business-31017312?OCID=twitterasia"
+},
+{"datetime":"2015-02-03T15:07:49Z",
+"uri":"//wayback.archive-it.org/all/20150203150749/http://www.bbc.co.uk/news/business-31017312?OCID=twitterasia"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.bbc.co.uk/news/business-31017312?OCID=twitterasia"}
+ }

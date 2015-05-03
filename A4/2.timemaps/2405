@@ -1,0 +1,17 @@
+{"original_uri":"http://wedding.gnavi.co.jp/style/guesthouse/chiba/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://wedding.gnavi.co.jp/style/guesthouse/chiba/",
+"mementos": {
+"list": [
+{"datetime":"2014-04-24T13:39:21Z",
+"uri":"http://web.archive.org/web/20140424133921/http://wedding.gnavi.co.jp/style/guesthouse/chiba/"
+},
+{"datetime":"2014-09-10T18:21:53Z",
+"uri":"http://web.archive.org/web/20140910182153/http://wedding.gnavi.co.jp/style/guesthouse/chiba/"
+},
+{"datetime":"2015-03-19T17:16:23Z",
+"uri":"http://web.archive.org/web/20150319171623/http://wedding.gnavi.co.jp/style/guesthouse/chiba/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://wedding.gnavi.co.jp/style/guesthouse/chiba/"}
+ }

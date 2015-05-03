@@ -1,0 +1,14 @@
+{"original_uri":"http://twitpic.com/balhfx",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://twitpic.com/balhfx",
+"mementos": {
+"list": [
+{"datetime":"2013-06-23T04:49:07Z",
+"uri":"http://web.archive.org/web/20130623044907/http://twitpic.com/balhfx"
+},
+{"datetime":"2014-11-05T09:10:33Z",
+"uri":"http://web.archive.org/web/20141105091033/http://twitpic.com/balhfx"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://twitpic.com/balhfx"}
+ }

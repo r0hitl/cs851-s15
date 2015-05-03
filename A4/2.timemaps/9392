@@ -1,0 +1,26 @@
+{"original_uri":"http://arabiaforex.net/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://arabiaforex.net/",
+"mementos": {
+"list": [
+{"datetime":"2008-03-29T09:28:45Z",
+"uri":"http://web.archive.org/web/20080329092845/http://www.arabiaforex.net/?"
+},
+{"datetime":"2008-03-30T03:57:38Z",
+"uri":"http://web.archive.org/web/20080330035738/http://www.arabiaforex.net/"
+},
+{"datetime":"2008-05-12T05:58:13Z",
+"uri":"http://web.archive.org/web/20080512055813/http://www.arabiaforex.net/"
+},
+{"datetime":"2008-05-13T16:43:26Z",
+"uri":"http://web.archive.org/web/20080513164326/http://www.arabiaforex.net/?"
+},
+{"datetime":"2008-06-11T17:21:20Z",
+"uri":"http://web.archive.org/web/20080611172120/http://www.arabiaforex.net/"
+},
+{"datetime":"2008-06-13T01:16:17Z",
+"uri":"http://web.archive.org/web/20080613011617/http://www.arabiaforex.net/?"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://arabiaforex.net/"}
+ }

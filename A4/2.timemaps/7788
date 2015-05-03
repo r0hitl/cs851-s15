@@ -1,0 +1,17 @@
+{"original_uri":"http://paper.li/BlockNox/1379805234",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://paper.li/BlockNox/1379805234",
+"mementos": {
+"list": [
+{"datetime":"2014-06-16T05:10:58Z",
+"uri":"http://web.archive.org/web/20140616051058/http://paper.li/BlockNox/1379805234"
+},
+{"datetime":"2014-06-17T07:28:37Z",
+"uri":"http://web.archive.org/web/20140617072837/http://paper.li/BlockNox/1379805234"
+},
+{"datetime":"2014-07-16T23:19:31Z",
+"uri":"http://web.archive.org/web/20140716231931/http://paper.li/BlockNox/1379805234"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://paper.li/BlockNox/1379805234"}
+ }

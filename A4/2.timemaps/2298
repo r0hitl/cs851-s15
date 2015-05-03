@@ -1,0 +1,17 @@
+{"original_uri":"http://www.sponichi.co.jp/soccer/news/2015/02/03/kiji/K20150203009745240.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.sponichi.co.jp/soccer/news/2015/02/03/kiji/K20150203009745240.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T08:20:29Z",
+"uri":"http://web.archive.org/web/20150203082029/http://www.sponichi.co.jp/soccer/news/2015/02/03/kiji/K20150203009745240.html"
+},
+{"datetime":"2015-02-03T08:21:47Z",
+"uri":"http://archive.is/20150203082147/http://www.sponichi.co.jp/soccer/news/2015/02/03/kiji/K20150203009745240.html"
+},
+{"datetime":"2015-02-03T10:57:50Z",
+"uri":"http://web.archive.org/web/20150203105750/http://www.sponichi.co.jp/soccer/news/2015/02/03/kiji/K20150203009745240.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.sponichi.co.jp/soccer/news/2015/02/03/kiji/K20150203009745240.html"}
+ }

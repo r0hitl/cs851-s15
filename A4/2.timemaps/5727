@@ -1,0 +1,11 @@
+{"original_uri":"http://blogs.cisco.com/news/from-the-last-traffic-jam-to-the-last-business-jam",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://blogs.cisco.com/news/from-the-last-traffic-jam-to-the-last-business-jam",
+"mementos": {
+"list": [
+{"datetime":"2015-03-24T11:33:49Z",
+"uri":"http://web.archive.org/web/20150324113349/http://blogs.cisco.com/news/from-the-last-traffic-jam-to-the-last-business-jam"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://blogs.cisco.com/news/from-the-last-traffic-jam-to-the-last-business-jam"}
+ }

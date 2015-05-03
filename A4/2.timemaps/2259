@@ -1,0 +1,11 @@
+{"original_uri":"http://www.fabulosa.nortronica.net/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.fabulosa.nortronica.net/",
+"mementos": {
+"list": [
+{"datetime":"2015-04-29T01:12:26Z",
+"uri":"http://web.archive.org/web/20150429011226/http://www.fabulosa.nortronica.net/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.fabulosa.nortronica.net/"}
+ }

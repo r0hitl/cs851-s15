@@ -1,0 +1,20 @@
+{"original_uri":"http://diomedesdiaz.radio.fm",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://diomedesdiaz.radio.fm",
+"mementos": {
+"list": [
+{"datetime":"2015-02-11T07:23:02Z",
+"uri":"http://archive.is/20150211072302/http://diomedesdiaz.radio.fm/"
+},
+{"datetime":"2015-02-11T08:46:21Z",
+"uri":"http://web.archive.org/web/20150211084621/http://www.diomedesdiaz.radio.fm/"
+},
+{"datetime":"2015-02-11T09:59:58Z",
+"uri":"http://web.archive.org/web/20150211095958/http://diomedesdiaz.radio.fm/"
+},
+{"datetime":"2015-03-15T01:44:39Z",
+"uri":"http://web.archive.org/web/20150315014439/http://diomedesdiaz.radio.fm/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://diomedesdiaz.radio.fm"}
+ }

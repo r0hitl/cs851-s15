@@ -1,0 +1,11 @@
+{"original_uri":"http://www.sabayacafe.com/?id=26205",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.sabayacafe.com/?id=26205",
+"mementos": {
+"list": [
+{"datetime":"2014-06-22T00:43:52Z",
+"uri":"http://web.archive.org/web/20140622004352/http://www.sabayacafe.com/?id=26205"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.sabayacafe.com/?id=26205"}
+ }

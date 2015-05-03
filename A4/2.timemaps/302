@@ -1,0 +1,17 @@
+{"original_uri":"http://www.bbc.co.uk/news/uk-england-york-north-yorkshire-31094229",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.bbc.co.uk/news/uk-england-york-north-yorkshire-31094229",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T08:05:30Z",
+"uri":"http://web.archive.org/web/20150203080530/http://www.bbc.co.uk/news/uk-england-york-north-yorkshire-31094229"
+},
+{"datetime":"2015-02-04T06:47:56Z",
+"uri":"http://archive.is/20150204064756/http://www.bbc.co.uk/news/uk-england-york-north-yorkshire-31094229"
+},
+{"datetime":"2015-04-07T06:36:44Z",
+"uri":"http://web.archive.org/web/20150407063644/http://www.bbc.co.uk/news/uk-england-york-north-yorkshire-31094229"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.bbc.co.uk/news/uk-england-york-north-yorkshire-31094229"}
+ }

@@ -1,0 +1,14 @@
+{"original_uri":"http://rocketnews24.com/2015/02/03/541414/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://rocketnews24.com/2015/02/03/541414/",
+"mementos": {
+"list": [
+{"datetime":"2015-04-04T19:17:14Z",
+"uri":"http://web.archive.org/web/20150404191714/http://rocketnews24.com/2015/02/03/541414/"
+},
+{"datetime":"2015-04-05T02:42:34Z",
+"uri":"http://web.archive.org/web/20150405024234/http://rocketnews24.com/2015/02/03/541414"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://rocketnews24.com/2015/02/03/541414/"}
+ }

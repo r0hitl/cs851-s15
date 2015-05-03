@@ -1,0 +1,35 @@
+{"original_uri":"http://www.nospec.com/why-spec-work-is-bad",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.nospec.com/why-spec-work-is-bad",
+"mementos": {
+"list": [
+{"datetime":"2013-06-21T21:31:46Z",
+"uri":"http://web.archive.org/web/20130621213146/http://www.nospec.com/why-spec-work-is-bad"
+},
+{"datetime":"2013-09-15T19:16:42Z",
+"uri":"http://web.archive.org/web/20130915191642/http://www.nospec.com/why-spec-work-is-bad"
+},
+{"datetime":"2013-10-31T19:03:13Z",
+"uri":"http://web.archive.org/web/20131031190313/http://www.nospec.com/why-spec-work-is-bad"
+},
+{"datetime":"2013-12-30T01:55:39Z",
+"uri":"http://web.archive.org/web/20131230015539/http://www.nospec.com/why-spec-work-is-bad"
+},
+{"datetime":"2014-02-28T13:17:54Z",
+"uri":"http://web.archive.org/web/20140228131754/http://www.nospec.com/why-spec-work-is-bad"
+},
+{"datetime":"2014-06-26T02:29:34Z",
+"uri":"http://web.archive.org/web/20140626022934/http://www.nospec.com/why-spec-work-is-bad"
+},
+{"datetime":"2014-06-29T01:08:31Z",
+"uri":"http://web.archive.org/web/20140629010831/http://www.nospec.com/why-spec-work-is-bad"
+},
+{"datetime":"2014-08-22T16:08:00Z",
+"uri":"http://web.archive.org/web/20140822160800/http://www.nospec.com/why-spec-work-is-bad"
+},
+{"datetime":"2014-09-15T04:51:05Z",
+"uri":"http://web.archive.org/web/20140915045105/http://www.nospec.com/why-spec-work-is-bad"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.nospec.com/why-spec-work-is-bad"}
+ }

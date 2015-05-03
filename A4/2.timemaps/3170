@@ -1,0 +1,29 @@
+{"original_uri":"http://www.siaranku.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.siaranku.com/",
+"mementos": {
+"list": [
+{"datetime":"2013-07-16T19:21:53Z",
+"uri":"http://web.archive.org/web/20130716192153/http://siaranku.com/"
+},
+{"datetime":"2014-12-18T08:12:40Z",
+"uri":"http://web.archive.org/web/20141218081240/http://siaranku.com/"
+},
+{"datetime":"2014-12-22T04:01:57Z",
+"uri":"http://web.archive.org/web/20141222040157/http://www.siaranku.com/"
+},
+{"datetime":"2015-03-14T19:16:52Z",
+"uri":"http://web.archive.org/web/20150314191652/http://siaranku.com/"
+},
+{"datetime":"2015-03-14T23:38:19Z",
+"uri":"http://web.archive.org/web/20150314233819/http://www.siaranku.com/"
+},
+{"datetime":"2015-03-18T15:20:36Z",
+"uri":"http://web.archive.org/web/20150318152036/http://siaranku.com/"
+},
+{"datetime":"2015-04-06T11:36:08Z",
+"uri":"http://archive.is/20150406113608/http://www.siaranku.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.siaranku.com/"}
+ }

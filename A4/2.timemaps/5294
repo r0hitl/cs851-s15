@@ -1,0 +1,20 @@
+{"original_uri":"http://www.dyb1.kr",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.dyb1.kr",
+"mementos": {
+"list": [
+{"datetime":"2013-05-31T00:44:54Z",
+"uri":"http://web.archive.org/web/20130531004454/http://dyb1.kr/"
+},
+{"datetime":"2014-01-03T10:44:16Z",
+"uri":"http://web.archive.org/web/20140103104416/http://dyb1.kr/"
+},
+{"datetime":"2014-05-17T11:22:51Z",
+"uri":"http://web.archive.org/web/20140517112251/http://dyb1.kr/"
+},
+{"datetime":"2014-12-17T07:54:04Z",
+"uri":"http://web.archive.org/web/20141217075404/http://dyb1.kr/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.dyb1.kr"}
+ }

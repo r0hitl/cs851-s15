@@ -1,0 +1,11 @@
+{"original_uri":"http://error.kinopoisk.ru/?ht=403",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://error.kinopoisk.ru/?ht=403",
+"timemap_index": [
+{"from":"2011-06-27T13:58:51Z",
+"until":"2013-10-09T01:54:17Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://error.kinopoisk.ru/?ht=403"
+},{"from":"2013-10-10T01:54:18Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://error.kinopoisk.ru/?ht=403"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://error.kinopoisk.ru/?ht=403",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://error.kinopoisk.ru/?ht=403"
+}}

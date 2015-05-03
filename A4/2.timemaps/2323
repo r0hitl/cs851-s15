@@ -1,0 +1,11 @@
+{"original_uri":"http://www.rtwity.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.rtwity.com",
+"mementos": {
+"list": [
+{"datetime":"2014-08-11T00:12:51Z",
+"uri":"http://web.archive.org/web/20140811001251/http://www.rtwity.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.rtwity.com"}
+ }

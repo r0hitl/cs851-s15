@@ -1,0 +1,17 @@
+{"original_uri":"http://paleorecipeteam.com/cook-book.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://paleorecipeteam.com/cook-book.html",
+"mementos": {
+"list": [
+{"datetime":"2015-01-04T06:14:05Z",
+"uri":"//wayback.archive-it.org/all/20150104061405/http://paleorecipeteam.com/cook-book.html"
+},
+{"datetime":"2015-01-13T15:36:08Z",
+"uri":"//wayback.archive-it.org/all/20150113153608/http://paleorecipeteam.com/cook-book.html"
+},
+{"datetime":"2015-01-13T15:36:08Z",
+"uri":"http://web.archive.org/web/20150113153608/http://paleorecipeteam.com/cook-book.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://paleorecipeteam.com/cook-book.html"}
+ }

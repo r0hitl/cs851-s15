@@ -1,0 +1,11 @@
+{"original_uri":"http://netgeek.biz/archives/28090",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://netgeek.biz/archives/28090",
+"mementos": {
+"list": [
+{"datetime":"2015-04-03T23:19:13Z",
+"uri":"http://web.archive.org/web/20150403231913/http://netgeek.biz/archives/28090"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://netgeek.biz/archives/28090"}
+ }

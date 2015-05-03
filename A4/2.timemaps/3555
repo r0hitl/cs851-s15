@@ -1,0 +1,11 @@
+{"original_uri":"http://nirvana-store.net",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://nirvana-store.net",
+"mementos": {
+"list": [
+{"datetime":"2014-08-13T23:58:20Z",
+"uri":"http://web.archive.org/web/20140813235820/http://www.nirvana-store.net/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://nirvana-store.net"}
+ }

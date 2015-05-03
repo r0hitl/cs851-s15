@@ -1,0 +1,11 @@
+{"original_uri":"http://www.ridus.ru/news/177639",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.ridus.ru/news/177639",
+"mementos": {
+"list": [
+{"datetime":"2015-04-23T11:05:40Z",
+"uri":"http://web.archive.org/web/20150423110540/http://www.ridus.ru/news/177639"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.ridus.ru/news/177639"}
+ }

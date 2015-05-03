@@ -1,0 +1,11 @@
+{"original_uri":"http://iduto.blog.fc2.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://iduto.blog.fc2.com/",
+"mementos": {
+"list": [
+{"datetime":"2013-10-25T07:30:54Z",
+"uri":"http://web.archive.org/web/20131025073054/http://iduto.blog.fc2.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://iduto.blog.fc2.com/"}
+ }

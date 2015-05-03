@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          76.7492059, 
+          30.6788209
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Vijay Gill  \u0939\u093f\u0928\u094d\u0926\u0942", 
+        "url": "http://twitter.com/gillhindu/status/592493349514317824", 
+        "text": "Rains, fresh tremors hamper rescue works in Nepal, toll crosses 2400#EarthquakeAgain http://t.co/WJN44ZzVTn #IndiaTV http://t.co/FM4KTKqBzF\"", 
+        "created_at": "Mon Apr 27 00:59:57 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/413114032548098048/5YCS0pPU_normal.jpeg", 
+        "screen_name": "gillhindu"
+      }
+    }
+  ]
+}

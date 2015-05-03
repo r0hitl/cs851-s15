@@ -1,0 +1,11 @@
+{"original_uri":"http://www.hersleb.vgs.no/tilbud/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.hersleb.vgs.no/tilbud/",
+"mementos": {
+"list": [
+{"datetime":"2014-02-03T04:51:48Z",
+"uri":"http://web.archive.org/web/20140203045148/http://www.hersleb.vgs.no/tilbud/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.hersleb.vgs.no/tilbud/"}
+ }

@@ -1,0 +1,17 @@
+{"original_uri":"http://www.wsj.com/articles/SB10001424052970203918304577243321242833962",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.wsj.com/articles/SB10001424052970203918304577243321242833962",
+"mementos": {
+"list": [
+{"datetime":"2015-01-09T14:15:24Z",
+"uri":"http://archive.is/20150109141524/http://www.wsj.com/articles/SB10001424052970203918304577243321242833962"
+},
+{"datetime":"2015-01-31T19:48:49Z",
+"uri":"http://web.archive.org/web/20150131194849/http://www.wsj.com/articles/SB10001424052970203918304577243321242833962"
+},
+{"datetime":"2015-04-01T12:59:40Z",
+"uri":"http://web.archive.org/web/20150401125940/http://www.wsj.com/articles/SB10001424052970203918304577243321242833962"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.wsj.com/articles/SB10001424052970203918304577243321242833962"}
+ }

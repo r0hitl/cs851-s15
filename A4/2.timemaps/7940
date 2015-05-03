@@ -1,0 +1,35 @@
+{"original_uri":"http://www.interskol.ru/vopros-valuevy/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.interskol.ru/vopros-valuevy/",
+"mementos": {
+"list": [
+{"datetime":"2014-06-08T05:21:11Z",
+"uri":"http://web.archive.org/web/20140608052111/http://interskol.ru/vopros-valuevy/"
+},
+{"datetime":"2014-06-25T06:22:51Z",
+"uri":"http://web.archive.org/web/20140625062251/http://interskol.ru/vopros-valuevy/"
+},
+{"datetime":"2014-08-09T06:09:04Z",
+"uri":"http://web.archive.org/web/20140809060904/http://www.interskol.ru/vopros-valuevy/"
+},
+{"datetime":"2014-08-11T20:30:20Z",
+"uri":"http://web.archive.org/web/20140811203020/http://www.interskol.ru/vopros-valuevy"
+},
+{"datetime":"2014-08-11T20:30:20Z",
+"uri":"http://web.archive.org/web/20140811203020/http://www.interskol.ru/vopros-valuevy/"
+},
+{"datetime":"2014-09-13T19:37:51Z",
+"uri":"http://web.archive.org/web/20140913193751/http://www.interskol.ru/vopros-valuevy"
+},
+{"datetime":"2014-09-13T19:37:51Z",
+"uri":"http://web.archive.org/web/20140913193751/http://www.interskol.ru/vopros-valuevy/"
+},
+{"datetime":"2015-02-15T12:18:47Z",
+"uri":"http://web.archive.org/web/20150215121847/http://interskol.ru/vopros-valuevy/"
+},
+{"datetime":"2015-03-15T00:18:51Z",
+"uri":"http://web.archive.org/web/20150315001851/http://interskol.ru/vopros-valuevy/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.interskol.ru/vopros-valuevy/"}
+ }

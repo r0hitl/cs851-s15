@@ -1,0 +1,35 @@
+{"original_uri":"http://blog.dilbert.com/post/109880240641/sciences-biggest-fail",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://blog.dilbert.com/post/109880240641/sciences-biggest-fail",
+"mementos": {
+"list": [
+{"datetime":"2015-02-02T16:45:50Z",
+"uri":"http://web.archive.org/web/20150202164550/http://blog.dilbert.com/post/109880240641/sciences-biggest-fail"
+},
+{"datetime":"2015-02-02T18:10:14Z",
+"uri":"http://archive.is/20150202181014/http://blog.dilbert.com/post/109880240641/sciences-biggest-fail"
+},
+{"datetime":"2015-02-02T21:02:10Z",
+"uri":"http://www.webcitation.org/6W38xmp8q"
+},
+{"datetime":"2015-02-03T00:30:39Z",
+"uri":"http://web.archive.org/web/20150203003039/http://blog.dilbert.com/post/109880240641/sciences-biggest-fail"
+},
+{"datetime":"2015-02-03T17:42:00Z",
+"uri":"http://archive.is/20150203174200/http://blog.dilbert.com/post/109880240641/sciences-biggest-fail"
+},
+{"datetime":"2015-03-17T07:13:55Z",
+"uri":"http://web.archive.org/web/20150317071355/http://blog.dilbert.com/post/109880240641/sciences-biggest-fail"
+},
+{"datetime":"2015-03-17T16:14:22Z",
+"uri":"http://web.archive.org/web/20150317161422/http://blog.dilbert.com/post/109880240641/sciences-biggest-fail"
+},
+{"datetime":"2015-03-29T00:22:05Z",
+"uri":"http://web.archive.org/web/20150329002205/http://blog.dilbert.com/post/109880240641/sciences-biggest-fail"
+},
+{"datetime":"2015-04-16T11:34:41Z",
+"uri":"http://web.archive.org/web/20150416113441/http://blog.dilbert.com/post/109880240641/sciences-biggest-fail"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://blog.dilbert.com/post/109880240641/sciences-biggest-fail"}
+ }

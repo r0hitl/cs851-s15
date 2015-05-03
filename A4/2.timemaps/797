@@ -1,0 +1,17 @@
+{"original_uri":"http://itpro.nikkeibp.co.jp/atcl/news/15/020300397/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://itpro.nikkeibp.co.jp/atcl/news/15/020300397/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T11:56:52Z",
+"uri":"http://archive.is/20150203115652/http://itpro.nikkeibp.co.jp/atcl/news/15/020300397/"
+},
+{"datetime":"2015-02-03T11:57:36Z",
+"uri":"http://web.archive.org/web/20150203115736/http://itpro.nikkeibp.co.jp/atcl/news/15/020300397/"
+},
+{"datetime":"2015-04-05T10:44:57Z",
+"uri":"http://web.archive.org/web/20150405104457/http://itpro.nikkeibp.co.jp/atcl/news/15/020300397/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://itpro.nikkeibp.co.jp/atcl/news/15/020300397/"}
+ }

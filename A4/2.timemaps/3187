@@ -1,0 +1,11 @@
+{"original_uri":"http://disneychannel.disney.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://disneychannel.disney.com",
+"timemap_index": [
+{"from":"2013-03-03T11:07:48Z",
+"until":"2014-08-31T12:10:44Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://disneychannel.disney.com"
+},{"from":"2014-08-31T22:59:06Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://disneychannel.disney.com"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://disneychannel.disney.com",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://disneychannel.disney.com"
+}}

@@ -1,0 +1,20 @@
+{"original_uri":"http://www.viptravelvegas.net/nightclubs/xs/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.viptravelvegas.net/nightclubs/xs/",
+"mementos": {
+"list": [
+{"datetime":"2015-01-07T19:41:56Z",
+"uri":"//wayback.archive-it.org/all/20150107194156/http://www.viptravelvegas.net/nightclubs/xs/"
+},
+{"datetime":"2015-01-07T19:41:56Z",
+"uri":"http://web.archive.org/web/20150107194156/http://www.viptravelvegas.net/nightclubs/xs/"
+},
+{"datetime":"2015-01-10T04:58:17Z",
+"uri":"//wayback.archive-it.org/all/20150110045817/http://www.viptravelvegas.net/nightclubs/xs/"
+},
+{"datetime":"2015-01-10T04:58:17Z",
+"uri":"http://web.archive.org/web/20150110045817/http://www.viptravelvegas.net/nightclubs/xs/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.viptravelvegas.net/nightclubs/xs/"}
+ }

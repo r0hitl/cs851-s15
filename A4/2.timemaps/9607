@@ -1,0 +1,29 @@
+{"original_uri":"http://www.theregister.co.uk",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.theregister.co.uk",
+"timemap_index": [
+{"from":"1998-06-28T14:56:26Z",
+"until":"2005-11-25T12:46:10Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://www.theregister.co.uk"
+},{"from":"2005-11-25T15:31:27Z",
+"until":"2010-08-04T11:54:35Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://www.theregister.co.uk"
+},{"from":"2010-08-05T00:06:54Z",
+"until":"2011-12-10T08:24:32Z",
+"uri":"http://labs.mementoweb.org/timemap/json/2000/http://www.theregister.co.uk"
+},{"from":"2011-12-10T09:59:37Z",
+"until":"2012-11-24T15:01:32Z",
+"uri":"http://labs.mementoweb.org/timemap/json/3000/http://www.theregister.co.uk"
+},{"from":"2012-11-24T16:22:04Z",
+"until":"2013-10-27T15:01:03Z",
+"uri":"http://labs.mementoweb.org/timemap/json/4000/http://www.theregister.co.uk"
+},{"from":"2013-10-27T15:01:03Z",
+"until":"2014-05-24T21:30:29Z",
+"uri":"http://labs.mementoweb.org/timemap/json/5000/http://www.theregister.co.uk"
+},{"from":"2014-05-24T21:32:52Z",
+"until":"2015-01-16T23:52:22Z",
+"uri":"http://labs.mementoweb.org/timemap/json/6000/http://www.theregister.co.uk"
+},{"from":"2015-01-16T23:52:23Z",
+"uri":"http://labs.mementoweb.org/timemap/json/7000/http://www.theregister.co.uk"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://www.theregister.co.uk",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://www.theregister.co.uk"
+}}

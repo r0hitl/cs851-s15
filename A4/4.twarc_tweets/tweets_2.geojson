@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -111.8903811, 
+          40.76356463
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Chris Jones", 
+        "url": "http://twitter.com/jonesnews/status/592849748081692675", 
+        "text": "A Sandy couple, trapped in Nepal, takes pictures of the earthquake ravaged Street. @ 2news https://t.co/Fn0PbBwZM9", 
+        "created_at": "Tue Apr 28 00:36:09 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/429114192717545473/KjXy09TX_normal.jpeg", 
+        "screen_name": "jonesnews"
+      }
+    }
+  ]
+}

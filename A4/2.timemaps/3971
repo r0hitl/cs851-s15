@@ -1,0 +1,17 @@
+{"original_uri":"http://twitterbebek.org",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://twitterbebek.org",
+"mementos": {
+"list": [
+{"datetime":"2014-04-20T08:22:34Z",
+"uri":"http://web.archive.org/web/20140420082234/http://twitterbebek.org/"
+},
+{"datetime":"2014-06-07T19:16:10Z",
+"uri":"http://web.archive.org/web/20140607191610/http://twitterbebek.org/"
+},
+{"datetime":"2014-08-05T20:25:41Z",
+"uri":"http://web.archive.org/web/20140805202541/http://twitterbebek.org/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://twitterbebek.org"}
+ }

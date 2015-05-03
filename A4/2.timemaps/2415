@@ -1,0 +1,11 @@
+{"original_uri":"http://news.livedoor.com/article/detail/9745758/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://news.livedoor.com/article/detail/9745758/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T16:42:02Z",
+"uri":"http://web.archive.org/web/20150203164202/http://news.livedoor.com/article/detail/9745758/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://news.livedoor.com/article/detail/9745758/"}
+ }

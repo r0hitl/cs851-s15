@@ -1,0 +1,23 @@
+{"original_uri":"http://togetter.com/li/777970",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://togetter.com/li/777970",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T23:37:32Z",
+"uri":"http://web.archive.org/web/20150204233732/http://togetter.com/li/777970"
+},
+{"datetime":"2015-02-04T23:37:32Z",
+"uri":"//wayback.archive-it.org/all/20150204233732/http://togetter.com/li/777970"
+},
+{"datetime":"2015-02-13T06:00:37Z",
+"uri":"http://web.archive.org/web/20150213060037/http://togetter.com/li/777970"
+},
+{"datetime":"2015-03-15T06:45:58Z",
+"uri":"http://web.archive.org/web/20150315064558/http://togetter.com/li/777970"
+},
+{"datetime":"2015-04-06T01:07:45Z",
+"uri":"http://web.archive.org/web/20150406010745/http://togetter.com/li/777970"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://togetter.com/li/777970"}
+ }

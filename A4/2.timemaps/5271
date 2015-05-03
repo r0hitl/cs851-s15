@@ -1,0 +1,11 @@
+{"original_uri":"http://iba.ventures/bootcamp/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://iba.ventures/bootcamp/",
+"mementos": {
+"list": [
+{"datetime":"2015-03-19T16:56:57Z",
+"uri":"http://web.archive.org/web/20150319165657/https://iba.ventures/bootcamp/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://iba.ventures/bootcamp/"}
+ }

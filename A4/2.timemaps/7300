@@ -1,0 +1,14 @@
+{"original_uri":"http://www.weather.com/weather/today/07451",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.weather.com/weather/today/07451",
+"mementos": {
+"list": [
+{"datetime":"2011-01-24T17:12:48Z",
+"uri":"http://web.archive.org/web/20110124171248/http://www.weather.com/weather/today/07451"
+},
+{"datetime":"2014-02-10T02:22:44Z",
+"uri":"http://web.archive.org/web/20140210022244/http://www.weather.com/weather/today/07451"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.weather.com/weather/today/07451"}
+ }

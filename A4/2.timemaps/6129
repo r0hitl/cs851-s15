@@ -1,0 +1,44 @@
+{"original_uri":"http://wexonmart.com/category/classic-cars",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://wexonmart.com/category/classic-cars",
+"mementos": {
+"list": [
+{"datetime":"2014-04-19T20:36:42Z",
+"uri":"http://web.archive.org/web/20140419203642/http://wexonmart.com/category/classic-cars"
+},
+{"datetime":"2014-07-01T00:46:19Z",
+"uri":"http://web.archive.org/web/20140701004619/http://wexonmart.com/category/classic-cars"
+},
+{"datetime":"2014-07-06T13:38:17Z",
+"uri":"http://web.archive.org/web/20140706133817/http://wexonmart.com/category/classic-cars"
+},
+{"datetime":"2014-08-04T05:19:53Z",
+"uri":"http://web.archive.org/web/20140804051953/http://wexonmart.com/category/classic-cars"
+},
+{"datetime":"2014-08-07T05:03:03Z",
+"uri":"http://web.archive.org/web/20140807050303/http://wexonmart.com/category/classic-cars"
+},
+{"datetime":"2014-09-08T19:52:08Z",
+"uri":"http://web.archive.org/web/20140908195208/http://wexonmart.com/category/classic-cars"
+},
+{"datetime":"2015-01-07T21:12:59Z",
+"uri":"//wayback.archive-it.org/all/20150107211259/http://wexonmart.com/category/classic-cars"
+},
+{"datetime":"2015-01-07T21:12:59Z",
+"uri":"http://web.archive.org/web/20150107211259/http://wexonmart.com/category/classic-cars"
+},
+{"datetime":"2015-01-08T17:21:21Z",
+"uri":"//wayback.archive-it.org/all/20150108172121/http://wexonmart.com/category/classic-cars"
+},
+{"datetime":"2015-01-08T17:21:21Z",
+"uri":"http://web.archive.org/web/20150108172121/http://wexonmart.com/category/classic-cars"
+},
+{"datetime":"2015-02-17T00:58:07Z",
+"uri":"//wayback.archive-it.org/all/20150217005807/http://wexonmart.com/category/classic-cars"
+},
+{"datetime":"2015-02-17T00:58:07Z",
+"uri":"http://web.archive.org/web/20150217005807/http://wexonmart.com/category/classic-cars"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://wexonmart.com/category/classic-cars"}
+ }

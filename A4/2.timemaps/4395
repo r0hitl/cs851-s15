@@ -1,0 +1,11 @@
+{"original_uri":"http://play.google.com/store/apps/details?id=jp.panpanda.panpanda",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://play.google.com/store/apps/details?id=jp.panpanda.panpanda",
+"mementos": {
+"list": [
+{"datetime":"2013-12-14T01:28:45Z",
+"uri":"http://web.archive.org/web/20131214012845/https://play.google.com/store/apps/details?id=jp.panpanda.panpanda"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://play.google.com/store/apps/details?id=jp.panpanda.panpanda"}
+ }

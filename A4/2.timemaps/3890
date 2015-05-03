@@ -1,0 +1,23 @@
+{"original_uri":"http://accounts.google.com/ServiceLogin?service=wise",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://accounts.google.com/ServiceLogin?service=wise",
+"mementos": {
+"list": [
+{"datetime":"2013-11-03T10:02:14Z",
+"uri":"http://web.archive.org/web/20131103100214/https://accounts.google.com/ServiceLogin?service=wise"
+},
+{"datetime":"2014-01-16T08:03:26Z",
+"uri":"http://web.archive.org/web/20140116080326/https://accounts.google.com/ServiceLogin?service=wise"
+},
+{"datetime":"2014-01-16T08:03:26Z",
+"uri":"//wayback.archive-it.org/all/20140116080326/https://accounts.google.com/ServiceLogin?service=wise"
+},
+{"datetime":"2014-09-09T10:19:16Z",
+"uri":"http://web.archive.org/web/20140909101916/https://accounts.google.com/ServiceLogin?service=wise"
+},
+{"datetime":"2014-09-09T10:19:16Z",
+"uri":"//wayback.archive-it.org/all/20140909101916/https://accounts.google.com/ServiceLogin?service=wise"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://accounts.google.com/ServiceLogin?service=wise"}
+ }

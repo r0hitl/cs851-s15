@@ -1,0 +1,14 @@
+{"original_uri":"http://www.medicalnewstoday.com/articles/288837.php",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.medicalnewstoday.com/articles/288837.php",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T03:10:16Z",
+"uri":"http://web.archive.org/web/20150203031016/http://www.medicalnewstoday.com/articles/288837.php"
+},
+{"datetime":"2015-03-25T06:51:35Z",
+"uri":"http://web.archive.org/web/20150325065135/http://www.medicalnewstoday.com/articles/288837.php"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.medicalnewstoday.com/articles/288837.php"}
+ }

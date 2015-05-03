@@ -1,0 +1,20 @@
+{"original_uri":"http://www.miffy60-exhibition.jp/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.miffy60-exhibition.jp/",
+"mementos": {
+"list": [
+{"datetime":"2014-12-26T15:20:56Z",
+"uri":"http://web.archive.org/web/20141226152056/http://miffy60-exhibition.jp/"
+},
+{"datetime":"2015-03-14T23:50:23Z",
+"uri":"http://web.archive.org/web/20150314235023/http://www.miffy60-exhibition.jp/"
+},
+{"datetime":"2015-04-02T23:36:37Z",
+"uri":"http://web.archive.org/web/20150402233637/http://www.miffy60-exhibition.jp/"
+},
+{"datetime":"2015-04-02T23:36:46Z",
+"uri":"http://archive.is/20150402233646/http://www.miffy60-exhibition.jp/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.miffy60-exhibition.jp/"}
+ }

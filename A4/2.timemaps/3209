@@ -1,0 +1,23 @@
+{"original_uri":"http://www.bbc.com/news/magazine-31051633",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.bbc.com/news/magazine-31051633",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T16:44:11Z",
+"uri":"http://web.archive.org/web/20150203164411/http://www.bbc.com/news/magazine-31051633"
+},
+{"datetime":"2015-03-12T16:02:13Z",
+"uri":"//wayback.archive-it.org/all/20150312160213/http://www.bbc.com/news/magazine-31051633"
+},
+{"datetime":"2015-03-15T07:38:02Z",
+"uri":"http://web.archive.org/web/20150315073802/http://www.bbc.com/news/magazine-31051633"
+},
+{"datetime":"2015-03-22T04:38:16Z",
+"uri":"//wayback.archive-it.org/all/20150322043816/http://www.bbc.com/news/magazine-31051633"
+},
+{"datetime":"2015-03-22T04:38:16Z",
+"uri":"//wayback.archive-it.org/all/20150322043816/http://www.bbc.com/news/magazine-31051633"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.bbc.com/news/magazine-31051633"}
+ }

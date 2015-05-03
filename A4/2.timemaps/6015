@@ -1,0 +1,26 @@
+{"original_uri":"http://cooljapan-shipping.com/?lang=",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://cooljapan-shipping.com/?lang=",
+"mementos": {
+"list": [
+{"datetime":"2014-11-08T22:26:19Z",
+"uri":"http://web.archive.org/web/20141108222619/http://cooljapan-shipping.com/?lang="
+},
+{"datetime":"2014-12-02T06:28:33Z",
+"uri":"http://web.archive.org/web/20141202062833/http://cooljapan-shipping.com/?lang="
+},
+{"datetime":"2014-12-19T04:51:28Z",
+"uri":"http://web.archive.org/web/20141219045128/http://cooljapan-shipping.com/?lang="
+},
+{"datetime":"2015-01-24T18:15:03Z",
+"uri":"http://web.archive.org/web/20150124181503/http://cooljapan-shipping.com/?lang="
+},
+{"datetime":"2015-03-31T12:51:57Z",
+"uri":"http://web.archive.org/web/20150331125157/http://cooljapan-shipping.com/?lang="
+},
+{"datetime":"2015-04-21T13:44:56Z",
+"uri":"http://web.archive.org/web/20150421134456/http://cooljapan-shipping.com/?lang="
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://cooljapan-shipping.com/?lang="}
+ }

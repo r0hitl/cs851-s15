@@ -1,0 +1,32 @@
+{"original_uri":"http://tinyurl.com/maxnvyf",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://tinyurl.com/maxnvyf",
+"mementos": {
+"list": [
+{"datetime":"2015-01-16T02:15:29Z",
+"uri":"//wayback.archive-it.org/all/20150116021529/http://tinyurl.com/maxnvyf"
+},
+{"datetime":"2015-01-16T02:15:29Z",
+"uri":"http://web.archive.org/web/20150116021529/http://tinyurl.com/maxnvyf"
+},
+{"datetime":"2015-01-21T10:06:25Z",
+"uri":"//wayback.archive-it.org/all/20150121100625/http://tinyurl.com/maxnvyf"
+},
+{"datetime":"2015-01-21T10:06:25Z",
+"uri":"http://web.archive.org/web/20150121100625/http://tinyurl.com/maxnvyf"
+},
+{"datetime":"2015-01-23T01:23:08Z",
+"uri":"//wayback.archive-it.org/all/20150123012308/http://tinyurl.com/maxnvyf"
+},
+{"datetime":"2015-01-23T01:23:08Z",
+"uri":"http://web.archive.org/web/20150123012308/http://tinyurl.com/maxnvyf"
+},
+{"datetime":"2015-02-01T14:18:02Z",
+"uri":"//wayback.archive-it.org/all/20150201141802/http://tinyurl.com/maxnvyf"
+},
+{"datetime":"2015-02-01T14:18:02Z",
+"uri":"http://web.archive.org/web/20150201141802/http://tinyurl.com/maxnvyf"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://tinyurl.com/maxnvyf"}
+ }

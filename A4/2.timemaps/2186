@@ -1,0 +1,20 @@
+{"original_uri":"http://nl.choizzes.eu/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://nl.choizzes.eu/",
+"mementos": {
+"list": [
+{"datetime":"2014-05-17T03:48:49Z",
+"uri":"http://web.archive.org/web/20140517034849/https://nl.choizzes.eu/"
+},
+{"datetime":"2014-12-16T22:30:02Z",
+"uri":"http://web.archive.org/web/20141216223002/https://nl.choizzes.eu/"
+},
+{"datetime":"2014-12-19T05:49:46Z",
+"uri":"http://web.archive.org/web/20141219054946/https://nl.choizzes.eu/"
+},
+{"datetime":"2015-03-19T01:03:27Z",
+"uri":"http://web.archive.org/web/20150319010327/https://nl.choizzes.eu/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://nl.choizzes.eu/"}
+ }

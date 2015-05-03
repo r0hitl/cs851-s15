@@ -1,0 +1,14 @@
+{"original_uri":"http://fr.uefa.com/uefaeuro/finals/news/newsid=2204197.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://fr.uefa.com/uefaeuro/finals/news/newsid=2204197.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-19T00:49:29Z",
+"uri":"http://web.archive.org/web/20150219004929/http://fr.uefa.com/uefaeuro/finals/news/newsid=2204197.html"
+},
+{"datetime":"2015-03-31T14:25:06Z",
+"uri":"http://web.archive.org/web/20150331142506/http://fr.uefa.com/uefaeuro/finals/news/newsid=2204197.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://fr.uefa.com/uefaeuro/finals/news/newsid=2204197.html"}
+ }

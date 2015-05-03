@@ -1,0 +1,65 @@
+{"original_uri":"http://www.youtube.com/watch?v=dQDilmi8RwI",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.youtube.com/watch?v=dQDilmi8RwI",
+"mementos": {
+"list": [
+{"datetime":"2015-03-04T15:15:15Z",
+"uri":"http://web.archive.org/web/20150304151515/https://www.youtube.com/watch?v=dQDilmi8RwI"
+},
+{"datetime":"2015-03-04T15:15:15Z",
+"uri":"//wayback.archive-it.org/all/20150304151515/https://www.youtube.com/watch?v=dQDilmi8RwI"
+},
+{"datetime":"2015-03-04T15:15:16Z",
+"uri":"//wayback.archive-it.org/all/20150304151516/http://www.youtube.com/watch?v=dQDilmi8RwI"
+},
+{"datetime":"2015-03-05T20:37:33Z",
+"uri":"http://web.archive.org/web/20150305203733/https://www.youtube.com/watch?v=dQDilmi8RwI"
+},
+{"datetime":"2015-03-05T20:37:33Z",
+"uri":"//wayback.archive-it.org/all/20150305203733/https://www.youtube.com/watch?v=dQDilmi8RwI"
+},
+{"datetime":"2015-03-05T20:37:34Z",
+"uri":"//wayback.archive-it.org/all/20150305203734/http://www.youtube.com/watch?v=dQDilmi8RwI"
+},
+{"datetime":"2015-03-10T09:11:12Z",
+"uri":"http://web.archive.org/web/20150310091112/https://www.youtube.com/watch?v=dQDilmi8RwI"
+},
+{"datetime":"2015-03-24T15:54:52Z",
+"uri":"http://web.archive.org/web/20150324155452/https://www.youtube.com/watch?v=dQDilmi8RwI"
+},
+{"datetime":"2015-04-01T21:24:20Z",
+"uri":"http://web.archive.org/web/20150401212420/http://www.youtube.com/watch?v=dQDilmi8RwI"
+},
+{"datetime":"2015-04-01T21:24:21Z",
+"uri":"http://web.archive.org/web/20150401212421/https://www.youtube.com/watch?v=dQDilmi8RwI"
+},
+{"datetime":"2015-04-05T20:21:56Z",
+"uri":"http://web.archive.org/web/20150405202156/https://www.youtube.com/watch?v=dQDilmi8RwI"
+},
+{"datetime":"2015-04-05T20:21:56Z",
+"uri":"//wayback.archive-it.org/all/20150405202156/https://www.youtube.com/watch?v=dQDilmi8RwI"
+},
+{"datetime":"2015-04-05T20:21:57Z",
+"uri":"//wayback.archive-it.org/all/20150405202157/http://www.youtube.com/watch?v=dQDilmi8RwI"
+},
+{"datetime":"2015-04-07T10:46:28Z",
+"uri":"http://web.archive.org/web/20150407104628/https://www.youtube.com/watch?v=dQDilmi8RwI"
+},
+{"datetime":"2015-04-08T22:25:43Z",
+"uri":"http://web.archive.org/web/20150408222543/http://www.youtube.com/watch?v=dQDilmi8RwI"
+},
+{"datetime":"2015-04-08T22:25:44Z",
+"uri":"http://web.archive.org/web/20150408222544/https://www.youtube.com/watch?v=dQDilmi8RwI"
+},
+{"datetime":"2015-04-15T23:13:50Z",
+"uri":"http://web.archive.org/web/20150415231350/http://www.youtube.com/watch?v=dQDilmi8RwI"
+},
+{"datetime":"2015-04-15T23:13:56Z",
+"uri":"http://web.archive.org/web/20150415231356/https://www.youtube.com/watch?v=dQDilmi8RwI"
+},
+{"datetime":"2015-04-28T14:56:15Z",
+"uri":"http://web.archive.org/web/20150428145615/https://www.youtube.com/watch?v=dQDilmi8RwI&amp=&itct=CBQQpDAYBSITCNip6Keys8QCFdAgfgod20kA2TIHcmVsYXRlZEiQ3tDZw8KV-0k%3D&amp=&gl=JP&amp=&client=mv-google&amp=&hl=en&app=desktop"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.youtube.com/watch?v=dQDilmi8RwI"}
+ }

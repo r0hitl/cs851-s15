@@ -1,0 +1,11 @@
+{"original_uri":"http://tribuna.ru/news/2015/02/02/60333/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://tribuna.ru/news/2015/02/02/60333/",
+"mementos": {
+"list": [
+{"datetime":"2015-04-03T15:07:22Z",
+"uri":"http://web.archive.org/web/20150403150722/http://tribuna.ru/news/2015/02/02/60333/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://tribuna.ru/news/2015/02/02/60333/"}
+ }

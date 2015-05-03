@@ -1,0 +1,14 @@
+{"original_uri":"http://www.data.jma.go.jp/svd/vois/data/tokyo/STOCK/volinfo/VG20150131223944_506.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.data.jma.go.jp/svd/vois/data/tokyo/STOCK/volinfo/VG20150131223944_506.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-01T08:18:29Z",
+"uri":"//wayback.archive-it.org/all/20150201081829/http://www.data.jma.go.jp/svd/vois/data/tokyo/STOCK/volinfo/VG20150131223944_506.html"
+},
+{"datetime":"2015-02-01T08:18:29Z",
+"uri":"http://web.archive.org/web/20150201081829/http://www.data.jma.go.jp/svd/vois/data/tokyo/STOCK/volinfo/VG20150131223944_506.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.data.jma.go.jp/svd/vois/data/tokyo/STOCK/volinfo/VG20150131223944_506.html"}
+ }

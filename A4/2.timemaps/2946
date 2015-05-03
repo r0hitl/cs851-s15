@@ -1,0 +1,14 @@
+{"original_uri":"http://news.yahoo.co.jp/pickup/6148342",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://news.yahoo.co.jp/pickup/6148342",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T08:20:31Z",
+"uri":"http://archive.is/20150203082031/http://news.yahoo.co.jp/pickup/6148342"
+},
+{"datetime":"2015-02-03T08:20:52Z",
+"uri":"http://web.archive.org/web/20150203082052/http://news.yahoo.co.jp/pickup/6148342"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://news.yahoo.co.jp/pickup/6148342"}
+ }

@@ -1,0 +1,17 @@
+{"original_uri":"http://www.wired.com/2015/01/freshman-year-for-free/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.wired.com/2015/01/freshman-year-for-free/",
+"mementos": {
+"list": [
+{"datetime":"2015-01-30T23:20:32Z",
+"uri":"http://web.archive.org/web/20150130232032/http://www.wired.com/2015/01/freshman-year-for-free/"
+},
+{"datetime":"2015-02-04T11:42:51Z",
+"uri":"http://web.archive.org/web/20150204114251/http://www.wired.com/2015/01/freshman-year-for-free/"
+},
+{"datetime":"2015-04-19T05:58:09Z",
+"uri":"http://web.archive.org/web/20150419055809/http://www.wired.com/2015/01/freshman-year-for-free/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.wired.com/2015/01/freshman-year-for-free/"}
+ }

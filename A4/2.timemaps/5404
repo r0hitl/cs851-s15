@@ -1,0 +1,17 @@
+{"original_uri":"http://tenniscircus.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://tenniscircus.com/",
+"mementos": {
+"list": [
+{"datetime":"2013-10-05T07:59:51Z",
+"uri":"http://web.archive.org/web/20131005075951/http://tenniscircus.com/"
+},
+{"datetime":"2015-04-05T06:39:26Z",
+"uri":"http://web.archive.org/web/20150405063926/http://tenniscircus.com/"
+},
+{"datetime":"2015-04-23T14:45:50Z",
+"uri":"http://archive.is/20150423144550/http://tenniscircus.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://tenniscircus.com/"}
+ }

@@ -1,0 +1,32 @@
+{"original_uri":"http://SocialQuant.me",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://SocialQuant.me",
+"mementos": {
+"list": [
+{"datetime":"2015-01-08T06:16:26Z",
+"uri":"//wayback.archive-it.org/all/20150108061626/http://socialquant.me/"
+},
+{"datetime":"2015-01-08T06:16:26Z",
+"uri":"http://web.archive.org/web/20150108061626/http://socialquant.me/"
+},
+{"datetime":"2015-01-09T07:30:35Z",
+"uri":"//wayback.archive-it.org/all/20150109073035/http://socialquant.me/"
+},
+{"datetime":"2015-01-09T07:30:35Z",
+"uri":"http://web.archive.org/web/20150109073035/http://socialquant.me/"
+},
+{"datetime":"2015-01-10T08:02:44Z",
+"uri":"//wayback.archive-it.org/all/20150110080244/http://socialquant.me/"
+},
+{"datetime":"2015-01-10T08:02:44Z",
+"uri":"http://web.archive.org/web/20150110080244/http://socialquant.me/"
+},
+{"datetime":"2015-03-29T17:54:21Z",
+"uri":"//wayback.archive-it.org/all/20150329175421/http://socialquant.me/"
+},
+{"datetime":"2015-03-29T17:54:21Z",
+"uri":"http://web.archive.org/web/20150329175421/http://socialquant.me/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://SocialQuant.me"}
+ }

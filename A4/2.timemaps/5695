@@ -1,0 +1,11 @@
+{"original_uri":"http://www.infotop.jp/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.infotop.jp/",
+"timemap_index": [
+{"from":"2006-11-08T07:31:00Z",
+"until":"2012-02-15T14:03:19Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://www.infotop.jp/"
+},{"from":"2012-02-16T03:22:41Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://www.infotop.jp/"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://www.infotop.jp/",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://www.infotop.jp/"
+}}

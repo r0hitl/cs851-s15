@@ -1,0 +1,62 @@
+{"original_uri":"http://www.nukiten.com/index2.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.nukiten.com/index2.html",
+"mementos": {
+"list": [
+{"datetime":"2011-09-12T09:59:48Z",
+"uri":"http://web.archive.org/web/20110912095948/http://www.nukiten.com/index2.html"
+},
+{"datetime":"2012-06-21T06:07:01Z",
+"uri":"http://web.archive.org/web/20120621060701/http://www.nukiten.com/index2.html"
+},
+{"datetime":"2012-06-21T07:35:55Z",
+"uri":"http://web.archive.org/web/20120621073555/http://www.nukiten.com/index2.html"
+},
+{"datetime":"2012-06-21T12:01:04Z",
+"uri":"http://web.archive.org/web/20120621120104/http://www.nukiten.com/index2.html"
+},
+{"datetime":"2013-06-19T04:12:09Z",
+"uri":"http://web.archive.org/web/20130619041209/http://www.nukiten.com/index2.html"
+},
+{"datetime":"2013-07-20T02:59:39Z",
+"uri":"http://web.archive.org/web/20130720025939/http://www.nukiten.com/index2.html"
+},
+{"datetime":"2013-08-20T08:02:04Z",
+"uri":"http://web.archive.org/web/20130820080204/http://www.nukiten.com/index2.html"
+},
+{"datetime":"2013-09-20T06:18:09Z",
+"uri":"http://web.archive.org/web/20130920061809/http://www.nukiten.com/index2.html"
+},
+{"datetime":"2013-10-22T07:10:51Z",
+"uri":"http://web.archive.org/web/20131022071051/http://www.nukiten.com/index2.html"
+},
+{"datetime":"2013-11-22T02:31:25Z",
+"uri":"http://web.archive.org/web/20131122023125/http://www.nukiten.com/index2.html"
+},
+{"datetime":"2013-11-23T03:12:52Z",
+"uri":"http://web.archive.org/web/20131123031252/http://www.nukiten.com/index2.html"
+},
+{"datetime":"2014-01-07T11:58:08Z",
+"uri":"http://web.archive.org/web/20140107115808/http://www.nukiten.com/index2.html"
+},
+{"datetime":"2014-01-27T16:39:39Z",
+"uri":"http://web.archive.org/web/20140127163939/http://www.nukiten.com/index2.html"
+},
+{"datetime":"2014-04-12T23:47:45Z",
+"uri":"http://web.archive.org/web/20140412234745/http://www.nukiten.com/index2.html"
+},
+{"datetime":"2014-05-15T09:02:05Z",
+"uri":"http://web.archive.org/web/20140515090205/http://www.nukiten.com/index2.html"
+},
+{"datetime":"2014-06-16T10:28:44Z",
+"uri":"http://web.archive.org/web/20140616102844/http://www.nukiten.com/index2.html"
+},
+{"datetime":"2014-07-17T11:48:40Z",
+"uri":"http://web.archive.org/web/20140717114840/http://www.nukiten.com/index2.html"
+},
+{"datetime":"2014-08-18T14:49:49Z",
+"uri":"http://web.archive.org/web/20140818144949/http://www.nukiten.com/index2.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.nukiten.com/index2.html"}
+ }

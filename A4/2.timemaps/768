@@ -1,0 +1,17 @@
+{"original_uri":"http://ria.ru/world/20150202/1045432667.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://ria.ru/world/20150202/1045432667.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-02T23:55:57Z",
+"uri":"http://web.archive.org/web/20150202235557/http://ria.ru/world/20150202/1045432667.html"
+},
+{"datetime":"2015-02-03T12:36:33Z",
+"uri":"http://archive.is/20150203123633/http://ria.ru/world/20150202/1045432667.html"
+},
+{"datetime":"2015-03-29T12:44:51Z",
+"uri":"http://web.archive.org/web/20150329124451/http://ria.ru/world/20150202/1045432667.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://ria.ru/world/20150202/1045432667.html"}
+ }

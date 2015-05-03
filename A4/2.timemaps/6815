@@ -1,0 +1,14 @@
+{"original_uri":"http://www.fashionme.co.id",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.fashionme.co.id",
+"mementos": {
+"list": [
+{"datetime":"2014-12-20T08:48:56Z",
+"uri":"http://web.archive.org/web/20141220084856/http://fashionme.co.id/"
+},
+{"datetime":"2015-02-10T02:01:51Z",
+"uri":"http://web.archive.org/web/20150210020151/http://www.fashionme.co.id/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.fashionme.co.id"}
+ }

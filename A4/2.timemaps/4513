@@ -1,0 +1,44 @@
+{"original_uri":"http://7GUNDEMATEMATiK.COM",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://7GUNDEMATEMATiK.COM",
+"mementos": {
+"list": [
+{"datetime":"2013-04-20T15:09:16Z",
+"uri":"http://web.archive.org/web/20130420150916/http://www.7gundematematik.com"
+},
+{"datetime":"2013-04-20T18:06:17Z",
+"uri":"http://web.archive.org/web/20130420180617/http://www.7gundematematik.com"
+},
+{"datetime":"2013-04-21T22:27:17Z",
+"uri":"http://web.archive.org/web/20130421222717/http://www.7gundematematik.com"
+},
+{"datetime":"2013-04-25T16:31:31Z",
+"uri":"http://web.archive.org/web/20130425163131/http://www.7gundematematik.com"
+},
+{"datetime":"2013-06-14T21:02:47Z",
+"uri":"http://web.archive.org/web/20130614210247/http://www.7gundematematik.com/"
+},
+{"datetime":"2014-03-21T16:42:44Z",
+"uri":"http://web.archive.org/web/20140321164244/http://www.7gundematematik.com/"
+},
+{"datetime":"2014-04-24T02:25:16Z",
+"uri":"http://web.archive.org/web/20140424022516/http://www.7gundematematik.com/"
+},
+{"datetime":"2014-05-17T10:36:15Z",
+"uri":"http://web.archive.org/web/20140517103615/http://7gundematematik.com/"
+},
+{"datetime":"2014-05-25T22:13:27Z",
+"uri":"http://web.archive.org/web/20140525221327/http://www.7gundematematik.com/"
+},
+{"datetime":"2014-06-26T10:57:46Z",
+"uri":"http://web.archive.org/web/20140626105746/http://www.7gundematematik.com/"
+},
+{"datetime":"2014-07-28T03:23:57Z",
+"uri":"http://web.archive.org/web/20140728032357/http://www.7gundematematik.com/"
+},
+{"datetime":"2014-12-16T18:04:11Z",
+"uri":"http://web.archive.org/web/20141216180411/http://7gundematematik.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://7GUNDEMATEMATiK.COM"}
+ }

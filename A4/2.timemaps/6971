@@ -1,0 +1,23 @@
+{"original_uri":"http://www.weather.com/weather/today/48740",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.weather.com/weather/today/48740",
+"mementos": {
+"list": [
+{"datetime":"2010-08-24T23:57:04Z",
+"uri":"http://web.archive.org/web/20100824235704/http://www.weather.com/weather/today/48740"
+},
+{"datetime":"2010-09-25T18:02:09Z",
+"uri":"http://web.archive.org/web/20100925180209/http://www.weather.com/weather/today/48740"
+},
+{"datetime":"2010-11-16T11:48:29Z",
+"uri":"http://web.archive.org/web/20101116114829/http://www.weather.com/weather/today/48740"
+},
+{"datetime":"2011-01-23T12:18:05Z",
+"uri":"http://web.archive.org/web/20110123121805/http://www.weather.com/weather/today/48740"
+},
+{"datetime":"2012-07-09T05:35:12Z",
+"uri":"http://web.archive.org/web/20120709053512/http://www.weather.com/weather/today/48740"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.weather.com/weather/today/48740"}
+ }

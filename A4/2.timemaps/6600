@@ -1,0 +1,14 @@
+{"original_uri":"http://www.bbc.co.uk/news/uk-wales-politics-31097577",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.bbc.co.uk/news/uk-wales-politics-31097577",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T10:05:37Z",
+"uri":"http://web.archive.org/web/20150203100537/http://www.bbc.co.uk/news/uk-wales-politics-31097577"
+},
+{"datetime":"2015-04-07T07:13:32Z",
+"uri":"http://web.archive.org/web/20150407071332/http://www.bbc.co.uk/news/uk-wales-politics-31097577"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.bbc.co.uk/news/uk-wales-politics-31097577"}
+ }

@@ -1,0 +1,11 @@
+{"original_uri":"http://urbanradio.leanplayer.com/UR08FM",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://urbanradio.leanplayer.com/UR08FM",
+"mementos": {
+"list": [
+{"datetime":"2014-08-14T23:04:50Z",
+"uri":"http://web.archive.org/web/20140814230450/http://urbanradio.leanplayer.com/UR08FM"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://urbanradio.leanplayer.com/UR08FM"}
+ }

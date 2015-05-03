@@ -1,0 +1,20 @@
+{"original_uri":"http://mamastar.jp/bbs/comment.do?topicId=737956",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://mamastar.jp/bbs/comment.do?topicId=737956",
+"mementos": {
+"list": [
+{"datetime":"2012-10-18T07:54:41Z",
+"uri":"http://web.archive.org/web/20121018075441/http://mamastar.jp/bbs/comment.do?topicId=737956"
+},
+{"datetime":"2013-03-08T11:52:57Z",
+"uri":"http://web.archive.org/web/20130308115257/http://mamastar.jp/bbs/comment.do?topicId=737956"
+},
+{"datetime":"2013-06-01T15:41:36Z",
+"uri":"http://web.archive.org/web/20130601154136/http://mamastar.jp/bbs/comment.do?topicId=737956"
+},
+{"datetime":"2014-09-15T15:01:32Z",
+"uri":"http://web.archive.org/web/20140915150132/http://mamastar.jp/bbs/comment.do?topicId=737956"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://mamastar.jp/bbs/comment.do?topicId=737956"}
+ }

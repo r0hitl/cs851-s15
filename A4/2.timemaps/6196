@@ -1,0 +1,14 @@
+{"original_uri":"http://www.famima.com/shop/c/cikemen/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.famima.com/shop/c/cikemen/",
+"mementos": {
+"list": [
+{"datetime":"2015-01-10T08:38:31Z",
+"uri":"http://web.archive.org/web/20150110083831/http://www.famima.com/shop/c/cikemen/"
+},
+{"datetime":"2015-03-31T23:58:52Z",
+"uri":"http://web.archive.org/web/20150331235852/http://www.famima.com/shop/c/cikemen/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.famima.com/shop/c/cikemen/"}
+ }

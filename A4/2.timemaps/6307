@@ -1,0 +1,41 @@
+{"original_uri":"http://tmottradio.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://tmottradio.com/",
+"mementos": {
+"list": [
+{"datetime":"2012-05-31T22:14:04Z",
+"uri":"http://web.archive.org/web/20120531221404/http://tmottradio.com/?"
+},
+{"datetime":"2012-06-02T02:05:04Z",
+"uri":"http://web.archive.org/web/20120602020504/http://tmottradio.com/"
+},
+{"datetime":"2012-07-06T00:13:31Z",
+"uri":"http://web.archive.org/web/20120706001331/http://tmottradio.com/"
+},
+{"datetime":"2012-10-21T21:13:48Z",
+"uri":"http://web.archive.org/web/20121021211348/http://tmottradio.com/"
+},
+{"datetime":"2012-10-29T12:38:26Z",
+"uri":"http://web.archive.org/web/20121029123826/http://tmottradio.com/"
+},
+{"datetime":"2013-02-17T16:26:31Z",
+"uri":"http://web.archive.org/web/20130217162631/http://tmottradio.com/"
+},
+{"datetime":"2013-07-19T19:00:22Z",
+"uri":"http://web.archive.org/web/20130719190022/http://tmottradio.com/"
+},
+{"datetime":"2013-11-03T18:31:24Z",
+"uri":"http://web.archive.org/web/20131103183124/http://tmottradio.com/"
+},
+{"datetime":"2014-01-05T05:51:41Z",
+"uri":"http://web.archive.org/web/20140105055141/http://tmottradio.com/"
+},
+{"datetime":"2014-04-11T22:39:08Z",
+"uri":"http://web.archive.org/web/20140411223908/http://tmottradio.com/"
+},
+{"datetime":"2014-10-10T08:50:54Z",
+"uri":"http://web.archive.org/web/20141010085054/http://www.tmottradio.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://tmottradio.com/"}
+ }

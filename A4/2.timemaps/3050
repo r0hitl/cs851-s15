@@ -1,0 +1,20 @@
+{"original_uri":"http://www.theguardian.com/media/2015/feb/02/news-corp-phone-hacking-us",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.theguardian.com/media/2015/feb/02/news-corp-phone-hacking-us",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T00:49:02Z",
+"uri":"http://web.archive.org/web/20150203004902/http://www.theguardian.com/media/2015/feb/02/news-corp-phone-hacking-us"
+},
+{"datetime":"2015-02-03T15:26:26Z",
+"uri":"http://archive.is/20150203152626/http://www.theguardian.com/media/2015/feb/02/news-corp-phone-hacking-us"
+},
+{"datetime":"2015-02-05T11:07:23Z",
+"uri":"http://web.archive.org/web/20150205110723/http://www.theguardian.com/media/2015/feb/02/news-corp-phone-hacking-us"
+},
+{"datetime":"2015-03-29T20:51:24Z",
+"uri":"http://web.archive.org/web/20150329205124/http://www.theguardian.com/media/2015/feb/02/news-corp-phone-hacking-us"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.theguardian.com/media/2015/feb/02/news-corp-phone-hacking-us"}
+ }

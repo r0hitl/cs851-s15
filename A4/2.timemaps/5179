@@ -1,0 +1,11 @@
+{"original_uri":"http://impressions-des-alpes.com/movie/21490",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://impressions-des-alpes.com/movie/21490",
+"mementos": {
+"list": [
+{"datetime":"2015-03-21T01:59:07Z",
+"uri":"http://web.archive.org/web/20150321015907/http://impressions-des-alpes.com/movie/21490"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://impressions-des-alpes.com/movie/21490"}
+ }

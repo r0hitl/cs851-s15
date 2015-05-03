@@ -1,0 +1,20 @@
+{"original_uri":"http://www.nnn.co.jp/news/150201/20150201010.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.nnn.co.jp/news/150201/20150201010.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-01T09:32:36Z",
+"uri":"http://web.archive.org/web/20150201093236/http://www.nnn.co.jp/news/150201/20150201010.html"
+},
+{"datetime":"2015-02-02T04:14:19Z",
+"uri":"//wayback.archive-it.org/all/20150202041419/http://www.nnn.co.jp/news/150201/20150201010.html"
+},
+{"datetime":"2015-02-02T04:14:19Z",
+"uri":"http://web.archive.org/web/20150202041419/http://www.nnn.co.jp/news/150201/20150201010.html"
+},
+{"datetime":"2015-02-09T22:02:27Z",
+"uri":"http://archive.is/20150209220227/http://www.nnn.co.jp/news/150201/20150201010.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.nnn.co.jp/news/150201/20150201010.html"}
+ }

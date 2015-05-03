@@ -1,0 +1,32 @@
+{"original_uri":"http://www.ethnos.gr/article.asp?catid=22769",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.ethnos.gr/article.asp?catid=22769",
+"mementos": {
+"list": [
+{"datetime":"2012-09-12T01:04:51Z",
+"uri":"http://web.archive.org/web/20120912010451/http://www.ethnos.gr/article.asp?catid=22769"
+},
+{"datetime":"2013-01-15T05:58:20Z",
+"uri":"http://web.archive.org/web/20130115055820/http://www.ethnos.gr/article.asp?catid=22769"
+},
+{"datetime":"2013-10-12T13:07:53Z",
+"uri":"http://web.archive.org/web/20131012130753/http://www.ethnos.gr/article.asp?catid=22769"
+},
+{"datetime":"2013-10-30T21:44:21Z",
+"uri":"http://web.archive.org/web/20131030214421/http://www.ethnos.gr/article.asp?catid=22769"
+},
+{"datetime":"2014-01-01T12:27:14Z",
+"uri":"http://web.archive.org/web/20140101122714/http://www.ethnos.gr/article.asp?catid=22769"
+},
+{"datetime":"2014-03-09T19:52:33Z",
+"uri":"http://web.archive.org/web/20140309195233/http://www.ethnos.gr/article.asp?catid=22769"
+},
+{"datetime":"2014-10-22T17:38:16Z",
+"uri":"http://web.archive.org/web/20141022173816/http://www.ethnos.gr/article.asp?catid=22769"
+},
+{"datetime":"2015-02-16T04:36:28Z",
+"uri":"http://web.archive.org/web/20150216043628/http://www.ethnos.gr/article.asp?catid=22769"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.ethnos.gr/article.asp?catid=22769"}
+ }

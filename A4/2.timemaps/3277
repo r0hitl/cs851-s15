@@ -1,0 +1,11 @@
+{"original_uri":"http://pastebin.com/yv7HySmZ",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://pastebin.com/yv7HySmZ",
+"mementos": {
+"list": [
+{"datetime":"2015-02-06T01:49:22Z",
+"uri":"http://web.archive.org/web/20150206014922/http://pastebin.com/yv7HySmZ"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://pastebin.com/yv7HySmZ"}
+ }

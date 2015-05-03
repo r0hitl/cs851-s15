@@ -1,0 +1,14 @@
+{"original_uri":"http://cultura.elpais.com/cultura/2015/02/02/actualidad/1422885109_082498.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://cultura.elpais.com/cultura/2015/02/02/actualidad/1422885109_082498.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T08:10:12Z",
+"uri":"http://web.archive.org/web/20150203081012/http://cultura.elpais.com/cultura/2015/02/02/actualidad/1422885109_082498.html"
+},
+{"datetime":"2015-03-18T02:14:48Z",
+"uri":"http://web.archive.org/web/20150318021448/http://cultura.elpais.com/cultura/2015/02/02/actualidad/1422885109_082498.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://cultura.elpais.com/cultura/2015/02/02/actualidad/1422885109_082498.html"}
+ }

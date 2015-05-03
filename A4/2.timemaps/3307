@@ -1,0 +1,20 @@
+{"original_uri":"http://paper.li/ZeanaRomanovna/1367914381",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://paper.li/ZeanaRomanovna/1367914381",
+"mementos": {
+"list": [
+{"datetime":"2013-06-08T06:04:39Z",
+"uri":"http://web.archive.org/web/20130608060439/http://paper.li/ZeanaRomanovna/1367914381"
+},
+{"datetime":"2013-10-14T18:52:19Z",
+"uri":"http://web.archive.org/web/20131014185219/http://paper.li/ZeanaRomanovna/1367914381?"
+},
+{"datetime":"2013-10-16T01:24:14Z",
+"uri":"http://web.archive.org/web/20131016012414/http://paper.li/ZeanaRomanovna/1367914381"
+},
+{"datetime":"2013-11-15T08:24:05Z",
+"uri":"http://web.archive.org/web/20131115082405/http://paper.li/ZeanaRomanovna/1367914381?"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://paper.li/ZeanaRomanovna/1367914381"}
+ }

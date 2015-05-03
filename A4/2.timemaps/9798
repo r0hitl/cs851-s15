@@ -1,0 +1,17 @@
+{"original_uri":"http://www.afiria.info/deai3/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.afiria.info/deai3/",
+"mementos": {
+"list": [
+{"datetime":"2014-05-20T18:55:34Z",
+"uri":"http://web.archive.org/web/20140520185534/http://afiria.info/deai3/"
+},
+{"datetime":"2014-07-08T05:19:54Z",
+"uri":"http://web.archive.org/web/20140708051954/http://afiria.info/deai3/"
+},
+{"datetime":"2014-09-15T02:09:20Z",
+"uri":"http://web.archive.org/web/20140915020920/http://afiria.info/deai3/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.afiria.info/deai3/"}
+ }

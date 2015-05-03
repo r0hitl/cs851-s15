@@ -1,0 +1,17 @@
+{"original_uri":"http://32.xmbs.jp/teru555/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://32.xmbs.jp/teru555/",
+"mementos": {
+"list": [
+{"datetime":"2011-11-09T20:36:08Z",
+"uri":"http://web.archive.org/web/20111109203608/http://32.xmbs.jp/teru555/"
+},
+{"datetime":"2011-12-04T02:33:00Z",
+"uri":"http://web.archive.org/web/20111204023300/http://32.xmbs.jp/teru555/"
+},
+{"datetime":"2012-01-03T10:43:21Z",
+"uri":"http://web.archive.org/web/20120103104321/http://32.xmbs.jp/teru555/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://32.xmbs.jp/teru555/"}
+ }

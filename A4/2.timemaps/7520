@@ -1,0 +1,17 @@
+{"original_uri":"http://www.republika.co.id/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.republika.co.id/",
+"timemap_index": [
+{"from":"1996-11-13T23:10:57Z",
+"until":"2010-07-06T11:14:27Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://www.republika.co.id/"
+},{"from":"2010-07-07T06:23:27Z",
+"until":"2012-04-23T05:39:04Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://www.republika.co.id/"
+},{"from":"2012-04-23T10:48:32Z",
+"until":"2013-03-28T16:57:18Z",
+"uri":"http://labs.mementoweb.org/timemap/json/2000/http://www.republika.co.id/"
+},{"from":"2013-03-28T20:17:25Z",
+"uri":"http://labs.mementoweb.org/timemap/json/3000/http://www.republika.co.id/"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://www.republika.co.id/",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://www.republika.co.id/"
+}}

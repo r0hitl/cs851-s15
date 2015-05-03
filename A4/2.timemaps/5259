@@ -1,0 +1,17 @@
+{"original_uri":"http://www.cityheaven.net/q/yamituki/A6TenchoChokusoList/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.cityheaven.net/q/yamituki/A6TenchoChokusoList/",
+"mementos": {
+"list": [
+{"datetime":"2013-06-15T08:51:42Z",
+"uri":"http://web.archive.org/web/20130615085142/http://www.cityheaven.net/q/yamituki/A6TenchoChokusoList/"
+},
+{"datetime":"2013-12-24T19:44:21Z",
+"uri":"http://web.archive.org/web/20131224194421/http://www.cityheaven.net/q/yamituki/A6TenchoChokusoList/"
+},
+{"datetime":"2014-02-23T17:17:05Z",
+"uri":"http://web.archive.org/web/20140223171705/http://www.cityheaven.net/q/yamituki/A6TenchoChokusoList/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.cityheaven.net/q/yamituki/A6TenchoChokusoList/"}
+ }

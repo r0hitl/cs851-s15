@@ -1,0 +1,17 @@
+{"original_uri":"http://www.shopinwebkatalog.de/fotogalerie/fun-bilder/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.shopinwebkatalog.de/fotogalerie/fun-bilder/",
+"mementos": {
+"list": [
+{"datetime":"2015-01-09T08:46:43Z",
+"uri":"http://web.archive.org/web/20150109084643/http://www.shopinwebkatalog.de/fotogalerie/fun-bilder/"
+},
+{"datetime":"2015-01-09T08:46:43Z",
+"uri":"//wayback.archive-it.org/all/20150109084643/http://www.shopinwebkatalog.de/fotogalerie/fun-bilder/"
+},
+{"datetime":"2015-04-20T03:39:44Z",
+"uri":"http://web.archive.org/web/20150420033944/http://www.shopinwebkatalog.de/fotogalerie/fun-bilder/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.shopinwebkatalog.de/fotogalerie/fun-bilder/"}
+ }

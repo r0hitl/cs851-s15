@@ -1,0 +1,11 @@
+{"original_uri":"http://mcaf.ee/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://mcaf.ee/",
+"timemap_index": [
+{"from":"2010-09-24T01:29:02Z",
+"until":"2015-02-18T00:59:53Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://mcaf.ee/"
+},{"from":"2015-02-18T14:06:53Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://mcaf.ee/"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://mcaf.ee/",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://mcaf.ee/"
+}}

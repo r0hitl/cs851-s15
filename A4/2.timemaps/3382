@@ -1,0 +1,56 @@
+{"original_uri":"http://micro.asahi.com/m/index.php",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://micro.asahi.com/m/index.php",
+"mementos": {
+"list": [
+{"datetime":"2011-09-19T03:29:59Z",
+"uri":"http://web.archive.org/web/20110919032959/http://micro.asahi.com/m/index.php"
+},
+{"datetime":"2011-12-20T20:01:05Z",
+"uri":"http://web.archive.org/web/20111220200105/http://micro.asahi.com/m/index.php"
+},
+{"datetime":"2012-09-06T14:57:51Z",
+"uri":"http://web.archive.org/web/20120906145751/http://micro.asahi.com/m/index.php"
+},
+{"datetime":"2012-09-07T11:32:55Z",
+"uri":"http://web.archive.org/web/20120907113255/http://micro.asahi.com/m/index.php"
+},
+{"datetime":"2012-09-08T20:27:58Z",
+"uri":"http://web.archive.org/web/20120908202758/http://micro.asahi.com/m/index.php"
+},
+{"datetime":"2012-09-09T12:20:21Z",
+"uri":"http://web.archive.org/web/20120909122021/http://micro.asahi.com/m/index.php"
+},
+{"datetime":"2012-09-10T20:56:08Z",
+"uri":"http://web.archive.org/web/20120910205608/http://micro.asahi.com/m/index.php"
+},
+{"datetime":"2012-09-12T18:39:24Z",
+"uri":"http://web.archive.org/web/20120912183924/http://micro.asahi.com/m/index.php"
+},
+{"datetime":"2012-09-13T14:11:42Z",
+"uri":"http://web.archive.org/web/20120913141142/http://micro.asahi.com/m/index.php"
+},
+{"datetime":"2012-09-14T02:18:31Z",
+"uri":"http://web.archive.org/web/20120914021831/http://micro.asahi.com/m/index.php"
+},
+{"datetime":"2012-09-15T02:43:01Z",
+"uri":"http://web.archive.org/web/20120915024301/http://micro.asahi.com/m/index.php"
+},
+{"datetime":"2012-09-16T16:11:48Z",
+"uri":"http://web.archive.org/web/20120916161148/http://micro.asahi.com/m/index.php"
+},
+{"datetime":"2013-07-29T11:22:04Z",
+"uri":"http://web.archive.org/web/20130729112204/http://micro.asahi.com/m/index.php"
+},
+{"datetime":"2015-02-01T00:05:53Z",
+"uri":"http://web.archive.org/web/20150201000553/http://micro.asahi.com/m/index.php"
+},
+{"datetime":"2015-02-01T00:05:53Z",
+"uri":"//wayback.archive-it.org/all/20150201000553/http://micro.asahi.com/m/index.php"
+},
+{"datetime":"2015-04-11T06:14:37Z",
+"uri":"http://web.archive.org/web/20150411061437/http://micro.asahi.com/m/index.php"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://micro.asahi.com/m/index.php"}
+ }

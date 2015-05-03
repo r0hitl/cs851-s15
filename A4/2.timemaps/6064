@@ -1,0 +1,26 @@
+{"original_uri":"http://kancolle-a.sega.jp/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://kancolle-a.sega.jp/",
+"mementos": {
+"list": [
+{"datetime":"2015-01-14T05:19:33Z",
+"uri":"http://archive.is/20150114051933/http://kancolle-a.sega.jp/"
+},
+{"datetime":"2015-01-14T05:20:15Z",
+"uri":"http://web.archive.org/web/20150114052015/http://kancolle-a.sega.jp/"
+},
+{"datetime":"2015-01-14T10:03:07Z",
+"uri":"http://web.archive.org/web/20150114100307/http://kancolle-a.sega.jp/"
+},
+{"datetime":"2015-01-16T18:31:18Z",
+"uri":"http://web.archive.org/web/20150116183118/http://kancolle-a.sega.jp/"
+},
+{"datetime":"2015-01-19T00:40:55Z",
+"uri":"http://web.archive.org/web/20150119004055/http://kancolle-a.sega.jp/"
+},
+{"datetime":"2015-03-20T23:13:00Z",
+"uri":"http://web.archive.org/web/20150320231300/http://kancolle-a.sega.jp/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://kancolle-a.sega.jp/"}
+ }

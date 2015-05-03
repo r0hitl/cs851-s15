@@ -1,0 +1,53 @@
+{"original_uri":"http://www.bbc.co.uk/news/education-31028467",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.bbc.co.uk/news/education-31028467",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T03:33:53Z",
+"uri":"http://web.archive.org/web/20150203033353/http://www.bbc.co.uk/news/education-31028467"
+},
+{"datetime":"2015-02-03T18:08:54Z",
+"uri":"http://archive.is/20150203180854/http://www.bbc.co.uk/news/education-31028467"
+},
+{"datetime":"2015-02-08T05:22:05Z",
+"uri":"http://web.archive.org/web/20150208052205/http://www.bbc.co.uk/news/education-31028467"
+},
+{"datetime":"2015-02-08T05:22:05Z",
+"uri":"//wayback.archive-it.org/all/20150208052205/http://www.bbc.co.uk/news/education-31028467"
+},
+{"datetime":"2015-02-15T05:16:02Z",
+"uri":"http://web.archive.org/web/20150215051602/http://www.bbc.co.uk/news/education-31028467"
+},
+{"datetime":"2015-02-15T05:16:02Z",
+"uri":"//wayback.archive-it.org/all/20150215051602/http://www.bbc.co.uk/news/education-31028467"
+},
+{"datetime":"2015-02-22T04:44:39Z",
+"uri":"http://web.archive.org/web/20150222044439/http://www.bbc.co.uk/news/education-31028467"
+},
+{"datetime":"2015-02-22T04:44:39Z",
+"uri":"//wayback.archive-it.org/all/20150222044439/http://www.bbc.co.uk/news/education-31028467"
+},
+{"datetime":"2015-03-01T06:12:23Z",
+"uri":"http://web.archive.org/web/20150301061223/http://www.bbc.co.uk/news/education-31028467"
+},
+{"datetime":"2015-03-01T06:12:23Z",
+"uri":"//wayback.archive-it.org/all/20150301061223/http://www.bbc.co.uk/news/education-31028467"
+},
+{"datetime":"2015-03-13T05:56:57Z",
+"uri":"//wayback.archive-it.org/all/20150313055657/http://www.bbc.co.uk/news/education-31028467"
+},
+{"datetime":"2015-03-21T21:02:25Z",
+"uri":"//wayback.archive-it.org/all/20150321210225/http://www.bbc.co.uk/news/education-31028467"
+},
+{"datetime":"2015-03-21T21:02:25Z",
+"uri":"//wayback.archive-it.org/all/20150321210225/http://www.bbc.co.uk/news/education-31028467"
+},
+{"datetime":"2015-03-28T17:26:15Z",
+"uri":"http://web.archive.org/web/20150328172615/http://www.bbc.co.uk/news/education-31028467"
+},
+{"datetime":"2015-04-06T23:26:08Z",
+"uri":"http://web.archive.org/web/20150406232608/http://www.bbc.co.uk/news/education-31028467"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.bbc.co.uk/news/education-31028467"}
+ }

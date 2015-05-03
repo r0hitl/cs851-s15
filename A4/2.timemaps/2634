@@ -1,0 +1,20 @@
+{"original_uri":"http://streamdb3.securenetsystems.net/v5/WKAC",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://streamdb3.securenetsystems.net/v5/WKAC",
+"mementos": {
+"list": [
+{"datetime":"2014-04-19T01:21:48Z",
+"uri":"http://archive.is/20140419012148/http://streamdb3.securenetsystems.net/v5/WKAC"
+},
+{"datetime":"2014-04-19T07:50:53Z",
+"uri":"http://web.archive.org/web/20140419075053/http://streamdb3.securenetsystems.net/v5/WKAC"
+},
+{"datetime":"2014-12-02T04:34:36Z",
+"uri":"http://web.archive.org/web/20141202043436/http://streamdb3.securenetsystems.net/v5/WKAC"
+},
+{"datetime":"2015-02-03T13:47:54Z",
+"uri":"http://web.archive.org/web/20150203134754/http://streamdb3.securenetsystems.net/v5/WKAC"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://streamdb3.securenetsystems.net/v5/WKAC"}
+ }

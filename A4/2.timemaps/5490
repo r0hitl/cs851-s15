@@ -1,0 +1,56 @@
+{"original_uri":"http://dusidusi.ru",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://dusidusi.ru",
+"mementos": {
+"list": [
+{"datetime":"2012-08-21T19:21:42Z",
+"uri":"http://web.archive.org/web/20120821192142/http://www.dusidusi.ru/"
+},
+{"datetime":"2013-02-14T21:47:50Z",
+"uri":"http://web.archive.org/web/20130214214750/http://www.dusidusi.ru/"
+},
+{"datetime":"2013-02-20T04:51:56Z",
+"uri":"http://web.archive.org/web/20130220045156/http://dusidusi.ru/"
+},
+{"datetime":"2013-05-27T07:44:30Z",
+"uri":"http://web.archive.org/web/20130527074430/http://dusidusi.ru/"
+},
+{"datetime":"2013-06-06T14:12:53Z",
+"uri":"http://web.archive.org/web/20130606141253/http://dusidusi.ru/"
+},
+{"datetime":"2013-08-26T07:26:25Z",
+"uri":"http://web.archive.org/web/20130826072625/http://www.dusidusi.ru/"
+},
+{"datetime":"2014-01-04T08:35:25Z",
+"uri":"http://web.archive.org/web/20140104083525/http://dusidusi.ru/"
+},
+{"datetime":"2014-03-14T07:53:51Z",
+"uri":"http://web.archive.org/web/20140314075351/http://www.dusidusi.ru/?"
+},
+{"datetime":"2014-03-19T13:48:51Z",
+"uri":"http://web.archive.org/web/20140319134851/http://www.dusidusi.ru/"
+},
+{"datetime":"2014-05-17T08:26:23Z",
+"uri":"http://web.archive.org/web/20140517082623/http://dusidusi.ru/"
+},
+{"datetime":"2014-06-25T03:56:24Z",
+"uri":"http://web.archive.org/web/20140625035624/http://dusidusi.ru/"
+},
+{"datetime":"2014-06-25T11:06:38Z",
+"uri":"http://web.archive.org/web/20140625110638/http://dusidusi.ru/"
+},
+{"datetime":"2014-06-29T07:44:24Z",
+"uri":"http://archive.is/20140629074424/http://dusidusi.ru/"
+},
+{"datetime":"2014-07-02T17:31:41Z",
+"uri":"http://web.archive.org/web/20140702173141/http://www.dusidusi.ru/"
+},
+{"datetime":"2014-12-17T09:48:05Z",
+"uri":"http://web.archive.org/web/20141217094805/http://dusidusi.ru/"
+},
+{"datetime":"2015-03-21T14:02:54Z",
+"uri":"http://web.archive.org/web/20150321140254/http://dusidusi.ru/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://dusidusi.ru"}
+ }

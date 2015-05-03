@@ -1,0 +1,50 @@
+{"original_uri":"http://paper.li/edugallazzi/1309227082",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://paper.li/edugallazzi/1309227082",
+"mementos": {
+"list": [
+{"datetime":"2011-10-01T18:23:25Z",
+"uri":"http://web.archive.org/web/20111001182325/http://paper.li/edugallazzi/1309227082"
+},
+{"datetime":"2011-11-01T01:46:58Z",
+"uri":"http://web.archive.org/web/20111101014658/http://paper.li/edugallazzi/1309227082"
+},
+{"datetime":"2011-12-01T21:59:30Z",
+"uri":"http://web.archive.org/web/20111201215930/http://paper.li/edugallazzi/1309227082"
+},
+{"datetime":"2012-01-01T08:28:58Z",
+"uri":"http://web.archive.org/web/20120101082858/http://paper.li/edugallazzi/1309227082"
+},
+{"datetime":"2012-03-29T13:07:56Z",
+"uri":"http://web.archive.org/web/20120329130756/http://paper.li/edugallazzi/1309227082"
+},
+{"datetime":"2012-03-30T13:18:30Z",
+"uri":"http://web.archive.org/web/20120330131830/http://paper.li/edugallazzi/1309227082"
+},
+{"datetime":"2012-04-29T05:18:21Z",
+"uri":"http://web.archive.org/web/20120429051821/http://paper.li/edugallazzi/1309227082"
+},
+{"datetime":"2012-06-04T09:27:27Z",
+"uri":"http://web.archive.org/web/20120604092727/http://paper.li/edugallazzi/1309227082"
+},
+{"datetime":"2012-07-05T05:58:57Z",
+"uri":"http://web.archive.org/web/20120705055857/http://paper.li/edugallazzi/1309227082"
+},
+{"datetime":"2012-08-10T04:56:30Z",
+"uri":"http://web.archive.org/web/20120810045630/http://paper.li/edugallazzi/1309227082"
+},
+{"datetime":"2012-10-23T04:15:11Z",
+"uri":"http://web.archive.org/web/20121023041511/http://paper.li/edugallazzi/1309227082"
+},
+{"datetime":"2012-11-23T09:27:39Z",
+"uri":"http://web.archive.org/web/20121123092739/http://paper.li/edugallazzi/1309227082"
+},
+{"datetime":"2013-03-07T08:31:57Z",
+"uri":"http://web.archive.org/web/20130307083157/http://paper.li/edugallazzi/1309227082"
+},
+{"datetime":"2013-03-09T08:13:52Z",
+"uri":"http://web.archive.org/web/20130309081352/http://paper.li/edugallazzi/1309227082"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://paper.li/edugallazzi/1309227082"}
+ }

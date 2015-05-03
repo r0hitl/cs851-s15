@@ -1,0 +1,11 @@
+{"original_uri":"http://open.spotify.com/artist/4fE4Bf0MM6lMJpHiHniPuW",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://open.spotify.com/artist/4fE4Bf0MM6lMJpHiHniPuW",
+"mementos": {
+"list": [
+{"datetime":"2015-03-24T10:11:52Z",
+"uri":"http://web.archive.org/web/20150324101152/https://open.spotify.com/artist/4fE4Bf0MM6lMJpHiHniPuW"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://open.spotify.com/artist/4fE4Bf0MM6lMJpHiHniPuW"}
+ }

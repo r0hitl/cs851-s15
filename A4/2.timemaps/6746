@@ -1,0 +1,41 @@
+{"original_uri":"http://ascii.jp/elem/000/000/973/973189/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://ascii.jp/elem/000/000/973/973189/",
+"mementos": {
+"list": [
+{"datetime":"2015-01-26T14:31:16Z",
+"uri":"http://web.archive.org/web/20150126143116/http://ascii.jp/elem/000/000/973/973189/"
+},
+{"datetime":"2015-01-26T14:31:22Z",
+"uri":"http://archive.is/20150126143122/http://ascii.jp/elem/000/000/973/973189/"
+},
+{"datetime":"2015-01-26T22:27:44Z",
+"uri":"http://archive.is/20150126222744/http://ascii.jp/elem/000/000/973/973189/"
+},
+{"datetime":"2015-01-27T04:33:24Z",
+"uri":"http://archive.is/20150127043324/http://ascii.jp/elem/000/000/973/973189/"
+},
+{"datetime":"2015-01-27T04:57:59Z",
+"uri":"http://archive.is/20150127045759/http://ascii.jp/elem/000/000/973/973189/"
+},
+{"datetime":"2015-01-27T11:28:23Z",
+"uri":"http://web.archive.org/web/20150127112823/http://ascii.jp/elem/000/000/973/973189/"
+},
+{"datetime":"2015-01-29T23:23:52Z",
+"uri":"http://web.archive.org/web/20150129232352/http://ascii.jp/elem/000/000/973/973189/"
+},
+{"datetime":"2015-01-31T03:24:26Z",
+"uri":"http://web.archive.org/web/20150131032426/http://ascii.jp/elem/000/000/973/973189/"
+},
+{"datetime":"2015-03-16T14:19:44Z",
+"uri":"http://web.archive.org/web/20150316141944/http://ascii.jp/elem/000/000/973/973189/"
+},
+{"datetime":"2015-03-31T21:34:38Z",
+"uri":"http://web.archive.org/web/20150331213438/http://ascii.jp/elem/000/000/973/973189/"
+},
+{"datetime":"2015-04-07T21:08:32Z",
+"uri":"http://web.archive.org/web/20150407210832/http://ascii.jp/elem/000/000/973/973189/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://ascii.jp/elem/000/000/973/973189/"}
+ }

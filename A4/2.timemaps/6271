@@ -1,0 +1,38 @@
+{"original_uri":"http://moemoe.homeip.net/view.php/8938",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://moemoe.homeip.net/view.php/8938",
+"mementos": {
+"list": [
+{"datetime":"2007-10-25T04:23:27Z",
+"uri":"http://web.archive.org/web/20071025042327/http://moemoe.homeip.net/view.php/8938"
+},
+{"datetime":"2007-10-29T12:55:53Z",
+"uri":"http://web.archive.org/web/20071029125553/http://moemoe.homeip.net/view.php/8938"
+},
+{"datetime":"2007-11-30T04:19:07Z",
+"uri":"http://web.archive.org/web/20071130041907/http://moemoe.homeip.net/view.php/8938"
+},
+{"datetime":"2007-12-30T22:48:24Z",
+"uri":"http://web.archive.org/web/20071230224824/http://moemoe.homeip.net/view.php/8938"
+},
+{"datetime":"2008-01-06T05:38:43Z",
+"uri":"http://web.archive.org/web/20080106053843/http://moemoe.homeip.net/view.php/8938"
+},
+{"datetime":"2008-02-04T09:33:57Z",
+"uri":"http://web.archive.org/web/20080204093357/http://moemoe.homeip.net/view.php/8938"
+},
+{"datetime":"2008-03-07T09:19:36Z",
+"uri":"http://web.archive.org/web/20080307091936/http://moemoe.homeip.net/view.php/8938"
+},
+{"datetime":"2008-04-08T10:53:52Z",
+"uri":"http://web.archive.org/web/20080408105352/http://moemoe.homeip.net/view.php/8938"
+},
+{"datetime":"2008-06-19T05:55:34Z",
+"uri":"http://web.archive.org/web/20080619055534/http://moemoe.homeip.net/view.php/8938"
+},
+{"datetime":"2010-07-06T06:13:10Z",
+"uri":"http://web.archive.org/web/20100706061310/http://moemoe.homeip.net/view.php/8938"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://moemoe.homeip.net/view.php/8938"}
+ }

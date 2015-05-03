@@ -1,0 +1,65 @@
+{"original_uri":"http://www.easytaxi.com/ng",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.easytaxi.com/ng",
+"mementos": {
+"list": [
+{"datetime":"2013-12-16T05:04:30Z",
+"uri":"http://web.archive.org/web/20131216050430/http://www.easytaxi.com/ng"
+},
+{"datetime":"2014-02-09T09:51:49Z",
+"uri":"http://web.archive.org/web/20140209095149/http://www.easytaxi.com/ng"
+},
+{"datetime":"2014-02-14T03:56:32Z",
+"uri":"http://web.archive.org/web/20140214035632/http://www.easytaxi.com/ng/"
+},
+{"datetime":"2014-04-13T12:32:34Z",
+"uri":"http://web.archive.org/web/20140413123234/http://www.easytaxi.com/ng"
+},
+{"datetime":"2014-05-28T18:11:34Z",
+"uri":"http://web.archive.org/web/20140528181134/http://www.easytaxi.com/ng"
+},
+{"datetime":"2014-07-01T17:48:29Z",
+"uri":"http://web.archive.org/web/20140701174829/http://www.easytaxi.com/ng"
+},
+{"datetime":"2014-07-02T14:53:12Z",
+"uri":"http://web.archive.org/web/20140702145312/http://www.easytaxi.com/ng/"
+},
+{"datetime":"2014-07-04T22:36:59Z",
+"uri":"http://web.archive.org/web/20140704223659/http://www.easytaxi.com/ng/"
+},
+{"datetime":"2014-08-27T18:00:56Z",
+"uri":"http://web.archive.org/web/20140827180056/http://www.easytaxi.com/ng/"
+},
+{"datetime":"2014-12-29T03:17:13Z",
+"uri":"//wayback.archive-it.org/all/20141229031713/http://www.easytaxi.com/ng"
+},
+{"datetime":"2014-12-29T03:17:13Z",
+"uri":"http://web.archive.org/web/20141229031713/http://www.easytaxi.com/ng"
+},
+{"datetime":"2015-02-11T18:39:12Z",
+"uri":"http://web.archive.org/web/20150211183912/http://www.easytaxi.com/ng/"
+},
+{"datetime":"2015-02-11T21:10:10Z",
+"uri":"http://web.archive.org/web/20150211211010/http://www.easytaxi.com/ng"
+},
+{"datetime":"2015-02-16T23:35:55Z",
+"uri":"http://web.archive.org/web/20150216233555/http://easytaxi.com/ng/"
+},
+{"datetime":"2015-02-16T23:35:59Z",
+"uri":"http://web.archive.org/web/20150216233559/http://www.easytaxi.com/ng"
+},
+{"datetime":"2015-03-14T23:42:35Z",
+"uri":"http://web.archive.org/web/20150314234235/http://easytaxi.com/ng/"
+},
+{"datetime":"2015-03-14T23:42:40Z",
+"uri":"http://web.archive.org/web/20150314234240/http://www.easytaxi.com/ng"
+},
+{"datetime":"2015-03-16T10:19:36Z",
+"uri":"http://web.archive.org/web/20150316101936/http://www.easytaxi.com/ng"
+},
+{"datetime":"2015-03-27T16:40:34Z",
+"uri":"http://web.archive.org/web/20150327164034/http://www.easytaxi.com/ng"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.easytaxi.com/ng"}
+ }

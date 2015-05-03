@@ -1,0 +1,29 @@
+{"original_uri":"http://play.google.com/store/apps/details?id=com.innovatty.followersplus",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://play.google.com/store/apps/details?id=com.innovatty.followersplus",
+"mementos": {
+"list": [
+{"datetime":"2013-08-09T18:04:06Z",
+"uri":"http://web.archive.org/web/20130809180406/https://play.google.com/store/apps/details?id=com.innovatty.followersplus"
+},
+{"datetime":"2013-12-10T18:41:52Z",
+"uri":"http://web.archive.org/web/20131210184152/https://play.google.com/store/apps/details?id=com.innovatty.followersplus"
+},
+{"datetime":"2014-02-10T08:40:29Z",
+"uri":"http://web.archive.org/web/20140210084029/https://play.google.com/store/apps/details?id=com.innovatty.followersplus"
+},
+{"datetime":"2014-06-30T03:03:15Z",
+"uri":"http://web.archive.org/web/20140630030315/https://play.google.com/store/apps/details?id=com.innovatty.followersplus"
+},
+{"datetime":"2015-03-14T02:33:04Z",
+"uri":"http://web.archive.org/web/20150314023304/https://play.google.com/store/apps/details?id=com.innovatty.followersplus"
+},
+{"datetime":"2015-03-21T10:23:56Z",
+"uri":"http://web.archive.org/web/20150321102356/https://play.google.com/store/apps/details?id=com.innovatty.followersplus"
+},
+{"datetime":"2015-04-01T22:31:00Z",
+"uri":"http://web.archive.org/web/20150401223100/https://play.google.com/store/apps/details?id=com.innovatty.followersplus"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://play.google.com/store/apps/details?id=com.innovatty.followersplus"}
+ }

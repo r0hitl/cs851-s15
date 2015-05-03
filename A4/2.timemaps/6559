@@ -1,0 +1,11 @@
+{"original_uri":"http://news.chosun.com/site/data/html_dir/2015/02/03/2015020302841.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://news.chosun.com/site/data/html_dir/2015/02/03/2015020302841.html",
+"mementos": {
+"list": [
+{"datetime":"2015-03-09T07:13:21Z",
+"uri":"http://web.archive.org/web/20150309071321/http://news.chosun.com/site/data/html_dir/2015/02/03/2015020302841.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://news.chosun.com/site/data/html_dir/2015/02/03/2015020302841.html"}
+ }

@@ -1,0 +1,14 @@
+{"original_uri":"http://gossip05ent.seesaa.net/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://gossip05ent.seesaa.net/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-22T05:45:21Z",
+"uri":"http://web.archive.org/web/20150222054521/http://gossip05ent.seesaa.net/"
+},
+{"datetime":"2015-02-22T05:45:31Z",
+"uri":"http://archive.is/20150222054531/http://gossip05ent.seesaa.net/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://gossip05ent.seesaa.net/"}
+ }

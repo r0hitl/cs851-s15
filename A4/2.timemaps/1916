@@ -1,0 +1,50 @@
+{"original_uri":"http://quieroauditoriaenergetica.org/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://quieroauditoriaenergetica.org/",
+"mementos": {
+"list": [
+{"datetime":"2013-12-19T06:34:03Z",
+"uri":"http://web.archive.org/web/20131219063403/http://www.quieroauditoriaenergetica.org/"
+},
+{"datetime":"2014-02-09T21:21:42Z",
+"uri":"http://web.archive.org/web/20140209212142/http://www.quieroauditoriaenergetica.org/"
+},
+{"datetime":"2014-05-28T17:53:13Z",
+"uri":"http://web.archive.org/web/20140528175313/http://www.quieroauditoriaenergetica.org/"
+},
+{"datetime":"2014-11-05T11:47:30Z",
+"uri":"//wayback.archive-it.org/all/20141105114730/http://quieroauditoriaenergetica.org/"
+},
+{"datetime":"2014-11-05T11:47:30Z",
+"uri":"http://web.archive.org/web/20141105114730/http://quieroauditoriaenergetica.org/"
+},
+{"datetime":"2014-11-06T11:45:20Z",
+"uri":"//wayback.archive-it.org/all/20141106114520/http://quieroauditoriaenergetica.org/"
+},
+{"datetime":"2014-11-06T11:45:20Z",
+"uri":"http://web.archive.org/web/20141106114520/http://quieroauditoriaenergetica.org/"
+},
+{"datetime":"2014-11-07T08:35:15Z",
+"uri":"//wayback.archive-it.org/all/20141107083515/http://quieroauditoriaenergetica.org/"
+},
+{"datetime":"2014-11-07T08:35:15Z",
+"uri":"http://web.archive.org/web/20141107083515/http://quieroauditoriaenergetica.org/"
+},
+{"datetime":"2014-11-07T21:19:55Z",
+"uri":"http://web.archive.org/web/20141107211955/http://www.quieroauditoriaenergetica.org/"
+},
+{"datetime":"2014-12-18T03:21:29Z",
+"uri":"http://web.archive.org/web/20141218032129/http://quieroauditoriaenergetica.org/"
+},
+{"datetime":"2015-02-01T20:39:08Z",
+"uri":"http://web.archive.org/web/20150201203908/http://www.quieroauditoriaenergetica.org/"
+},
+{"datetime":"2015-03-14T22:12:18Z",
+"uri":"http://web.archive.org/web/20150314221218/http://quieroauditoriaenergetica.org/"
+},
+{"datetime":"2015-03-24T08:26:06Z",
+"uri":"http://web.archive.org/web/20150324082606/http://quieroauditoriaenergetica.org/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://quieroauditoriaenergetica.org/"}
+ }

@@ -1,0 +1,26 @@
+{"original_uri":"http://SkypeGrab.net",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://SkypeGrab.net",
+"mementos": {
+"list": [
+{"datetime":"2014-09-19T16:09:53Z",
+"uri":"http://archive.is/20140919160953/http://skypegrab.net/"
+},
+{"datetime":"2014-12-24T10:58:31Z",
+"uri":"http://web.archive.org/web/20141224105831/http://www.skypegrab.net"
+},
+{"datetime":"2014-12-24T10:58:31Z",
+"uri":"http://archive.is/20141224105831/http://skypegrab.net/"
+},
+{"datetime":"2015-02-24T10:59:27Z",
+"uri":"http://web.archive.org/web/20150224105927/http://skypegrab.net/"
+},
+{"datetime":"2015-03-14T22:09:11Z",
+"uri":"http://web.archive.org/web/20150314220911/http://skypegrab.net/"
+},
+{"datetime":"2015-03-15T10:11:05Z",
+"uri":"http://web.archive.org/web/20150315101105/http://skypegrab.net/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://SkypeGrab.net"}
+ }

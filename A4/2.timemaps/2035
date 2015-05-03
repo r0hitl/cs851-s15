@@ -1,0 +1,11 @@
+{"original_uri":"http://www.bbc.co.uk/sport/0/football/31104549",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.bbc.co.uk/sport/0/football/31104549",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T06:29:07Z",
+"uri":"http://archive.is/20150203062907/http://www.bbc.co.uk/sport/0/football/31104549"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.bbc.co.uk/sport/0/football/31104549"}
+ }

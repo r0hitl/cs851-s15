@@ -1,0 +1,23 @@
+{"original_uri":"http://www.btosports.com/moto-news/motocross-parts/motorcycle-parts/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.btosports.com/moto-news/motocross-parts/motorcycle-parts/",
+"mementos": {
+"list": [
+{"datetime":"2014-04-25T15:50:57Z",
+"uri":"http://web.archive.org/web/20140425155057/http://www.btosports.com/moto-news/motocross-parts/motorcycle-parts/"
+},
+{"datetime":"2014-07-17T09:19:08Z",
+"uri":"http://web.archive.org/web/20140717091908/http://www.btosports.com/moto-news/motocross-parts/motorcycle-parts/"
+},
+{"datetime":"2014-09-12T23:37:51Z",
+"uri":"http://web.archive.org/web/20140912233751/http://www.btosports.com/moto-news/motocross-parts/motorcycle-parts"
+},
+{"datetime":"2014-09-12T23:37:51Z",
+"uri":"http://web.archive.org/web/20140912233751/http://www.btosports.com/moto-news/motocross-parts/motorcycle-parts/"
+},
+{"datetime":"2014-09-14T01:48:25Z",
+"uri":"http://web.archive.org/web/20140914014825/http://www.btosports.com/moto-news/motocross-parts/motorcycle-parts/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.btosports.com/moto-news/motocross-parts/motorcycle-parts/"}
+ }

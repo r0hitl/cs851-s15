@@ -1,0 +1,23 @@
+{"original_uri":"http://www.watchmygf.to/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.watchmygf.to/",
+"mementos": {
+"list": [
+{"datetime":"2014-02-07T23:18:18Z",
+"uri":"http://archive.is/20140207231818/http://www.watchmygf.to/"
+},
+{"datetime":"2015-03-13T11:03:55Z",
+"uri":"http://archive.is/20150313110355/http://www.watchmygf.to/"
+},
+{"datetime":"2015-03-18T07:09:43Z",
+"uri":"http://archive.is/20150318070943/http://www.watchmygf.to/"
+},
+{"datetime":"2015-04-05T11:45:27Z",
+"uri":"http://archive.is/20150405114527/http://www.watchmygf.to/"
+},
+{"datetime":"2015-04-10T05:25:51Z",
+"uri":"http://archive.is/20150410052551/http://www.watchmygf.to/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.watchmygf.to/"}
+ }

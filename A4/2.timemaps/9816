@@ -1,0 +1,17 @@
+{"original_uri":"http://www.edfenergy.com/for-home/help-support/help-centre",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.edfenergy.com/for-home/help-support/help-centre",
+"mementos": {
+"list": [
+{"datetime":"2014-08-25T04:01:36Z",
+"uri":"http://web.archive.org/web/20140825040136/http://www.edfenergy.com/for-home/help-support/help-centre"
+},
+{"datetime":"2014-08-27T19:33:42Z",
+"uri":"http://web.archive.org/web/20140827193342/http://www.edfenergy.com/for-home/help-support/help-centre"
+},
+{"datetime":"2015-03-17T12:24:13Z",
+"uri":"http://web.archive.org/web/20150317122413/http://www.edfenergy.com/for-home/help-support/help-centre"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.edfenergy.com/for-home/help-support/help-centre"}
+ }

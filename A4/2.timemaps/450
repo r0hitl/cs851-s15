@@ -1,0 +1,14 @@
+{"original_uri":"http://www.ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadSelectionData",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadSelectionData",
+"mementos": {
+"list": [
+{"datetime":"2013-04-22T21:19:39Z",
+"uri":"http://web.archive.org/web/20130422211939/http://ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadSelectionData"
+},
+{"datetime":"2013-05-08T14:02:17Z",
+"uri":"http://web.archive.org/web/20130508140217/http://ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadSelectionData"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadSelectionData"}
+ }

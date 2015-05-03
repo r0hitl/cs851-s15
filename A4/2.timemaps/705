@@ -1,0 +1,26 @@
+{"original_uri":"http://elpais.com/elpais/2015/01/30/ciencia/1422638904_415931.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://elpais.com/elpais/2015/01/30/ciencia/1422638904_415931.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T06:32:00Z",
+"uri":"http://web.archive.org/web/20150203063200/http://elpais.com/elpais/2015/01/30/ciencia/1422638904_415931.html"
+},
+{"datetime":"2015-03-15T22:35:31Z",
+"uri":"http://web.archive.org/web/20150315223531/http://elpais.com/elpais/2015/01/30/ciencia/1422638904_415931.html"
+},
+{"datetime":"2015-03-18T22:32:33Z",
+"uri":"http://web.archive.org/web/20150318223233/http://elpais.com/elpais/2015/01/30/ciencia/1422638904_415931.html"
+},
+{"datetime":"2015-03-20T13:21:44Z",
+"uri":"http://web.archive.org/web/20150320132144/http://elpais.com/elpais/2015/01/30/ciencia/1422638904_415931.html"
+},
+{"datetime":"2015-03-24T18:57:49Z",
+"uri":"http://web.archive.org/web/20150324185749/http://elpais.com/elpais/2015/01/30/ciencia/1422638904_415931.html"
+},
+{"datetime":"2015-03-25T11:57:25Z",
+"uri":"http://web.archive.org/web/20150325115725/http://elpais.com/elpais/2015/01/30/ciencia/1422638904_415931.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://elpais.com/elpais/2015/01/30/ciencia/1422638904_415931.html"}
+ }

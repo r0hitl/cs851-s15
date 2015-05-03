@@ -1,0 +1,14 @@
+{"original_uri":"http://markezine.jp/article/detail/21859",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://markezine.jp/article/detail/21859",
+"mementos": {
+"list": [
+{"datetime":"2015-03-19T14:46:53Z",
+"uri":"http://web.archive.org/web/20150319144653/http://markezine.jp/article/detail/21859"
+},
+{"datetime":"2015-03-24T07:33:15Z",
+"uri":"http://web.archive.org/web/20150324073315/http://markezine.jp/article/detail/21859"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://markezine.jp/article/detail/21859"}
+ }

@@ -1,0 +1,29 @@
+{"original_uri":"http://mobile.indogroupon.com/index.php?view=recentDeal",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://mobile.indogroupon.com/index.php?view=recentDeal",
+"mementos": {
+"list": [
+{"datetime":"2013-08-18T22:55:26Z",
+"uri":"http://web.archive.org/web/20130818225526/http://mobile.indogroupon.com/index.php?view=recentDeal"
+},
+{"datetime":"2013-11-15T10:23:16Z",
+"uri":"http://web.archive.org/web/20131115102316/http://mobile.indogroupon.com/index.php?view=recentDeal"
+},
+{"datetime":"2013-11-28T09:21:22Z",
+"uri":"http://web.archive.org/web/20131128092122/http://mobile.indogroupon.com/index.php?view=recentDeal"
+},
+{"datetime":"2014-01-27T23:51:01Z",
+"uri":"http://web.archive.org/web/20140127235101/http://mobile.indogroupon.com/index.php?view=recentDeal"
+},
+{"datetime":"2014-03-29T13:47:55Z",
+"uri":"http://web.archive.org/web/20140329134755/http://mobile.indogroupon.com/index.php?view=recentDeal"
+},
+{"datetime":"2014-05-29T07:09:54Z",
+"uri":"http://web.archive.org/web/20140529070954/http://mobile.indogroupon.com/index.php?view=recentDeal"
+},
+{"datetime":"2014-06-26T11:04:05Z",
+"uri":"http://web.archive.org/web/20140626110405/http://mobile.indogroupon.com/index.php?view=recentDeal"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://mobile.indogroupon.com/index.php?view=recentDeal"}
+ }

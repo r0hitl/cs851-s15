@@ -1,0 +1,11 @@
+{"original_uri":"http://palaceradio.co.uk/podcasts.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://palaceradio.co.uk/podcasts.html",
+"mementos": {
+"list": [
+{"datetime":"2014-05-28T14:13:01Z",
+"uri":"http://web.archive.org/web/20140528141301/http://palaceradio.co.uk/podcasts.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://palaceradio.co.uk/podcasts.html"}
+ }

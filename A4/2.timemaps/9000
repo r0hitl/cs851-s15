@@ -1,0 +1,14 @@
+{"original_uri":"http://www.newsweekjapan.jp/stories/us/2015/02/35.php",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.newsweekjapan.jp/stories/us/2015/02/35.php",
+"mementos": {
+"list": [
+{"datetime":"2015-02-07T09:33:58Z",
+"uri":"http://web.archive.org/web/20150207093358/http://www.newsweekjapan.jp/stories/us/2015/02/35.php"
+},
+{"datetime":"2015-03-17T20:13:58Z",
+"uri":"http://web.archive.org/web/20150317201358/http://www.newsweekjapan.jp/stories/us/2015/02/35.php"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.newsweekjapan.jp/stories/us/2015/02/35.php"}
+ }

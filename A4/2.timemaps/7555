@@ -1,0 +1,23 @@
+{"original_uri":"http://thelockdoctors.co.uk",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://thelockdoctors.co.uk",
+"mementos": {
+"list": [
+{"datetime":"2014-06-07T01:38:32Z",
+"uri":"http://web.archive.org/web/20140607013832/http://thelockdoctors.co.uk/"
+},
+{"datetime":"2014-09-09T23:36:15Z",
+"uri":"http://web.archive.org/web/20140909233615/http://www.thelockdoctors.co.uk/"
+},
+{"datetime":"2014-11-02T08:10:11Z",
+"uri":"http://web.archive.org/web/20141102081011/http://thelockdoctors.co.uk/"
+},
+{"datetime":"2014-11-02T12:42:10Z",
+"uri":"http://web.archive.org/web/20141102124210/http://www.thelockdoctors.co.uk/"
+},
+{"datetime":"2014-12-20T08:25:44Z",
+"uri":"http://web.archive.org/web/20141220082544/http://www.thelockdoctors.co.uk/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://thelockdoctors.co.uk"}
+ }

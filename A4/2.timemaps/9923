@@ -1,0 +1,62 @@
+{"original_uri":"http://shindanmaker.com/329773",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://shindanmaker.com/329773",
+"mementos": {
+"list": [
+{"datetime":"2013-03-28T08:11:41Z",
+"uri":"http://web.archive.org/web/20130328081141/http://shindanmaker.com/329773"
+},
+{"datetime":"2013-05-21T09:23:17Z",
+"uri":"http://web.archive.org/web/20130521092317/http://shindanmaker.com/329773"
+},
+{"datetime":"2013-06-20T11:00:27Z",
+"uri":"http://web.archive.org/web/20130620110027/http://shindanmaker.com/329773"
+},
+{"datetime":"2013-07-07T21:48:10Z",
+"uri":"http://web.archive.org/web/20130707214810/http://shindanmaker.com/329773"
+},
+{"datetime":"2013-07-08T14:28:12Z",
+"uri":"http://web.archive.org/web/20130708142812/http://shindanmaker.com/329773"
+},
+{"datetime":"2013-07-19T02:30:24Z",
+"uri":"http://web.archive.org/web/20130719023024/http://shindanmaker.com/329773"
+},
+{"datetime":"2013-08-01T15:45:21Z",
+"uri":"http://web.archive.org/web/20130801154521/http://shindanmaker.com/329773"
+},
+{"datetime":"2013-08-19T08:30:46Z",
+"uri":"http://web.archive.org/web/20130819083046/http://shindanmaker.com/329773"
+},
+{"datetime":"2013-09-20T20:51:22Z",
+"uri":"http://web.archive.org/web/20130920205122/http://shindanmaker.com/329773"
+},
+{"datetime":"2013-10-24T05:54:47Z",
+"uri":"http://web.archive.org/web/20131024055447/http://shindanmaker.com/329773"
+},
+{"datetime":"2014-02-21T10:53:06Z",
+"uri":"http://web.archive.org/web/20140221105306/http://shindanmaker.com/329773"
+},
+{"datetime":"2014-03-25T23:02:53Z",
+"uri":"http://web.archive.org/web/20140325230253/http://shindanmaker.com/329773"
+},
+{"datetime":"2014-07-02T18:17:55Z",
+"uri":"http://web.archive.org/web/20140702181755/http://shindanmaker.com/329773"
+},
+{"datetime":"2014-07-05T05:40:02Z",
+"uri":"http://web.archive.org/web/20140705054002/http://shindanmaker.com/329773"
+},
+{"datetime":"2014-09-14T20:19:59Z",
+"uri":"http://web.archive.org/web/20140914201959/http://shindanmaker.com/329773"
+},
+{"datetime":"2015-03-19T00:52:02Z",
+"uri":"http://web.archive.org/web/20150319005202/http://shindanmaker.com/329773"
+},
+{"datetime":"2015-04-06T14:28:03Z",
+"uri":"http://web.archive.org/web/20150406142803/http://shindanmaker.com/329773"
+},
+{"datetime":"2015-04-06T16:48:27Z",
+"uri":"http://web.archive.org/web/20150406164827/http://shindanmaker.com/329773"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://shindanmaker.com/329773"}
+ }

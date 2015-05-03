@@ -1,0 +1,26 @@
+{"original_uri":"http://www3.nhk.or.jp/news/html/20150203/k10015185161000.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www3.nhk.or.jp/news/html/20150203/k10015185161000.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T08:50:09Z",
+"uri":"http://archive.is/20150203085009/http://www3.nhk.or.jp/news/html/20150203/k10015185161000.html"
+},
+{"datetime":"2015-02-03T08:50:17Z",
+"uri":"http://web.archive.org/web/20150203085017/http://www3.nhk.or.jp/news/html/20150203/k10015185161000.html"
+},
+{"datetime":"2015-02-03T08:56:09Z",
+"uri":"http://archive.is/20150203085609/http://www3.nhk.or.jp/news/html/20150203/k10015185161000.html"
+},
+{"datetime":"2015-02-03T08:56:35Z",
+"uri":"http://web.archive.org/web/20150203085635/http://www3.nhk.or.jp/news/html/20150203/k10015185161000.html"
+},
+{"datetime":"2015-02-03T11:53:41Z",
+"uri":"http://archive.is/20150203115341/http://www3.nhk.or.jp/news/html/20150203/k10015185161000.html"
+},
+{"datetime":"2015-02-03T11:57:37Z",
+"uri":"http://web.archive.org/web/20150203115737/http://www3.nhk.or.jp/news/html/20150203/k10015185161000.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www3.nhk.or.jp/news/html/20150203/k10015185161000.html"}
+ }

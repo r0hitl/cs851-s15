@@ -1,0 +1,20 @@
+{"original_uri":"http://www.fashion-press.net/news/15106",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.fashion-press.net/news/15106",
+"mementos": {
+"list": [
+{"datetime":"2015-02-14T03:20:16Z",
+"uri":"http://web.archive.org/web/20150214032016/http://www.fashion-press.net/news/15106"
+},
+{"datetime":"2015-03-29T00:44:05Z",
+"uri":"http://web.archive.org/web/20150329004405/http://www.fashion-press.net/news/15106"
+},
+{"datetime":"2015-04-06T14:35:56Z",
+"uri":"http://web.archive.org/web/20150406143556/http://www.fashion-press.net/news/15106"
+},
+{"datetime":"2015-04-07T03:20:17Z",
+"uri":"http://web.archive.org/web/20150407032017/http://www.fashion-press.net/news/15106"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.fashion-press.net/news/15106"}
+ }

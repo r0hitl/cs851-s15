@@ -1,0 +1,29 @@
+{"original_uri":"http://www.foxsports.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.foxsports.com/",
+"timemap_index": [
+{"from":"1998-01-10T00:10:10Z",
+"until":"2009-01-07T18:15:14Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://www.foxsports.com/"
+},{"from":"2009-01-15T20:23:11Z",
+"until":"2012-07-13T06:20:34Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://www.foxsports.com/"
+},{"from":"2012-07-14T02:53:31Z",
+"until":"2013-10-03T20:38:04Z",
+"uri":"http://labs.mementoweb.org/timemap/json/2000/http://www.foxsports.com/"
+},{"from":"2013-10-04T11:22:47Z",
+"until":"2014-03-16T13:45:36Z",
+"uri":"http://labs.mementoweb.org/timemap/json/3000/http://www.foxsports.com/"
+},{"from":"2014-03-16T14:59:17Z",
+"until":"2014-07-28T17:52:44Z",
+"uri":"http://labs.mementoweb.org/timemap/json/4000/http://www.foxsports.com/"
+},{"from":"2014-07-28T18:17:32Z",
+"until":"2014-10-20T23:08:13Z",
+"uri":"http://labs.mementoweb.org/timemap/json/5000/http://www.foxsports.com/"
+},{"from":"2014-10-20T23:29:40Z",
+"until":"2015-01-10T21:00:18Z",
+"uri":"http://labs.mementoweb.org/timemap/json/6000/http://www.foxsports.com/"
+},{"from":"2015-01-10T22:09:28Z",
+"uri":"http://labs.mementoweb.org/timemap/json/7000/http://www.foxsports.com/"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://www.foxsports.com/",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://www.foxsports.com/"
+}}

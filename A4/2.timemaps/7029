@@ -1,0 +1,11 @@
+{"original_uri":"http://petitlyrics.com/contents/app_list.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://petitlyrics.com/contents/app_list.html",
+"mementos": {
+"list": [
+{"datetime":"2014-06-29T15:23:22Z",
+"uri":"http://web.archive.org/web/20140629152322/http://petitlyrics.com/contents/app_list.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://petitlyrics.com/contents/app_list.html"}
+ }

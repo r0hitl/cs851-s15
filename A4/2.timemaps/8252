@@ -1,0 +1,11 @@
+{"original_uri":"http://www.anibro.jp/limited/11404/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.anibro.jp/limited/11404/",
+"mementos": {
+"list": [
+{"datetime":"2015-04-28T23:34:00Z",
+"uri":"http://web.archive.org/web/20150428233400/http://www.anibro.jp/limited/11404"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.anibro.jp/limited/11404/"}
+ }

@@ -1,0 +1,11 @@
+{"original_uri":"http://my-tiny.com/xqmr/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://my-tiny.com/xqmr/",
+"mementos": {
+"list": [
+{"datetime":"2014-04-02T11:32:16Z",
+"uri":"http://web.archive.org/web/20140402113216/http://my-tiny.com/xqmr/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://my-tiny.com/xqmr/"}
+ }

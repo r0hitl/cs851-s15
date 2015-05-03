@@ -1,0 +1,11 @@
+{"original_uri":"http://boulevardbroker.com/listing/alem-1167/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://boulevardbroker.com/listing/alem-1167/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-06T07:05:18Z",
+"uri":"http://web.archive.org/web/20150206070518/http://boulevardbroker.com/listing/alem-1167/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://boulevardbroker.com/listing/alem-1167/"}
+ }

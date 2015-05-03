@@ -1,0 +1,41 @@
+{"original_uri":"http://www.yoursexfriends.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.yoursexfriends.com",
+"mementos": {
+"list": [
+{"datetime":"2013-03-05T09:27:47Z",
+"uri":"http://web.archive.org/web/20130305092747/http://www.yoursexfriends.com/"
+},
+{"datetime":"2013-05-10T04:24:34Z",
+"uri":"http://web.archive.org/web/20130510042434/http://www.yoursexfriends.com/"
+},
+{"datetime":"2013-06-25T16:44:35Z",
+"uri":"http://web.archive.org/web/20130625164435/http://yoursexfriends.com"
+},
+{"datetime":"2013-06-25T16:44:37Z",
+"uri":"http://web.archive.org/web/20130625164437/http://www.yoursexfriends.com/"
+},
+{"datetime":"2013-06-27T07:07:33Z",
+"uri":"http://web.archive.org/web/20130627070733/http://www.yoursexfriends.com/"
+},
+{"datetime":"2013-10-11T14:24:15Z",
+"uri":"//wayback.archive-it.org/all/20131011142415/http://www.yoursexfriends.com/"
+},
+{"datetime":"2013-10-11T14:24:15Z",
+"uri":"http://web.archive.org/web/20131011142415/http://www.yoursexfriends.com/"
+},
+{"datetime":"2014-02-20T16:55:11Z",
+"uri":"http://web.archive.org/web/20140220165511/http://www.yoursexfriends.com/"
+},
+{"datetime":"2014-05-28T18:15:16Z",
+"uri":"http://web.archive.org/web/20140528181516/http://www.yoursexfriends.com/"
+},
+{"datetime":"2014-12-18T16:25:28Z",
+"uri":"http://web.archive.org/web/20141218162528/http://yoursexfriends.com/"
+},
+{"datetime":"2014-12-23T05:31:40Z",
+"uri":"http://web.archive.org/web/20141223053140/http://www.yoursexfriends.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.yoursexfriends.com"}
+ }

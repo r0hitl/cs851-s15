@@ -1,0 +1,11 @@
+{"original_uri":"http://ria.ru/news_company/20150202/1045456595.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://ria.ru/news_company/20150202/1045456595.html",
+"mementos": {
+"list": [
+{"datetime":"2015-03-19T13:22:04Z",
+"uri":"http://web.archive.org/web/20150319132204/http://ria.ru/news_company/20150202/1045456595.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://ria.ru/news_company/20150202/1045456595.html"}
+ }

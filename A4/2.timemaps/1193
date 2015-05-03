@@ -1,0 +1,56 @@
+{"original_uri":"http://twinklelove.jp/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://twinklelove.jp/",
+"mementos": {
+"list": [
+{"datetime":"2006-05-04T04:46:38Z",
+"uri":"http://web.archive.org/web/20060504044638/http://twinklelove.jp/"
+},
+{"datetime":"2006-07-07T01:17:54Z",
+"uri":"http://web.archive.org/web/20060707011754/http://twinklelove.jp/"
+},
+{"datetime":"2006-07-22T18:59:30Z",
+"uri":"http://web.archive.org/web/20060722185930/http://twinklelove.jp/"
+},
+{"datetime":"2010-08-30T00:32:33Z",
+"uri":"http://web.archive.org/web/20100830003233/http://twinklelove.jp/"
+},
+{"datetime":"2010-11-04T13:42:31Z",
+"uri":"http://web.archive.org/web/20101104134231/http://twinklelove.jp/"
+},
+{"datetime":"2011-07-05T22:35:20Z",
+"uri":"http://web.archive.org/web/20110705223520/http://twinklelove.jp/"
+},
+{"datetime":"2011-09-05T03:51:58Z",
+"uri":"http://web.archive.org/web/20110905035158/http://twinklelove.jp/"
+},
+{"datetime":"2011-12-13T04:52:17Z",
+"uri":"http://web.archive.org/web/20111213045217/http://twinklelove.jp/"
+},
+{"datetime":"2013-04-26T11:18:16Z",
+"uri":"http://web.archive.org/web/20130426111816/http://twinklelove.jp/"
+},
+{"datetime":"2013-06-02T00:30:20Z",
+"uri":"http://web.archive.org/web/20130602003020/http://www.twinklelove.jp/"
+},
+{"datetime":"2013-07-18T21:37:45Z",
+"uri":"http://web.archive.org/web/20130718213745/http://twinklelove.jp/"
+},
+{"datetime":"2013-12-08T07:01:14Z",
+"uri":"http://web.archive.org/web/20131208070114/http://www.twinklelove.jp/"
+},
+{"datetime":"2014-01-06T23:29:23Z",
+"uri":"http://web.archive.org/web/20140106232923/http://twinklelove.jp/"
+},
+{"datetime":"2014-01-28T12:34:23Z",
+"uri":"http://web.archive.org/web/20140128123423/http://twinklelove.jp/"
+},
+{"datetime":"2014-12-18T08:32:07Z",
+"uri":"http://web.archive.org/web/20141218083207/http://twinklelove.jp/"
+},
+{"datetime":"2015-03-29T07:04:21Z",
+"uri":"http://web.archive.org/web/20150329070421/http://www.twinklelove.jp/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://twinklelove.jp/"}
+ }

@@ -1,0 +1,11 @@
+{"original_uri":"http://news.sbs.co.kr/news/endPage.do?news_id=N1002818720",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://news.sbs.co.kr/news/endPage.do?news_id=N1002818720",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T14:45:39Z",
+"uri":"http://web.archive.org/web/20150203144539/http://news.sbs.co.kr/news/endPage.do?news_id=N1002818720"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://news.sbs.co.kr/news/endPage.do?news_id=N1002818720"}
+ }

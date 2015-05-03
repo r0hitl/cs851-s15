@@ -1,0 +1,17 @@
+{"original_uri":"http://ameblo.jp/333999999999/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://ameblo.jp/333999999999/",
+"mementos": {
+"list": [
+{"datetime":"2011-03-10T02:16:24Z",
+"uri":"http://web.archive.org/web/20110310021624/http://ameblo.jp/333999999999"
+},
+{"datetime":"2011-03-11T06:25:03Z",
+"uri":"http://web.archive.org/web/20110311062503/http://ameblo.jp/333999999999"
+},
+{"datetime":"2014-08-22T22:06:14Z",
+"uri":"http://web.archive.org/web/20140822220614/http://ameblo.jp/333999999999/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://ameblo.jp/333999999999/"}
+ }

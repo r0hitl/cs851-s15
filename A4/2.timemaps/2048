@@ -1,0 +1,17 @@
+{"original_uri":"http://news.livedoor.com/article/detail/9736100/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://news.livedoor.com/article/detail/9736100/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-01T00:16:38Z",
+"uri":"http://web.archive.org/web/20150201001638/http://news.livedoor.com/article/detail/9736100/"
+},
+{"datetime":"2015-02-01T03:25:33Z",
+"uri":"http://web.archive.org/web/20150201032533/http://news.livedoor.com/article/detail/9736100/"
+},
+{"datetime":"2015-02-01T03:25:38Z",
+"uri":"http://archive.is/20150201032538/http://news.livedoor.com/article/detail/9736100/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://news.livedoor.com/article/detail/9736100/"}
+ }

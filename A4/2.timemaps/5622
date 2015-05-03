@@ -1,0 +1,11 @@
+{"original_uri":"http://fs-cybers.blogspot.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://fs-cybers.blogspot.com",
+"mementos": {
+"list": [
+{"datetime":"2014-12-02T02:39:58Z",
+"uri":"http://web.archive.org/web/20141202023958/http://fs-cybers.blogspot.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://fs-cybers.blogspot.com"}
+ }

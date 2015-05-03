@@ -1,0 +1,23 @@
+{"original_uri":"http://affairs365.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://affairs365.com",
+"mementos": {
+"list": [
+{"datetime":"2013-08-09T20:25:31Z",
+"uri":"http://web.archive.org/web/20130809202531/http://affairs365.com"
+},
+{"datetime":"2013-08-09T22:40:35Z",
+"uri":"http://web.archive.org/web/20130809224035/http://www.affairs365.com"
+},
+{"datetime":"2013-08-10T01:13:29Z",
+"uri":"http://web.archive.org/web/20130810011329/http://affairs365.com"
+},
+{"datetime":"2013-08-10T06:23:26Z",
+"uri":"http://web.archive.org/web/20130810062326/http://www.affairs365.com"
+},
+{"datetime":"2013-08-10T09:15:23Z",
+"uri":"http://web.archive.org/web/20130810091523/http://affairs365.com"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://affairs365.com"}
+ }

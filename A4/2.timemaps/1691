@@ -1,0 +1,29 @@
+{"original_uri":"http://suzuryou.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://suzuryou.com/",
+"mementos": {
+"list": [
+{"datetime":"2011-01-28T16:00:49Z",
+"uri":"http://web.archive.org/web/20110128160049/http://suzuryou.com/"
+},
+{"datetime":"2013-03-11T05:08:39Z",
+"uri":"http://web.archive.org/web/20130311050839/http://suzuryou.com/"
+},
+{"datetime":"2013-04-10T13:38:46Z",
+"uri":"http://web.archive.org/web/20130410133846/http://suzuryou.com/"
+},
+{"datetime":"2013-05-23T04:26:28Z",
+"uri":"http://web.archive.org/web/20130523042628/http://suzuryou.com/"
+},
+{"datetime":"2013-07-18T09:47:45Z",
+"uri":"http://web.archive.org/web/20130718094745/http://suzuryou.com/"
+},
+{"datetime":"2014-01-07T23:49:18Z",
+"uri":"http://web.archive.org/web/20140107234918/http://suzuryou.com/"
+},
+{"datetime":"2014-12-18T06:37:25Z",
+"uri":"http://web.archive.org/web/20141218063725/http://suzuryou.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://suzuryou.com/"}
+ }

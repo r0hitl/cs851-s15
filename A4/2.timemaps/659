@@ -1,0 +1,11 @@
+{"original_uri":"http://Quran.to",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://Quran.to",
+"mementos": {
+"list": [
+{"datetime":"2014-08-19T23:33:15Z",
+"uri":"http://web.archive.org/web/20140819233315/http://quran.to/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://Quran.to"}
+ }

@@ -1,0 +1,11 @@
+{"original_uri":"http://pg21.ru/news/view/75558",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://pg21.ru/news/view/75558",
+"mementos": {
+"list": [
+{"datetime":"2015-03-16T13:45:22Z",
+"uri":"http://web.archive.org/web/20150316134522/http://pg21.ru/news/view/75558"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://pg21.ru/news/view/75558"}
+ }

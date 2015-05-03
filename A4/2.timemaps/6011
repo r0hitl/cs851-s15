@@ -1,0 +1,11 @@
+{"original_uri":"http://www.lef-magazine.nl/nieuwsbrief",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.lef-magazine.nl/nieuwsbrief",
+"mementos": {
+"list": [
+{"datetime":"2015-02-18T14:47:21Z",
+"uri":"http://web.archive.org/web/20150218144721/http://lef-magazine.nl/nieuwsbrief"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.lef-magazine.nl/nieuwsbrief"}
+ }

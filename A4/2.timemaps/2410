@@ -1,0 +1,17 @@
+{"original_uri":"http://successparoxysm.com/musicdr/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://successparoxysm.com/musicdr/",
+"mementos": {
+"list": [
+{"datetime":"2015-01-07T12:37:19Z",
+"uri":"//wayback.archive-it.org/all/20150107123719/http://successparoxysm.com/musicdr/"
+},
+{"datetime":"2015-01-07T12:37:19Z",
+"uri":"http://web.archive.org/web/20150107123719/http://successparoxysm.com/musicdr/"
+},
+{"datetime":"2015-03-08T23:40:22Z",
+"uri":"http://archive.is/20150308234022/http://successparoxysm.com/musicdr/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://successparoxysm.com/musicdr/"}
+ }

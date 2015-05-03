@@ -1,0 +1,17 @@
+{"original_uri":"http://www.danielsestateagents.co.uk/magazine.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.danielsestateagents.co.uk/magazine.html",
+"mementos": {
+"list": [
+{"datetime":"2013-01-13T03:02:43Z",
+"uri":"http://web.archive.org/web/20130113030243/http://www.danielsestateagents.co.uk/magazine.html"
+},
+{"datetime":"2013-02-21T01:23:41Z",
+"uri":"http://web.archive.org/web/20130221012341/http://www.danielsestateagents.co.uk/magazine.html"
+},
+{"datetime":"2013-05-31T03:38:17Z",
+"uri":"http://web.archive.org/web/20130531033817/http://www.danielsestateagents.co.uk/magazine.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.danielsestateagents.co.uk/magazine.html"}
+ }

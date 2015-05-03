@@ -1,0 +1,14 @@
+{"original_uri":"http://www.soccer-king.jp/news/japan/national/20150203/277788.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.soccer-king.jp/news/japan/national/20150203/277788.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T22:08:03Z",
+"uri":"http://web.archive.org/web/20150204220803/http://www.soccer-king.jp/news/japan/national/20150203/277788.html"
+},
+{"datetime":"2015-03-18T19:06:56Z",
+"uri":"http://web.archive.org/web/20150318190656/http://www.soccer-king.jp/news/japan/national/20150203/277788.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.soccer-king.jp/news/japan/national/20150203/277788.html"}
+ }

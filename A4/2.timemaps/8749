@@ -1,0 +1,14 @@
+{"original_uri":"http://www.aftonbladet.se/debatt/article20255629.ab",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.aftonbladet.se/debatt/article20255629.ab",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T11:15:14Z",
+"uri":"http://archive.is/20150203111514/http://www.aftonbladet.se/debatt/article20255629.ab"
+},
+{"datetime":"2015-02-03T13:57:23Z",
+"uri":"http://web.archive.org/web/20150203135723/http://www.aftonbladet.se/debatt/article20255629.ab"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.aftonbladet.se/debatt/article20255629.ab"}
+ }

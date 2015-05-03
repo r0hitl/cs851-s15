@@ -1,0 +1,11 @@
+{"original_uri":"http://bluetas.com/category/event/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://bluetas.com/category/event/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-06T00:51:41Z",
+"uri":"http://web.archive.org/web/20150206005141/http://bluetas.com/category/event/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://bluetas.com/category/event/"}
+ }

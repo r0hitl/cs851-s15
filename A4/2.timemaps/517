@@ -1,0 +1,17 @@
+{"original_uri":"http://akiba-pc.watch.impress.co.jp/docs/news/news/20150202_686345.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://akiba-pc.watch.impress.co.jp/docs/news/news/20150202_686345.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-01T15:28:24Z",
+"uri":"http://web.archive.org/web/20150201152824/http://akiba-pc.watch.impress.co.jp/docs/news/news/20150202_686345.html"
+},
+{"datetime":"2015-02-01T15:28:45Z",
+"uri":"http://archive.is/20150201152845/http://akiba-pc.watch.impress.co.jp/docs/news/news/20150202_686345.html"
+},
+{"datetime":"2015-03-29T04:33:15Z",
+"uri":"http://web.archive.org/web/20150329043315/http://akiba-pc.watch.impress.co.jp/docs/news/news/20150202_686345.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://akiba-pc.watch.impress.co.jp/docs/news/news/20150202_686345.html"}
+ }

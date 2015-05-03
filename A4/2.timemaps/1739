@@ -1,0 +1,11 @@
+{"original_uri":"http://www.fashion-press.net/collections/4000",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.fashion-press.net/collections/4000",
+"mementos": {
+"list": [
+{"datetime":"2015-03-28T23:37:02Z",
+"uri":"http://web.archive.org/web/20150328233702/http://www.fashion-press.net/collections/4000"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.fashion-press.net/collections/4000"}
+ }

@@ -1,0 +1,17 @@
+{"original_uri":"http://www.nytimes.com/2015/02/02/world/departing-from-countrys-pacifism-japanese-premier-vows-revenge-for-killings.html?_r=1",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.nytimes.com/2015/02/02/world/departing-from-countrys-pacifism-japanese-premier-vows-revenge-for-killings.html?_r=1",
+"mementos": {
+"list": [
+{"datetime":"2015-02-02T10:09:59Z",
+"uri":"http://web.archive.org/web/20150202100959/http://www.nytimes.com/2015/02/02/world/departing-from-countrys-pacifism-japanese-premier-vows-revenge-for-killings.html?_r=1"
+},
+{"datetime":"2015-02-02T10:10:37Z",
+"uri":"http://web.archive.org/web/20150202101037/http://www.nytimes.com/2015/02/02/world/departing-from-countrys-pacifism-japanese-premier-vows-revenge-for-killings.html?_r=1"
+},
+{"datetime":"2015-02-02T17:01:58Z",
+"uri":"http://web.archive.org/web/20150202170158/http://www.nytimes.com/2015/02/02/world/departing-from-countrys-pacifism-japanese-premier-vows-revenge-for-killings.html?_r=1"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.nytimes.com/2015/02/02/world/departing-from-countrys-pacifism-japanese-premier-vows-revenge-for-killings.html?_r=1"}
+ }

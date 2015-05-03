@@ -1,0 +1,29 @@
+{"original_uri":"http://specialitywebsites.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://specialitywebsites.com",
+"mementos": {
+"list": [
+{"datetime":"2014-12-27T05:19:42Z",
+"uri":"//wayback.archive-it.org/all/20141227051942/http://specialitywebsites.com/"
+},
+{"datetime":"2014-12-27T05:19:42Z",
+"uri":"http://web.archive.org/web/20141227051942/http://specialitywebsites.com/"
+},
+{"datetime":"2015-01-10T07:14:52Z",
+"uri":"//wayback.archive-it.org/all/20150110071452/http://specialitywebsites.com/"
+},
+{"datetime":"2015-01-10T07:14:52Z",
+"uri":"http://web.archive.org/web/20150110071452/http://specialitywebsites.com/"
+},
+{"datetime":"2015-01-10T08:36:46Z",
+"uri":"//wayback.archive-it.org/all/20150110083646/http://specialitywebsites.com/"
+},
+{"datetime":"2015-01-10T08:36:46Z",
+"uri":"http://web.archive.org/web/20150110083646/http://specialitywebsites.com/"
+},
+{"datetime":"2015-02-05T23:03:46Z",
+"uri":"http://web.archive.org/web/20150205230346/http://specialitywebsites.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://specialitywebsites.com"}
+ }

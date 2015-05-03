@@ -1,0 +1,14 @@
+{"original_uri":"http://kuu1.com/biganki/tool/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://kuu1.com/biganki/tool/",
+"mementos": {
+"list": [
+{"datetime":"2012-06-25T00:23:09Z",
+"uri":"http://web.archive.org/web/20120625002309/http://kuu1.com/biganki/tool/"
+},
+{"datetime":"2012-06-25T19:43:00Z",
+"uri":"http://web.archive.org/web/20120625194300/http://kuu1.com/biganki/tool"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://kuu1.com/biganki/tool/"}
+ }

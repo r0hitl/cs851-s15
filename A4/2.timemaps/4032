@@ -1,0 +1,14 @@
+{"original_uri":"http://www.animate.tv/news/details.php?id=1422938726",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.animate.tv/news/details.php?id=1422938726",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T17:14:38Z",
+"uri":"http://web.archive.org/web/20150203171438/http://www.animate.tv/news/details.php?id=1422938726"
+},
+{"datetime":"2015-04-15T03:31:49Z",
+"uri":"http://web.archive.org/web/20150415033149/http://www.animate.tv/news/details.php?id=1422938726"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.animate.tv/news/details.php?id=1422938726"}
+ }

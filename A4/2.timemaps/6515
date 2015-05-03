@@ -1,0 +1,17 @@
+{"original_uri":"http://plaza.rakuten.co.jp/manepat/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://plaza.rakuten.co.jp/manepat/",
+"mementos": {
+"list": [
+{"datetime":"2012-06-26T09:27:23Z",
+"uri":"http://web.archive.org/web/20120626092723/http://plaza.rakuten.co.jp/manepat"
+},
+{"datetime":"2014-05-30T10:40:18Z",
+"uri":"http://web.archive.org/web/20140530104018/http://plaza.rakuten.co.jp/manepat"
+},
+{"datetime":"2014-05-30T13:54:56Z",
+"uri":"http://web.archive.org/web/20140530135456/http://plaza.rakuten.co.jp/manepat/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://plaza.rakuten.co.jp/manepat/"}
+ }

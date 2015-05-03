@@ -1,0 +1,14 @@
+{"original_uri":"http://mainichi.jp/sports/news/20150204k0000m050002000c.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://mainichi.jp/sports/news/20150204k0000m050002000c.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T08:36:05Z",
+"uri":"http://web.archive.org/web/20150203083605/http://mainichi.jp/sports/news/20150204k0000m050002000c.html"
+},
+{"datetime":"2015-02-03T08:36:19Z",
+"uri":"http://archive.is/20150203083619/http://mainichi.jp/sports/news/20150204k0000m050002000c.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://mainichi.jp/sports/news/20150204k0000m050002000c.html"}
+ }

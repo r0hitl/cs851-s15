@@ -1,0 +1,11 @@
+{"original_uri":"http://www.rbc.ru/rbcfreenews/54d082a29a7947b50e31c374",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.rbc.ru/rbcfreenews/54d082a29a7947b50e31c374",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T14:51:30Z",
+"uri":"http://web.archive.org/web/20150203145130/http://www.rbc.ru/rbcfreenews/54d082a29a7947b50e31c374"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.rbc.ru/rbcfreenews/54d082a29a7947b50e31c374"}
+ }

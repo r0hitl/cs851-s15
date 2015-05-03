@@ -1,0 +1,32 @@
+{"original_uri":"http://www.amazon.com/dp/0966332903?tag=geolinker-20",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.amazon.com/dp/0966332903?tag=geolinker-20",
+"mementos": {
+"list": [
+{"datetime":"2014-12-17T23:03:11Z",
+"uri":"//wayback.archive-it.org/all/20141217230311/http://www.amazon.com/dp/0966332903?tag=geolinker-20"
+},
+{"datetime":"2014-12-17T23:03:11Z",
+"uri":"http://web.archive.org/web/20141217230311/http://www.amazon.com/dp/0966332903?tag=geolinker-20"
+},
+{"datetime":"2015-01-07T14:57:59Z",
+"uri":"//wayback.archive-it.org/all/20150107145759/http://www.amazon.com/dp/0966332903?tag=geolinker-20"
+},
+{"datetime":"2015-01-07T14:57:59Z",
+"uri":"http://web.archive.org/web/20150107145759/http://www.amazon.com/dp/0966332903?tag=geolinker-20"
+},
+{"datetime":"2015-01-11T04:36:47Z",
+"uri":"//wayback.archive-it.org/all/20150111043647/http://www.amazon.com/dp/0966332903?tag=geolinker-20"
+},
+{"datetime":"2015-01-11T04:36:47Z",
+"uri":"http://web.archive.org/web/20150111043647/http://www.amazon.com/dp/0966332903?tag=geolinker-20"
+},
+{"datetime":"2015-01-22T00:58:11Z",
+"uri":"//wayback.archive-it.org/all/20150122005811/http://www.amazon.com/dp/0966332903?tag=geolinker-20"
+},
+{"datetime":"2015-01-22T00:58:11Z",
+"uri":"http://web.archive.org/web/20150122005811/http://www.amazon.com/dp/0966332903?tag=geolinker-20"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.amazon.com/dp/0966332903?tag=geolinker-20"}
+ }

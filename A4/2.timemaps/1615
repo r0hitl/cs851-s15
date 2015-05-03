@@ -1,0 +1,11 @@
+{"original_uri":"http://write-read.ru/news/2759",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://write-read.ru/news/2759",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T10:10:52Z",
+"uri":"http://web.archive.org/web/20150204101052/http://write-read.ru/news/2759"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://write-read.ru/news/2759"}
+ }

@@ -1,0 +1,17 @@
+{"original_uri":"http://error.fc2.com/blogf/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://error.fc2.com/blogf/",
+"timemap_index": [
+{"from":"2007-10-31T22:49:59Z",
+"until":"2012-04-15T19:56:56Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://error.fc2.com/blogf/"
+},{"from":"2012-04-17T22:45:08Z",
+"until":"2014-04-10T04:55:20Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://error.fc2.com/blogf/"
+},{"from":"2014-04-10T06:01:06Z",
+"until":"2014-12-15T11:47:51Z",
+"uri":"http://labs.mementoweb.org/timemap/json/2000/http://error.fc2.com/blogf/"
+},{"from":"2014-12-15T13:35:52Z",
+"uri":"http://labs.mementoweb.org/timemap/json/3000/http://error.fc2.com/blogf/"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://error.fc2.com/blogf/",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://error.fc2.com/blogf/"
+}}

@@ -1,0 +1,11 @@
+{"original_uri":"http://A8.net",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://A8.net",
+"timemap_index": [
+{"from":"2000-10-18T07:34:26Z",
+"until":"2014-01-07T08:16:09Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://A8.net"
+},{"from":"2014-01-18T18:04:38Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://A8.net"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://A8.net",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://A8.net"
+}}

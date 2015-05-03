@@ -1,0 +1,41 @@
+{"original_uri":"http://www.haaretz.com/opinion/.premium-1.640409",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.haaretz.com/opinion/.premium-1.640409",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T01:06:37Z",
+"uri":"http://web.archive.org/web/20150203010637/http://www.haaretz.com/opinion/.premium-1.640409"
+},
+{"datetime":"2015-03-10T19:02:50Z",
+"uri":"http://web.archive.org/web/20150310190250/http://www.haaretz.com/opinion/.premium-1.640409"
+},
+{"datetime":"2015-03-15T02:04:48Z",
+"uri":"http://web.archive.org/web/20150315020448/http://www.haaretz.com/opinion/.premium-1.640409"
+},
+{"datetime":"2015-03-22T14:08:57Z",
+"uri":"http://web.archive.org/web/20150322140857/http://www.haaretz.com/opinion/.premium-1.640409"
+},
+{"datetime":"2015-03-29T03:13:12Z",
+"uri":"http://web.archive.org/web/20150329031312/http://www.haaretz.com/opinion/.premium-1.640409"
+},
+{"datetime":"2015-03-31T03:28:11Z",
+"uri":"http://web.archive.org/web/20150331032811/http://www.haaretz.com/opinion/.premium-1.640409"
+},
+{"datetime":"2015-04-01T14:00:33Z",
+"uri":"http://archive.is/20150401140033/http://www.haaretz.com/opinion/.premium-1.640409"
+},
+{"datetime":"2015-04-06T13:36:30Z",
+"uri":"http://web.archive.org/web/20150406133630/http://www.haaretz.com/opinion/.premium-1.640409"
+},
+{"datetime":"2015-04-15T05:19:14Z",
+"uri":"http://web.archive.org/web/20150415051914/http://www.haaretz.com/opinion/.premium-1.640409"
+},
+{"datetime":"2015-04-20T16:19:28Z",
+"uri":"http://web.archive.org/web/20150420161928/http://www.haaretz.com/opinion/.premium-1.640409"
+},
+{"datetime":"2015-04-23T20:47:49Z",
+"uri":"http://web.archive.org/web/20150423204749/http://www.haaretz.com/opinion/.premium-1.640409"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.haaretz.com/opinion/.premium-1.640409"}
+ }

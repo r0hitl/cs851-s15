@@ -1,0 +1,17 @@
+{"original_uri":"http://www.asahi.com/articles/ASH232T0TH23UJHB001.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.asahi.com/articles/ASH232T0TH23UJHB001.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T03:51:12Z",
+"uri":"http://archive.is/20150203035112/http://www.asahi.com/articles/ASH232T0TH23UJHB001.html"
+},
+{"datetime":"2015-02-03T03:51:24Z",
+"uri":"http://web.archive.org/web/20150203035124/http://www.asahi.com/articles/ASH232T0TH23UJHB001.html"
+},
+{"datetime":"2015-02-03T11:14:57Z",
+"uri":"http://web.archive.org/web/20150203111457/http://www.asahi.com/articles/ASH232T0TH23UJHB001.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.asahi.com/articles/ASH232T0TH23UJHB001.html"}
+ }

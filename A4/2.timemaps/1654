@@ -1,0 +1,11 @@
+{"original_uri":"http://www.bbc.co.uk/newsbeat/31107292",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.bbc.co.uk/newsbeat/31107292",
+"mementos": {
+"list": [
+{"datetime":"2015-04-06T14:58:03Z",
+"uri":"http://web.archive.org/web/20150406145803/http://www.bbc.co.uk/newsbeat/31107292"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.bbc.co.uk/newsbeat/31107292"}
+ }

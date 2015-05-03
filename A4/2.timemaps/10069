@@ -1,0 +1,11 @@
+{"original_uri":"http://beautymovie.xyz/?p=661",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://beautymovie.xyz/?p=661",
+"mementos": {
+"list": [
+{"datetime":"2015-04-04T12:32:16Z",
+"uri":"http://web.archive.org/web/20150404123216/http://beautymovie.xyz/?p=661"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://beautymovie.xyz/?p=661"}
+ }

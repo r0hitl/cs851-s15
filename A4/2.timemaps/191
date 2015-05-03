@@ -1,0 +1,17 @@
+{"original_uri":"http://www.bbc.co.uk/news/world-europe-31103221",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.bbc.co.uk/news/world-europe-31103221",
+"mementos": {
+"list": [
+{"datetime":"2015-02-02T23:50:06Z",
+"uri":"http://web.archive.org/web/20150202235006/http://www.bbc.co.uk/news/world-europe-31103221"
+},
+{"datetime":"2015-03-01T06:25:04Z",
+"uri":"//wayback.archive-it.org/all/20150301062504/http://www.bbc.co.uk/news/world-europe-31103221"
+},
+{"datetime":"2015-03-01T06:25:04Z",
+"uri":"http://web.archive.org/web/20150301062504/http://www.bbc.co.uk/news/world-europe-31103221"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.bbc.co.uk/news/world-europe-31103221"}
+ }

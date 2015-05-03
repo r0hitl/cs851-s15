@@ -1,0 +1,29 @@
+{"original_uri":"http://www.youtube.com/watch?feature=youtu.be",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.youtube.com/watch?feature=youtu.be",
+"mementos": {
+"list": [
+{"datetime":"2012-10-19T10:37:47Z",
+"uri":"http://web.archive.org/web/20121019103747/http://youtube.com/watch?feature=youtu.be"
+},
+{"datetime":"2012-10-19T10:38:15Z",
+"uri":"http://web.archive.org/web/20121019103815/http://www.youtube.com/watch?feature=youtu.be"
+},
+{"datetime":"2012-10-22T09:06:44Z",
+"uri":"http://web.archive.org/web/20121022090644/http://youtube.com/watch?feature=youtu.be"
+},
+{"datetime":"2012-10-22T09:12:14Z",
+"uri":"http://web.archive.org/web/20121022091214/http://www.youtube.com/watch?feature=youtu.be"
+},
+{"datetime":"2014-06-28T16:18:20Z",
+"uri":"http://web.archive.org/web/20140628161820/http://www.youtube.com/watch?feature=youtu.be"
+},
+{"datetime":"2014-07-20T21:09:27Z",
+"uri":"http://web.archive.org/web/20140720210927/http://youtube.com/watch?feature=youtu.be"
+},
+{"datetime":"2014-08-05T06:10:19Z",
+"uri":"http://web.archive.org/web/20140805061019/http://www.youtube.com/watch?feature=youtu.be"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.youtube.com/watch?feature=youtu.be"}
+ }

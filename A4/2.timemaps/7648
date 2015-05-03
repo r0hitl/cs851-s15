@@ -1,0 +1,20 @@
+{"original_uri":"http://dictionary.reference.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://dictionary.reference.com/",
+"timemap_index": [
+{"from":"2002-10-25T13:17:24Z",
+"until":"2009-04-21T20:13:25Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://dictionary.reference.com/"
+},{"from":"2009-04-21T23:29:01Z",
+"until":"2012-02-20T08:10:32Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://dictionary.reference.com/"
+},{"from":"2012-02-20T15:41:16Z",
+"until":"2013-12-23T00:13:19Z",
+"uri":"http://labs.mementoweb.org/timemap/json/2000/http://dictionary.reference.com/"
+},{"from":"2013-12-23T01:19:26Z",
+"until":"2014-11-18T01:16:08Z",
+"uri":"http://labs.mementoweb.org/timemap/json/3000/http://dictionary.reference.com/"
+},{"from":"2014-11-18T01:31:09Z",
+"uri":"http://labs.mementoweb.org/timemap/json/4000/http://dictionary.reference.com/"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://dictionary.reference.com/",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://dictionary.reference.com/"
+}}

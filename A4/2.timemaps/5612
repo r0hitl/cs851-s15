@@ -1,0 +1,62 @@
+{"original_uri":"http://www.anamune.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.anamune.com/",
+"mementos": {
+"list": [
+{"datetime":"2012-10-10T00:26:53Z",
+"uri":"http://web.archive.org/web/20121010002653/http://www.anamune.com/"
+},
+{"datetime":"2012-11-14T08:53:11Z",
+"uri":"http://web.archive.org/web/20121114085311/http://www.anamune.com/"
+},
+{"datetime":"2012-11-15T22:33:54Z",
+"uri":"http://web.archive.org/web/20121115223354/http://www.anamune.com/"
+},
+{"datetime":"2013-01-19T06:19:28Z",
+"uri":"http://web.archive.org/web/20130119061928/http://www.anamune.com/"
+},
+{"datetime":"2013-05-22T20:34:33Z",
+"uri":"http://web.archive.org/web/20130522203433/http://www.anamune.com/"
+},
+{"datetime":"2013-05-23T02:06:42Z",
+"uri":"http://web.archive.org/web/20130523020642/http://anamune.com/"
+},
+{"datetime":"2013-07-20T13:09:42Z",
+"uri":"http://web.archive.org/web/20130720130942/http://www.anamune.com/"
+},
+{"datetime":"2013-09-16T14:33:01Z",
+"uri":"http://web.archive.org/web/20130916143301/http://www.anamune.com/"
+},
+{"datetime":"2013-09-28T03:15:20Z",
+"uri":"http://web.archive.org/web/20130928031520/http://www.anamune.com/"
+},
+{"datetime":"2013-12-30T16:02:48Z",
+"uri":"http://web.archive.org/web/20131230160248/http://anamune.com/"
+},
+{"datetime":"2014-01-16T18:31:12Z",
+"uri":"http://web.archive.org/web/20140116183112/http://www.anamune.com/"
+},
+{"datetime":"2014-02-09T17:26:33Z",
+"uri":"http://web.archive.org/web/20140209172633/http://www.anamune.com/"
+},
+{"datetime":"2014-05-16T22:24:15Z",
+"uri":"http://web.archive.org/web/20140516222415/http://anamune.com/"
+},
+{"datetime":"2014-05-28T08:29:14Z",
+"uri":"http://web.archive.org/web/20140528082914/http://www.anamune.com/"
+},
+{"datetime":"2014-08-01T05:18:06Z",
+"uri":"http://web.archive.org/web/20140801051806/http://www.anamune.com/"
+},
+{"datetime":"2014-12-16T18:40:37Z",
+"uri":"http://web.archive.org/web/20141216184037/http://anamune.com/"
+},
+{"datetime":"2014-12-23T16:00:28Z",
+"uri":"http://web.archive.org/web/20141223160028/http://www.anamune.com/"
+},
+{"datetime":"2015-03-23T03:09:17Z",
+"uri":"http://web.archive.org/web/20150323030917/http://www.anamune.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.anamune.com/"}
+ }

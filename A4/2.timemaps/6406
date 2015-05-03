@@ -1,0 +1,35 @@
+{"original_uri":"http://www.air-closet.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.air-closet.com/",
+"mementos": {
+"list": [
+{"datetime":"2009-07-12T03:48:39Z",
+"uri":"http://web.archive.org/web/20090712034839/http://air-closet.com/"
+},
+{"datetime":"2014-12-16T18:20:03Z",
+"uri":"http://web.archive.org/web/20141216182003/http://air-closet.com/"
+},
+{"datetime":"2014-12-18T20:51:15Z",
+"uri":"http://web.archive.org/web/20141218205115/http://www.air-closet.com/"
+},
+{"datetime":"2014-12-29T20:34:21Z",
+"uri":"http://web.archive.org/web/20141229203421/http://www.air-closet.com/"
+},
+{"datetime":"2014-12-29T22:26:47Z",
+"uri":"http://web.archive.org/web/20141229222647/http://www.air-closet.com/"
+},
+{"datetime":"2015-03-14T19:17:35Z",
+"uri":"http://web.archive.org/web/20150314191735/http://air-closet.com/"
+},
+{"datetime":"2015-03-14T20:20:53Z",
+"uri":"http://web.archive.org/web/20150314202053/http://www.air-closet.com/"
+},
+{"datetime":"2015-03-15T02:40:28Z",
+"uri":"http://web.archive.org/web/20150315024028/https://www.air-closet.com/"
+},
+{"datetime":"2015-03-20T11:52:31Z",
+"uri":"http://web.archive.org/web/20150320115231/http://air-closet.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.air-closet.com/"}
+ }

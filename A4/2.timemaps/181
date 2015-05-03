@@ -1,0 +1,20 @@
+{"original_uri":"http://translate.google.co.jp/?hl=ja",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://translate.google.co.jp/?hl=ja",
+"mementos": {
+"list": [
+{"datetime":"2011-03-29T18:37:31Z",
+"uri":"//wayback.archive-it.org/all/20110329183731/http://translate.google.co.jp/?hl=ja"
+},
+{"datetime":"2014-11-15T22:43:27Z",
+"uri":"//wayback.archive-it.org/all/20141115224327/https://translate.google.co.jp/?hl=ja"
+},
+{"datetime":"2014-11-16T00:59:41Z",
+"uri":"//wayback.archive-it.org/all/20141116005941/http://translate.google.co.jp/?hl=ja"
+},
+{"datetime":"2014-11-17T14:31:59Z",
+"uri":"//wayback.archive-it.org/all/20141117143159/https://translate.google.co.jp/?hl=ja"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://translate.google.co.jp/?hl=ja"}
+ }

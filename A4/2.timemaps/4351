@@ -1,0 +1,23 @@
+{"original_uri":"http://mainichi.jp/select/news/20150203k0000m010110000c.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://mainichi.jp/select/news/20150203k0000m010110000c.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-02T15:06:21Z",
+"uri":"http://web.archive.org/web/20150202150621/http://mainichi.jp/select/news/20150203k0000m010110000c.html"
+},
+{"datetime":"2015-02-02T15:07:11Z",
+"uri":"http://archive.is/20150202150711/http://mainichi.jp/select/news/20150203k0000m010110000c.html"
+},
+{"datetime":"2015-02-02T19:48:29Z",
+"uri":"http://web.archive.org/web/20150202194829/http://mainichi.jp/select/news/20150203k0000m010110000c.html"
+},
+{"datetime":"2015-02-03T04:06:00Z",
+"uri":"http://archive.is/20150203040600/http://mainichi.jp/select/news/20150203k0000m010110000c.html"
+},
+{"datetime":"2015-02-03T11:43:49Z",
+"uri":"http://web.archive.org/web/20150203114349/http://mainichi.jp/select/news/20150203k0000m010110000c.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://mainichi.jp/select/news/20150203k0000m010110000c.html"}
+ }

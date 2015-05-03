@@ -1,0 +1,35 @@
+{"original_uri":"http://www.asahi.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.asahi.com/",
+"timemap_index": [
+{"from":"1996-12-19T12:43:21Z",
+"until":"2006-11-06T23:12:33Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://www.asahi.com/"
+},{"from":"2006-11-09T06:46:43Z",
+"until":"2011-08-25T22:48:28Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://www.asahi.com/"
+},{"from":"2011-08-26T02:40:56Z",
+"until":"2012-03-16T21:07:08Z",
+"uri":"http://labs.mementoweb.org/timemap/json/2000/http://www.asahi.com/"
+},{"from":"2012-03-17T01:36:53Z",
+"until":"2012-10-09T10:39:50Z",
+"uri":"http://labs.mementoweb.org/timemap/json/3000/http://www.asahi.com/"
+},{"from":"2012-10-09T13:19:25Z",
+"until":"2013-04-25T01:37:14Z",
+"uri":"http://labs.mementoweb.org/timemap/json/4000/http://www.asahi.com/"
+},{"from":"2013-04-25T01:37:45Z",
+"until":"2013-06-28T11:44:03Z",
+"uri":"http://labs.mementoweb.org/timemap/json/5000/http://www.asahi.com/"
+},{"from":"2013-06-28T11:44:05Z",
+"until":"2013-12-04T21:11:32Z",
+"uri":"http://labs.mementoweb.org/timemap/json/6000/http://www.asahi.com/"
+},{"from":"2013-12-05T09:49:45Z",
+"until":"2014-06-07T10:17:39Z",
+"uri":"http://labs.mementoweb.org/timemap/json/7000/http://www.asahi.com/"
+},{"from":"2014-06-07T10:58:02Z",
+"until":"2015-01-26T09:51:00Z",
+"uri":"http://labs.mementoweb.org/timemap/json/8000/http://www.asahi.com/"
+},{"from":"2015-01-26T14:15:51Z",
+"uri":"http://labs.mementoweb.org/timemap/json/9000/http://www.asahi.com/"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://www.asahi.com/",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://www.asahi.com/"
+}}

@@ -1,0 +1,35 @@
+{"original_uri":"http://ervaringenmiljonairsmodel.nl/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://ervaringenmiljonairsmodel.nl/",
+"mementos": {
+"list": [
+{"datetime":"2012-07-15T02:52:09Z",
+"uri":"http://web.archive.org/web/20120715025209/http://ervaringenmiljonairsmodel.nl/"
+},
+{"datetime":"2013-05-26T07:12:31Z",
+"uri":"http://web.archive.org/web/20130526071231/http://ervaringenmiljonairsmodel.nl/"
+},
+{"datetime":"2013-06-26T07:16:07Z",
+"uri":"http://web.archive.org/web/20130626071607/http://ervaringenmiljonairsmodel.nl/"
+},
+{"datetime":"2013-07-27T14:06:41Z",
+"uri":"http://web.archive.org/web/20130727140641/http://ervaringenmiljonairsmodel.nl/"
+},
+{"datetime":"2013-08-26T22:37:01Z",
+"uri":"http://web.archive.org/web/20130826223701/http://ervaringenmiljonairsmodel.nl/"
+},
+{"datetime":"2013-12-30T12:12:25Z",
+"uri":"http://web.archive.org/web/20131230121225/http://ervaringenmiljonairsmodel.nl/"
+},
+{"datetime":"2014-03-28T23:39:30Z",
+"uri":"http://web.archive.org/web/20140328233930/http://ervaringenmiljonairsmodel.nl/"
+},
+{"datetime":"2014-05-17T10:40:40Z",
+"uri":"http://web.archive.org/web/20140517104040/http://ervaringenmiljonairsmodel.nl/"
+},
+{"datetime":"2014-12-17T06:56:44Z",
+"uri":"http://web.archive.org/web/20141217065644/http://ervaringenmiljonairsmodel.nl/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://ervaringenmiljonairsmodel.nl/"}
+ }

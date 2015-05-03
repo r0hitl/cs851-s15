@@ -1,0 +1,14 @@
+{"original_uri":"http://news.kstyle.com/article.ksn?articleNo=2012802",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://news.kstyle.com/article.ksn?articleNo=2012802",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T20:48:54Z",
+"uri":"http://web.archive.org/web/20150203204854/http://news.kstyle.com/article.ksn?articleNo=2012802"
+},
+{"datetime":"2015-03-24T01:31:40Z",
+"uri":"http://web.archive.org/web/20150324013140/http://news.kstyle.com/article.ksn?articleNo=2012802"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://news.kstyle.com/article.ksn?articleNo=2012802"}
+ }

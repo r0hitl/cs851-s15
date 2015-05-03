@@ -1,0 +1,56 @@
+{"original_uri":"http://IntPicks.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://IntPicks.com",
+"mementos": {
+"list": [
+{"datetime":"2011-02-02T05:47:15Z",
+"uri":"http://web.archive.org/web/20110202054715/http://intpicks.com/"
+},
+{"datetime":"2012-09-30T23:21:38Z",
+"uri":"http://web.archive.org/web/20120930232138/http://www.intpicks.com/"
+},
+{"datetime":"2013-06-02T10:04:20Z",
+"uri":"http://web.archive.org/web/20130602100420/http://intpicks.com/"
+},
+{"datetime":"2013-10-13T22:01:16Z",
+"uri":"http://web.archive.org/web/20131013220116/http://www.intpicks.com/"
+},
+{"datetime":"2013-11-16T06:20:04Z",
+"uri":"http://archive.is/20131116062004/http://intpicks.com/"
+},
+{"datetime":"2014-01-03T19:32:08Z",
+"uri":"http://web.archive.org/web/20140103193208/http://intpicks.com/"
+},
+{"datetime":"2014-05-17T09:01:40Z",
+"uri":"http://web.archive.org/web/20140517090140/http://intpicks.com/"
+},
+{"datetime":"2014-08-13T09:43:29Z",
+"uri":"http://web.archive.org/web/20140813094329/http://www.intpicks.com/"
+},
+{"datetime":"2014-12-16T23:28:01Z",
+"uri":"//wayback.archive-it.org/all/20141216232801/http://intpicks.com/"
+},
+{"datetime":"2014-12-16T23:28:01Z",
+"uri":"http://web.archive.org/web/20141216232801/http://intpicks.com/"
+},
+{"datetime":"2014-12-17T06:58:09Z",
+"uri":"//wayback.archive-it.org/all/20141217065809/http://intpicks.com/"
+},
+{"datetime":"2014-12-17T06:58:09Z",
+"uri":"http://web.archive.org/web/20141217065809/http://intpicks.com/"
+},
+{"datetime":"2014-12-17T12:24:10Z",
+"uri":"http://web.archive.org/web/20141217122410/http://intpicks.com/"
+},
+{"datetime":"2015-03-17T07:42:55Z",
+"uri":"http://web.archive.org/web/20150317074255/http://www.intpicks.com/"
+},
+{"datetime":"2015-04-02T08:46:06Z",
+"uri":"//wayback.archive-it.org/all/20150402084606/http://intpicks.com/"
+},
+{"datetime":"2015-04-02T08:46:06Z",
+"uri":"http://web.archive.org/web/20150402084606/http://intpicks.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://IntPicks.com"}
+ }

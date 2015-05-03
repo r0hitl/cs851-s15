@@ -1,0 +1,20 @@
+{"original_uri":"http://www.appstore.red/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.appstore.red/",
+"mementos": {
+"list": [
+{"datetime":"2014-06-25T06:20:27Z",
+"uri":"http://web.archive.org/web/20140625062027/http://www.appstore.red/"
+},
+{"datetime":"2014-06-28T19:34:07Z",
+"uri":"http://archive.is/20140628193407/http://www.appstore.red/"
+},
+{"datetime":"2014-12-19T12:12:34Z",
+"uri":"http://web.archive.org/web/20141219121234/http://www.appstore.red/"
+},
+{"datetime":"2015-04-07T02:14:14Z",
+"uri":"http://archive.is/20150407021414/http://www.appstore.red/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.appstore.red/"}
+ }

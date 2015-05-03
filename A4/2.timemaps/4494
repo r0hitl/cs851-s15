@@ -1,0 +1,20 @@
+{"original_uri":"http://blog.livedoor.jp/nwknews/archives/4820526.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://blog.livedoor.jp/nwknews/archives/4820526.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T08:45:36Z",
+"uri":"http://web.archive.org/web/20150203084536/http://blog.livedoor.jp/nwknews/archives/4820526.html"
+},
+{"datetime":"2015-02-03T08:46:02Z",
+"uri":"http://archive.is/20150203084602/http://blog.livedoor.jp/nwknews/archives/4820526.html"
+},
+{"datetime":"2015-02-03T08:57:18Z",
+"uri":"http://web.archive.org/web/20150203085718/http://blog.livedoor.jp/nwknews/archives/4820526.html"
+},
+{"datetime":"2015-02-03T08:57:26Z",
+"uri":"http://archive.is/20150203085726/http://blog.livedoor.jp/nwknews/archives/4820526.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://blog.livedoor.jp/nwknews/archives/4820526.html"}
+ }

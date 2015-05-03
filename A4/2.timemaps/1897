@@ -1,0 +1,17 @@
+{"original_uri":"http://stores.ebay.com/kendallandkylie?rmvSB=true",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://stores.ebay.com/kendallandkylie?rmvSB=true",
+"mementos": {
+"list": [
+{"datetime":"2015-01-27T10:36:41Z",
+"uri":"//wayback.archive-it.org/all/20150127103641/http://stores.ebay.com/kendallandkylie?rmvSB=true"
+},
+{"datetime":"2015-01-27T10:36:41Z",
+"uri":"http://web.archive.org/web/20150127103641/http://stores.ebay.com/kendallandkylie?rmvSB=true"
+},
+{"datetime":"2015-03-29T21:04:48Z",
+"uri":"http://web.archive.org/web/20150329210448/http://stores.ebay.com/kendallandkylie?rmvSB=true"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://stores.ebay.com/kendallandkylie?rmvSB=true"}
+ }

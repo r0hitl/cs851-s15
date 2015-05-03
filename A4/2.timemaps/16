@@ -1,0 +1,35 @@
+{"original_uri":"http://www.abc.es/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.abc.es/",
+"timemap_index": [
+{"from":"1997-03-27T05:33:26Z",
+"until":"2005-11-29T09:41:54Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://www.abc.es/"
+},{"from":"2005-11-30T01:10:29Z",
+"until":"2010-08-20T13:58:27Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://www.abc.es/"
+},{"from":"2010-08-20T17:12:44Z",
+"until":"2011-12-03T22:20:59Z",
+"uri":"http://labs.mementoweb.org/timemap/json/2000/http://www.abc.es/"
+},{"from":"2011-12-03T23:26:38Z",
+"until":"2012-04-28T22:12:32Z",
+"uri":"http://labs.mementoweb.org/timemap/json/3000/http://www.abc.es/"
+},{"from":"2012-04-28T23:07:00Z",
+"until":"2012-10-19T09:29:39Z",
+"uri":"http://labs.mementoweb.org/timemap/json/4000/http://www.abc.es/"
+},{"from":"2012-10-19T14:23:04Z",
+"until":"2013-04-06T00:03:55Z",
+"uri":"http://labs.mementoweb.org/timemap/json/5000/http://www.abc.es/"
+},{"from":"2013-04-06T11:28:10Z",
+"until":"2013-12-28T03:33:10Z",
+"uri":"http://labs.mementoweb.org/timemap/json/6000/http://www.abc.es/"
+},{"from":"2013-12-28T09:03:13Z",
+"until":"2014-06-17T22:41:40Z",
+"uri":"http://labs.mementoweb.org/timemap/json/7000/http://www.abc.es/"
+},{"from":"2014-06-17T23:16:23Z",
+"until":"2015-02-03T01:31:22Z",
+"uri":"http://labs.mementoweb.org/timemap/json/8000/http://www.abc.es/"
+},{"from":"2015-02-09T09:19:47Z",
+"uri":"http://labs.mementoweb.org/timemap/json/9000/http://www.abc.es/"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://www.abc.es/",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://www.abc.es/"
+}}

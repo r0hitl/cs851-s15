@@ -1,0 +1,11 @@
+{"original_uri":"http://www.dawn.com/news/1161044/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.dawn.com/news/1161044/",
+"mementos": {
+"list": [
+{"datetime":"2015-04-07T01:41:32Z",
+"uri":"http://web.archive.org/web/20150407014132/http://www.dawn.com/news/1161044"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.dawn.com/news/1161044/"}
+ }

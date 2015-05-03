@@ -1,0 +1,17 @@
+{"original_uri":"http://top.rbc.ru/business/03/02/2015/54d07cc89a7947b50e31c371",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://top.rbc.ru/business/03/02/2015/54d07cc89a7947b50e31c371",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T08:56:00Z",
+"uri":"http://web.archive.org/web/20150203085600/http://top.rbc.ru/business/03/02/2015/54d07cc89a7947b50e31c371"
+},
+{"datetime":"2015-02-03T08:56:24Z",
+"uri":"http://web.archive.org/web/20150203085624/http://top.rbc.ru/business/03/02/2015/54d07cc89a7947b50e31c371"
+},
+{"datetime":"2015-02-03T15:00:07Z",
+"uri":"http://web.archive.org/web/20150203150007/http://top.rbc.ru/business/03/02/2015/54d07cc89a7947b50e31c371"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://top.rbc.ru/business/03/02/2015/54d07cc89a7947b50e31c371"}
+ }

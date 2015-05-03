@@ -1,0 +1,11 @@
+{"original_uri":"http://shop.kotobukiya.co.jp/shopdetail/000000002235/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://shop.kotobukiya.co.jp/shopdetail/000000002235/",
+"mementos": {
+"list": [
+{"datetime":"2015-03-22T11:06:20Z",
+"uri":"http://web.archive.org/web/20150322110620/http://shop.kotobukiya.co.jp/shopdetail/000000002235/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://shop.kotobukiya.co.jp/shopdetail/000000002235/"}
+ }

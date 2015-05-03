@@ -1,0 +1,23 @@
+{"original_uri":"http://els2014.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://els2014.com",
+"mementos": {
+"list": [
+{"datetime":"2014-06-28T04:10:50Z",
+"uri":"http://web.archive.org/web/20140628041050/http://els2014.com/"
+},
+{"datetime":"2014-12-11T09:30:00Z",
+"uri":"http://web.archive.org/web/20141211093000/http://els2014.com/"
+},
+{"datetime":"2015-01-24T00:14:16Z",
+"uri":"http://web.archive.org/web/20150124001416/http://els2014.com/"
+},
+{"datetime":"2015-02-03T02:18:32Z",
+"uri":"http://archive.is/20150203021832/http://els2014.com/"
+},
+{"datetime":"2015-02-21T09:04:36Z",
+"uri":"http://web.archive.org/web/20150221090436/http://els2014.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://els2014.com"}
+ }

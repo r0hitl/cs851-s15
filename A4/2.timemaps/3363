@@ -1,0 +1,11 @@
+{"original_uri":"http://thisisntmycat.tumblr.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://thisisntmycat.tumblr.com/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-19T03:56:26Z",
+"uri":"http://web.archive.org/web/20150219035626/http://thisisntmycat.tumblr.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://thisisntmycat.tumblr.com/"}
+ }

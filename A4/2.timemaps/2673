@@ -1,0 +1,11 @@
+{"original_uri":"http://koreizm.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://koreizm.com/",
+"mementos": {
+"list": [
+{"datetime":"2015-04-14T07:58:14Z",
+"uri":"http://web.archive.org/web/20150414075814/http://koreizm.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://koreizm.com/"}
+ }

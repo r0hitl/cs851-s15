@@ -1,0 +1,11 @@
+{"original_uri":"http://www.nikkei.com/markets/kigyo/gyoseki.aspx?g=DGXLASFL03HGZ_03022015000000",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.nikkei.com/markets/kigyo/gyoseki.aspx?g=DGXLASFL03HGZ_03022015000000",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T15:04:09Z",
+"uri":"http://web.archive.org/web/20150203150409/http://www.nikkei.com/markets/kigyo/gyoseki.aspx?g=DGXLASFL03HGZ_03022015000000"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.nikkei.com/markets/kigyo/gyoseki.aspx?g=DGXLASFL03HGZ_03022015000000"}
+ }

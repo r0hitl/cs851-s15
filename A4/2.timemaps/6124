@@ -1,0 +1,11 @@
+{"original_uri":"http://www.pixiv.net/spotlight/281",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.pixiv.net/spotlight/281",
+"mementos": {
+"list": [
+{"datetime":"2015-03-17T20:36:38Z",
+"uri":"http://web.archive.org/web/20150317203638/http://www.pixiv.net/spotlight/281"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.pixiv.net/spotlight/281"}
+ }

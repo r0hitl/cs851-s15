@@ -1,0 +1,14 @@
+{"original_uri":"http://headlines.yahoo.co.jp/hl?a=20150203-00000113-spnannex-socc",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://headlines.yahoo.co.jp/hl?a=20150203-00000113-spnannex-socc",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T09:36:06Z",
+"uri":"http://web.archive.org/web/20150203093606/http://headlines.yahoo.co.jp/hl?a=20150203-00000113-spnannex-socc"
+},
+{"datetime":"2015-04-21T04:09:22Z",
+"uri":"http://web.archive.org/web/20150421040922/http://headlines.yahoo.co.jp/hl?a=20150203-00000113-spnannex-socc"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://headlines.yahoo.co.jp/hl?a=20150203-00000113-spnannex-socc"}
+ }

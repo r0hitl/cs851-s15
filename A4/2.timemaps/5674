@@ -1,0 +1,14 @@
+{"original_uri":"http://coresugo.com/24-pro2/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://coresugo.com/24-pro2/",
+"mementos": {
+"list": [
+{"datetime":"2015-04-06T07:39:57Z",
+"uri":"http://web.archive.org/web/20150406073957/http://coresugo.com/24-pro2/"
+},
+{"datetime":"2015-04-06T08:25:46Z",
+"uri":"http://web.archive.org/web/20150406082546/http://coresugo.com/24-pro2/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://coresugo.com/24-pro2/"}
+ }

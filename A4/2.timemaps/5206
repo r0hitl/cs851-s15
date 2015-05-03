@@ -1,0 +1,11 @@
+{"original_uri":"http://matome.naver.jp/odai/2141660771172084401",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://matome.naver.jp/odai/2141660771172084401",
+"mementos": {
+"list": [
+{"datetime":"2015-03-24T16:05:40Z",
+"uri":"http://web.archive.org/web/20150324160540/http://matome.naver.jp/odai/2141660771172084401"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://matome.naver.jp/odai/2141660771172084401"}
+ }

@@ -1,0 +1,32 @@
+{"original_uri":"http://wedding.gnavi.co.jp/wedding/hyogo/WAREAL3562/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://wedding.gnavi.co.jp/wedding/hyogo/WAREAL3562/",
+"mementos": {
+"list": [
+{"datetime":"2013-04-07T03:54:00Z",
+"uri":"http://web.archive.org/web/20130407035400/http://wedding.gnavi.co.jp/wedding/hyogo/WAREAL3562/"
+},
+{"datetime":"2013-07-17T03:04:09Z",
+"uri":"http://web.archive.org/web/20130717030409/http://wedding.gnavi.co.jp/wedding/hyogo/WAREAL3562/?"
+},
+{"datetime":"2013-08-20T00:47:38Z",
+"uri":"http://web.archive.org/web/20130820004738/http://wedding.gnavi.co.jp/wedding/hyogo/WAREAL3562/"
+},
+{"datetime":"2014-01-03T13:36:38Z",
+"uri":"http://web.archive.org/web/20140103133638/http://wedding.gnavi.co.jp/wedding/hyogo/WAREAL3562/"
+},
+{"datetime":"2014-03-22T07:14:20Z",
+"uri":"http://web.archive.org/web/20140322071420/http://wedding.gnavi.co.jp/wedding/hyogo/WAREAL3562/"
+},
+{"datetime":"2014-07-05T20:45:37Z",
+"uri":"http://web.archive.org/web/20140705204537/http://wedding.gnavi.co.jp/wedding/hyogo/WAREAL3562/"
+},
+{"datetime":"2014-09-24T15:25:59Z",
+"uri":"http://web.archive.org/web/20140924152559/http://wedding.gnavi.co.jp/wedding/hyogo/WAREAL3562"
+},
+{"datetime":"2015-03-18T02:52:09Z",
+"uri":"http://web.archive.org/web/20150318025209/http://wedding.gnavi.co.jp/wedding/hyogo/WAREAL3562/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://wedding.gnavi.co.jp/wedding/hyogo/WAREAL3562/"}
+ }

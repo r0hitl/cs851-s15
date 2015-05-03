@@ -1,0 +1,11 @@
+{"original_uri":"http://media.daum.net/entertain/enews/newsview?newsid=20150203144906312",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://media.daum.net/entertain/enews/newsview?newsid=20150203144906312",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T14:59:30Z",
+"uri":"http://web.archive.org/web/20150203145930/http://media.daum.net/entertain/enews/newsview?newsid=20150203144906312"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://media.daum.net/entertain/enews/newsview?newsid=20150203144906312"}
+ }

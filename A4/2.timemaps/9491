@@ -1,0 +1,14 @@
+{"original_uri":"http://paper.li/rasmussen747/1336097502",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://paper.li/rasmussen747/1336097502",
+"mementos": {
+"list": [
+{"datetime":"2012-11-19T05:49:44Z",
+"uri":"http://web.archive.org/web/20121119054944/http://paper.li/rasmussen747/1336097502"
+},
+{"datetime":"2012-11-20T07:12:11Z",
+"uri":"http://web.archive.org/web/20121120071211/http://paper.li/rasmussen747/1336097502"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://paper.li/rasmussen747/1336097502"}
+ }

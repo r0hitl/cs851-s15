@@ -1,0 +1,29 @@
+{"original_uri":"http://beta.twitmusic.com/457",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://beta.twitmusic.com/457",
+"mementos": {
+"list": [
+{"datetime":"2015-01-08T09:21:47Z",
+"uri":"//wayback.archive-it.org/all/20150108092147/https://beta.twitmusic.com/457"
+},
+{"datetime":"2015-01-08T09:21:47Z",
+"uri":"http://web.archive.org/web/20150108092147/https://beta.twitmusic.com/457"
+},
+{"datetime":"2015-01-08T13:47:10Z",
+"uri":"//wayback.archive-it.org/all/20150108134710/https://beta.twitmusic.com/457"
+},
+{"datetime":"2015-01-08T13:47:10Z",
+"uri":"http://web.archive.org/web/20150108134710/https://beta.twitmusic.com/457"
+},
+{"datetime":"2015-01-21T14:37:40Z",
+"uri":"//wayback.archive-it.org/all/20150121143740/https://beta.twitmusic.com/457"
+},
+{"datetime":"2015-01-21T14:37:40Z",
+"uri":"http://web.archive.org/web/20150121143740/https://beta.twitmusic.com/457"
+},
+{"datetime":"2015-04-27T07:12:22Z",
+"uri":"http://web.archive.org/web/20150427071222/https://beta.twitmusic.com/457"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://beta.twitmusic.com/457"}
+ }

@@ -1,0 +1,14 @@
+{"original_uri":"http://www.comtube.biz",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.comtube.biz",
+"mementos": {
+"list": [
+{"datetime":"2013-12-07T02:06:43Z",
+"uri":"http://web.archive.org/web/20131207020643/http://comtube.biz/"
+},
+{"datetime":"2014-12-17T00:06:42Z",
+"uri":"http://web.archive.org/web/20141217000642/http://comtube.biz/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.comtube.biz"}
+ }

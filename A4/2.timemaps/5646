@@ -1,0 +1,29 @@
+{"original_uri":"http://www.aloe-info.nl/Aloe_Vera/Aloe_dranken",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.aloe-info.nl/Aloe_Vera/Aloe_dranken",
+"mementos": {
+"list": [
+{"datetime":"2012-04-28T02:15:56Z",
+"uri":"http://web.archive.org/web/20120428021556/http://www.aloe-info.nl/Aloe_Vera/Aloe_dranken"
+},
+{"datetime":"2012-06-28T02:10:11Z",
+"uri":"http://web.archive.org/web/20120628021011/http://www.aloe-info.nl/Aloe_Vera/Aloe_dranken"
+},
+{"datetime":"2012-11-14T11:49:12Z",
+"uri":"http://web.archive.org/web/20121114114912/http://www.aloe-info.nl/Aloe_Vera/Aloe_dranken"
+},
+{"datetime":"2013-06-11T04:08:44Z",
+"uri":"http://web.archive.org/web/20130611040844/http://www.aloe-info.nl/Aloe_Vera/Aloe_dranken"
+},
+{"datetime":"2013-07-13T14:10:30Z",
+"uri":"http://web.archive.org/web/20130713141030/http://www.aloe-info.nl/Aloe_Vera/Aloe_dranken"
+},
+{"datetime":"2013-08-25T10:59:13Z",
+"uri":"http://web.archive.org/web/20130825105913/http://www.aloe-info.nl/Aloe_Vera/Aloe_dranken"
+},
+{"datetime":"2014-02-05T18:16:54Z",
+"uri":"http://web.archive.org/web/20140205181654/http://www.aloe-info.nl/Aloe_Vera/Aloe_dranken"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.aloe-info.nl/Aloe_Vera/Aloe_dranken"}
+ }

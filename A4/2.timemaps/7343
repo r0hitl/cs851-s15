@@ -1,0 +1,17 @@
+{"original_uri":"http://www.cinematoday.jp/page/N0070345",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.cinematoday.jp/page/N0070345",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T17:39:04Z",
+"uri":"http://web.archive.org/web/20150203173904/http://www.cinematoday.jp/page/N0070345"
+},
+{"datetime":"2015-02-04T05:59:05Z",
+"uri":"http://archive.is/20150204055905/http://www.cinematoday.jp/page/N0070345"
+},
+{"datetime":"2015-03-21T06:19:08Z",
+"uri":"http://web.archive.org/web/20150321061908/http://www.cinematoday.jp/page/N0070345"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.cinematoday.jp/page/N0070345"}
+ }

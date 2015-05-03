@@ -1,0 +1,17 @@
+{"original_uri":"http://www.jiji.com/jc/c?g%3Dspo_30%26k%3D2014082300007",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.jiji.com/jc/c?g%3Dspo_30%26k%3D2014082300007",
+"mementos": {
+"list": [
+{"datetime":"2011-05-08T14:17:59Z",
+"uri":"http://www.webcitation.org/5yWrlu7NZ"
+},
+{"datetime":"2011-07-21T16:39:54Z",
+"uri":"http://www.webcitation.org/60LZxzoOU"
+},
+{"datetime":"2012-07-31T22:43:20Z",
+"uri":"http://www.webcitation.org/69Zu7roR9"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.jiji.com/jc/c?g%3Dspo_30%26k%3D2014082300007"}
+ }

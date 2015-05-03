@@ -1,0 +1,11 @@
+{"original_uri":"http://www.affiliate-dti.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.affiliate-dti.com/",
+"timemap_index": [
+{"from":"2004-03-18T07:09:24Z",
+"until":"2013-05-20T20:25:49Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://www.affiliate-dti.com/"
+},{"from":"2013-05-26T06:25:21Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://www.affiliate-dti.com/"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://www.affiliate-dti.com/",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://www.affiliate-dti.com/"
+}}

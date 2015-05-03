@@ -1,0 +1,11 @@
+{"original_uri":"http://8bitnews.org/?p=4712",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://8bitnews.org/?p=4712",
+"mementos": {
+"list": [
+{"datetime":"2015-03-18T23:26:03Z",
+"uri":"http://web.archive.org/web/20150318232603/http://8bitnews.org/?p=4712"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://8bitnews.org/?p=4712"}
+ }

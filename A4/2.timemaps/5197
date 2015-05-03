@@ -1,0 +1,14 @@
+{"original_uri":"http://exclaim.ca/Music/article/acdc-rock_bust_2",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://exclaim.ca/Music/article/acdc-rock_bust_2",
+"mementos": {
+"list": [
+{"datetime":"2014-12-14T20:40:26Z",
+"uri":"http://web.archive.org/web/20141214204026/http://exclaim.ca/Music/article/acdc-rock_bust_2"
+},
+{"datetime":"2015-04-02T23:40:44Z",
+"uri":"http://web.archive.org/web/20150402234044/http://exclaim.ca/Music/article/acdc-rock_bust_2"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://exclaim.ca/Music/article/acdc-rock_bust_2"}
+ }

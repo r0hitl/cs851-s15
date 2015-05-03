@@ -1,0 +1,17 @@
+{"original_uri":"http://pc.194964.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://pc.194964.com/",
+"timemap_index": [
+{"from":"2009-10-20T02:24:43Z",
+"until":"2013-11-15T17:06:05Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://pc.194964.com/"
+},{"from":"2013-11-15T17:17:29Z",
+"until":"2014-06-13T17:12:56Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://pc.194964.com/"
+},{"from":"2014-06-14T16:55:55Z",
+"until":"2015-02-27T17:57:38Z",
+"uri":"http://labs.mementoweb.org/timemap/json/2000/http://pc.194964.com/"
+},{"from":"2015-02-27T18:26:31Z",
+"uri":"http://labs.mementoweb.org/timemap/json/3000/http://pc.194964.com/"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://pc.194964.com/",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://pc.194964.com/"
+}}

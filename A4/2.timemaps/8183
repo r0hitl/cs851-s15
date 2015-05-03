@@ -1,0 +1,11 @@
+{"original_uri":"http://store.sonyentertainmentnetwork.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://store.sonyentertainmentnetwork.com/",
+"timemap_index": [
+{"from":"2013-01-28T23:35:16Z",
+"until":"2015-01-27T19:22:29Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://store.sonyentertainmentnetwork.com/"
+},{"from":"2015-01-28T09:23:24Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://store.sonyentertainmentnetwork.com/"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://store.sonyentertainmentnetwork.com/",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://store.sonyentertainmentnetwork.com/"
+}}

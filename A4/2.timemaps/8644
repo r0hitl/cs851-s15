@@ -1,0 +1,26 @@
+{"original_uri":"http://wedding.gnavi.co.jp/restaurant/hyogo/WAREAL3562/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://wedding.gnavi.co.jp/restaurant/hyogo/WAREAL3562/",
+"mementos": {
+"list": [
+{"datetime":"2014-01-05T12:30:11Z",
+"uri":"http://web.archive.org/web/20140105123011/http://wedding.gnavi.co.jp/restaurant/hyogo/WAREAL3562/"
+},
+{"datetime":"2014-02-07T01:28:42Z",
+"uri":"http://web.archive.org/web/20140207012842/http://wedding.gnavi.co.jp/restaurant/hyogo/WAREAL3562/"
+},
+{"datetime":"2014-07-05T17:05:42Z",
+"uri":"http://web.archive.org/web/20140705170542/http://wedding.gnavi.co.jp/restaurant/hyogo/WAREAL3562/"
+},
+{"datetime":"2014-08-05T04:32:23Z",
+"uri":"http://web.archive.org/web/20140805043223/http://wedding.gnavi.co.jp/restaurant/hyogo/WAREAL3562/"
+},
+{"datetime":"2014-09-01T07:15:04Z",
+"uri":"http://web.archive.org/web/20140901071504/http://wedding.gnavi.co.jp/restaurant/hyogo/WAREAL3562/"
+},
+{"datetime":"2015-03-18T06:33:07Z",
+"uri":"http://web.archive.org/web/20150318063307/http://wedding.gnavi.co.jp/restaurant/hyogo/WAREAL3562/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://wedding.gnavi.co.jp/restaurant/hyogo/WAREAL3562/"}
+ }

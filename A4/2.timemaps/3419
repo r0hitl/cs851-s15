@@ -1,0 +1,11 @@
+{"original_uri":"http://www.tuitutil.net",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.tuitutil.net",
+"mementos": {
+"list": [
+{"datetime":"2013-05-06T02:51:22Z",
+"uri":"http://archive.is/20130506025122/http://www.tuitutil.net/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.tuitutil.net"}
+ }

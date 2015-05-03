@@ -1,0 +1,32 @@
+{"original_uri":"http://www.bitsdujour.com/software/radiotracker",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.bitsdujour.com/software/radiotracker",
+"mementos": {
+"list": [
+{"datetime":"2009-09-03T20:05:52Z",
+"uri":"http://web.archive.org/web/20090903200552/http://www.bitsdujour.com/software/radiotracker"
+},
+{"datetime":"2010-05-01T16:55:05Z",
+"uri":"http://web.archive.org/web/20100501165505/http://www.bitsdujour.com/software/radiotracker/"
+},
+{"datetime":"2010-05-03T08:49:42Z",
+"uri":"http://web.archive.org/web/20100503084942/http://www.bitsdujour.com/software/radiotracker"
+},
+{"datetime":"2012-01-12T03:19:57Z",
+"uri":"http://web.archive.org/web/20120112031957/http://www.bitsdujour.com/software/radiotracker"
+},
+{"datetime":"2012-08-25T21:45:41Z",
+"uri":"http://web.archive.org/web/20120825214541/http://www.bitsdujour.com/software/radiotracker"
+},
+{"datetime":"2012-11-30T14:42:56Z",
+"uri":"http://web.archive.org/web/20121130144256/http://bitsdujour.com/software/radiotracker/"
+},
+{"datetime":"2012-12-17T06:55:36Z",
+"uri":"http://web.archive.org/web/20121217065536/http://www.bitsdujour.com/software/radiotracker/"
+},
+{"datetime":"2012-12-27T12:23:51Z",
+"uri":"http://web.archive.org/web/20121227122351/http://www.bitsdujour.com/software/radiotracker"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.bitsdujour.com/software/radiotracker"}
+ }

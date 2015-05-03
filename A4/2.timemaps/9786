@@ -1,0 +1,47 @@
+{"original_uri":"http://www.youtube.com/watch?v=AVPgxn3xohM",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.youtube.com/watch?v=AVPgxn3xohM",
+"mementos": {
+"list": [
+{"datetime":"2014-11-19T10:15:34Z",
+"uri":"http://web.archive.org/web/20141119101534/http://www.youtube.com/watch?v=AVPgxn3xohM"
+},
+{"datetime":"2014-11-19T10:15:37Z",
+"uri":"http://web.archive.org/web/20141119101537/https://www.youtube.com/watch?v=AVPgxn3xohM"
+},
+{"datetime":"2014-12-29T07:40:15Z",
+"uri":"http://web.archive.org/web/20141229074015/http://www.youtube.com/watch?v=AVPgxn3xohM"
+},
+{"datetime":"2014-12-29T07:40:17Z",
+"uri":"http://web.archive.org/web/20141229074017/https://www.youtube.com/watch?v=AVPgxn3xohM"
+},
+{"datetime":"2015-01-04T08:48:00Z",
+"uri":"http://web.archive.org/web/20150104084800/http://www.youtube.com/watch?v=AVPgxn3xohM"
+},
+{"datetime":"2015-01-04T08:48:01Z",
+"uri":"http://web.archive.org/web/20150104084801/https://www.youtube.com/watch?v=AVPgxn3xohM"
+},
+{"datetime":"2015-01-09T17:24:29Z",
+"uri":"http://web.archive.org/web/20150109172429/https://www.youtube.com/watch?v=AVPgxn3xohM"
+},
+{"datetime":"2015-01-10T20:32:37Z",
+"uri":"http://web.archive.org/web/20150110203237/http://www.youtube.com/watch?v=AVPgxn3xohM"
+},
+{"datetime":"2015-01-10T20:32:38Z",
+"uri":"http://web.archive.org/web/20150110203238/https://www.youtube.com/watch?v=AVPgxn3xohM"
+},
+{"datetime":"2015-01-16T20:00:11Z",
+"uri":"http://web.archive.org/web/20150116200011/http://www.youtube.com/watch?v=AVPgxn3xohM"
+},
+{"datetime":"2015-01-16T20:00:12Z",
+"uri":"http://web.archive.org/web/20150116200012/https://www.youtube.com/watch?v=AVPgxn3xohM"
+},
+{"datetime":"2015-04-10T16:35:26Z",
+"uri":"http://web.archive.org/web/20150410163526/http://www.youtube.com/watch?v=AVPgxn3xohM"
+},
+{"datetime":"2015-04-10T16:35:27Z",
+"uri":"http://web.archive.org/web/20150410163527/https://www.youtube.com/watch?v=AVPgxn3xohM"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.youtube.com/watch?v=AVPgxn3xohM"}
+ }

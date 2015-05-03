@@ -1,0 +1,11 @@
+{"original_uri":"http://kissglove.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://kissglove.com",
+"mementos": {
+"list": [
+{"datetime":"2014-05-04T11:27:28Z",
+"uri":"http://web.archive.org/web/20140504112728/http://kissglove.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://kissglove.com"}
+ }

@@ -1,0 +1,26 @@
+{"original_uri":"http://www.platinumgames.co.jp/404/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.platinumgames.co.jp/404/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-02T11:35:29Z",
+"uri":"http://web.archive.org/web/20150202113529/http://www.platinumgames.co.jp/404/"
+},
+{"datetime":"2015-02-02T11:35:34Z",
+"uri":"http://archive.is/20150202113534/http://www.platinumgames.co.jp/404/"
+},
+{"datetime":"2015-02-02T12:01:22Z",
+"uri":"http://web.archive.org/web/20150202120122/http://www.platinumgames.co.jp/404/"
+},
+{"datetime":"2015-02-07T12:46:31Z",
+"uri":"http://archive.is/20150207124631/http://www.platinumgames.co.jp/404/"
+},
+{"datetime":"2015-03-21T00:16:11Z",
+"uri":"http://web.archive.org/web/20150321001611/http://www.platinumgames.co.jp/404/"
+},
+{"datetime":"2015-04-24T22:38:27Z",
+"uri":"http://web.archive.org/web/20150424223827/http://www.platinumgames.co.jp/404"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.platinumgames.co.jp/404/"}
+ }

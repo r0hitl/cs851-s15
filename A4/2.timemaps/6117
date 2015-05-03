@@ -1,0 +1,23 @@
+{"original_uri":"http://blog.livedoor.jp/slkjfsdppp-kamesennin_fx/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://blog.livedoor.jp/slkjfsdppp-kamesennin_fx/",
+"mementos": {
+"list": [
+{"datetime":"2013-06-18T20:02:44Z",
+"uri":"http://web.archive.org/web/20130618200244/http://blog.livedoor.jp/slkjfsdppp-kamesennin_fx"
+},
+{"datetime":"2013-06-18T20:02:44Z",
+"uri":"http://web.archive.org/web/20130618200244/http://blog.livedoor.jp/slkjfsdppp-kamesennin_fx/"
+},
+{"datetime":"2013-06-22T11:35:50Z",
+"uri":"http://web.archive.org/web/20130622113550/http://blog.livedoor.jp/slkjfsdppp-kamesennin_fx/?"
+},
+{"datetime":"2013-08-11T01:43:15Z",
+"uri":"http://web.archive.org/web/20130811014315/http://blog.livedoor.jp/slkjfsdppp-kamesennin_fx/"
+},
+{"datetime":"2013-08-12T04:29:42Z",
+"uri":"http://web.archive.org/web/20130812042942/http://blog.livedoor.jp/slkjfsdppp-kamesennin_fx/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://blog.livedoor.jp/slkjfsdppp-kamesennin_fx/"}
+ }

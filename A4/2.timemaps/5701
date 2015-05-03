@@ -1,0 +1,20 @@
+{"original_uri":"http://www.thebargainavenue.com.au/component/search?redj",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.thebargainavenue.com.au/component/search?redj",
+"mementos": {
+"list": [
+{"datetime":"2014-02-15T12:54:38Z",
+"uri":"http://web.archive.org/web/20140215125438/http://www.thebargainavenue.com.au/component/search?redj"
+},
+{"datetime":"2014-03-06T18:54:54Z",
+"uri":"http://web.archive.org/web/20140306185454/http://www.thebargainavenue.com.au/component/search?redj"
+},
+{"datetime":"2014-07-19T03:04:06Z",
+"uri":"http://web.archive.org/web/20140719030406/http://www.thebargainavenue.com.au/component/search?redj"
+},
+{"datetime":"2015-03-26T17:49:46Z",
+"uri":"http://web.archive.org/web/20150326174946/http://www.thebargainavenue.com.au/component/search?redj"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.thebargainavenue.com.au/component/search?redj"}
+ }

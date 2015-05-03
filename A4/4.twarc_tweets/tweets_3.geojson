@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -81.7395179, 
+          36.17506249
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "KAREN MCCAMMON", 
+        "url": "http://twitter.com/KARENMCCAMMON/status/593206133042585600", 
+        "text": "http://t.co/kaOEFfuF7g", 
+        "created_at": "Wed Apr 29 00:12:18 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2495757546/image_normal.jpg", 
+        "screen_name": "KARENMCCAMMON"
+      }
+    }
+  ]
+}

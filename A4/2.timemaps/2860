@@ -1,0 +1,35 @@
+{"original_uri":"http://instagram.com/8factapp/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://instagram.com/8factapp/",
+"mementos": {
+"list": [
+{"datetime":"2013-04-22T07:46:54Z",
+"uri":"http://web.archive.org/web/20130422074654/http://instagram.com/8factapp"
+},
+{"datetime":"2013-05-20T22:58:01Z",
+"uri":"http://web.archive.org/web/20130520225801/http://instagram.com/8factapp"
+},
+{"datetime":"2013-05-20T22:58:01Z",
+"uri":"//wayback.archive-it.org/all/20130520225801/http://instagram.com/8factapp"
+},
+{"datetime":"2013-06-11T18:39:36Z",
+"uri":"http://web.archive.org/web/20130611183936/http://instagram.com/8factapp"
+},
+{"datetime":"2013-06-11T18:39:36Z",
+"uri":"//wayback.archive-it.org/all/20130611183936/http://instagram.com/8factapp"
+},
+{"datetime":"2015-03-25T18:59:04Z",
+"uri":"http://web.archive.org/web/20150325185904/http://instagram.com/8factapp/"
+},
+{"datetime":"2015-03-25T18:59:05Z",
+"uri":"http://web.archive.org/web/20150325185905/https://instagram.com/8factapp/"
+},
+{"datetime":"2015-03-25T19:00:18Z",
+"uri":"http://web.archive.org/web/20150325190018/http://instagram.com/8factapp/"
+},
+{"datetime":"2015-03-25T19:00:19Z",
+"uri":"http://web.archive.org/web/20150325190019/https://instagram.com/8factapp/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://instagram.com/8factapp/"}
+ }

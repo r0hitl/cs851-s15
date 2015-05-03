@@ -1,0 +1,11 @@
+{"original_uri":"http://zizo-online.be/node/6459",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://zizo-online.be/node/6459",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T04:39:26Z",
+"uri":"http://web.archive.org/web/20150204043926/http://www.zizo-online.be/node/6459"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://zizo-online.be/node/6459"}
+ }

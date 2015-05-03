@@ -1,0 +1,17 @@
+{"original_uri":"http://ru-vederko.livejournal.com/1747080.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://ru-vederko.livejournal.com/1747080.html",
+"mementos": {
+"list": [
+{"datetime":"2014-06-11T20:37:44Z",
+"uri":"http://web.archive.org/web/20140611203744/http://ru-vederko.livejournal.com/1747080.html"
+},
+{"datetime":"2014-06-12T11:39:01Z",
+"uri":"http://web.archive.org/web/20140612113901/http://ru-vederko.livejournal.com/1747080.html"
+},
+{"datetime":"2014-06-12T17:08:44Z",
+"uri":"http://web.archive.org/web/20140612170844/http://ru-vederko.livejournal.com/1747080.html?"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://ru-vederko.livejournal.com/1747080.html"}
+ }

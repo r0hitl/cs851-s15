@@ -1,0 +1,23 @@
+{"original_uri":"http://instagram.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://instagram.com",
+"timemap_index": [
+{"from":"2004-09-05T12:17:20Z",
+"until":"2013-01-02T00:04:50Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://instagram.com"
+},{"from":"2013-01-02T06:35:00Z",
+"until":"2013-09-20T06:42:05Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://instagram.com"
+},{"from":"2013-09-20T07:35:36Z",
+"until":"2014-01-11T15:49:20Z",
+"uri":"http://labs.mementoweb.org/timemap/json/2000/http://instagram.com"
+},{"from":"2014-01-11T20:08:53Z",
+"until":"2014-11-11T17:59:21Z",
+"uri":"http://labs.mementoweb.org/timemap/json/3000/http://instagram.com"
+},{"from":"2014-11-11T18:28:05Z",
+"until":"2015-04-12T16:48:20Z",
+"uri":"http://labs.mementoweb.org/timemap/json/4000/http://instagram.com"
+},{"from":"2015-04-12T17:14:37Z",
+"uri":"http://labs.mementoweb.org/timemap/json/5000/http://instagram.com"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://instagram.com",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://instagram.com"
+}}

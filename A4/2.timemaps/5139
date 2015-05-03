@@ -1,0 +1,17 @@
+{"original_uri":"http://info-zero.jp/ebookdtl.php?ecd=64767",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://info-zero.jp/ebookdtl.php?ecd=64767",
+"mementos": {
+"list": [
+{"datetime":"2013-04-03T04:48:32Z",
+"uri":"http://web.archive.org/web/20130403044832/https://info-zero.jp/ebookdtl.php?ecd=64767"
+},
+{"datetime":"2013-04-30T23:52:38Z",
+"uri":"http://web.archive.org/web/20130430235238/https://info-zero.jp/ebookdtl.php?ecd=64767"
+},
+{"datetime":"2014-08-25T03:39:36Z",
+"uri":"http://web.archive.org/web/20140825033936/https://info-zero.jp/ebookdtl.php?ecd=64767"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://info-zero.jp/ebookdtl.php?ecd=64767"}
+ }

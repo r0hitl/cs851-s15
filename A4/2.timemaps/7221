@@ -1,0 +1,17 @@
+{"original_uri":"http://www.nikkei.com/article/DGXLASDH03H0Y_T00C15A2000000/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.nikkei.com/article/DGXLASDH03H0Y_T00C15A2000000/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T08:35:22Z",
+"uri":"http://archive.is/20150203083522/http://www.nikkei.com/article/DGXLASDH03H0Y_T00C15A2000000/"
+},
+{"datetime":"2015-02-03T08:35:55Z",
+"uri":"http://web.archive.org/web/20150203083555/http://www.nikkei.com/article/DGXLASDH03H0Y_T00C15A2000000/"
+},
+{"datetime":"2015-02-03T12:51:57Z",
+"uri":"http://web.archive.org/web/20150203125157/http://www.nikkei.com/article/DGXLASDH03H0Y_T00C15A2000000/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.nikkei.com/article/DGXLASDH03H0Y_T00C15A2000000/"}
+ }

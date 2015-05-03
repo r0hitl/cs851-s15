@@ -1,0 +1,26 @@
+{"original_uri":"http://aromalife-job.net/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://aromalife-job.net/",
+"mementos": {
+"list": [
+{"datetime":"2013-04-20T01:56:16Z",
+"uri":"http://web.archive.org/web/20130420015616/http://aromalife-job.net/"
+},
+{"datetime":"2013-06-21T03:12:21Z",
+"uri":"http://web.archive.org/web/20130621031221/http://aromalife-job.net/"
+},
+{"datetime":"2013-08-21T12:51:44Z",
+"uri":"http://web.archive.org/web/20130821125144/http://aromalife-job.net/"
+},
+{"datetime":"2014-01-26T02:50:20Z",
+"uri":"http://web.archive.org/web/20140126025020/http://aromalife-job.net/"
+},
+{"datetime":"2014-05-17T00:18:15Z",
+"uri":"http://web.archive.org/web/20140517001815/http://aromalife-job.net/"
+},
+{"datetime":"2014-12-16T19:03:22Z",
+"uri":"http://web.archive.org/web/20141216190322/http://aromalife-job.net/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://aromalife-job.net/"}
+ }

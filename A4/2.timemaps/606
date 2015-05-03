@@ -1,0 +1,17 @@
+{"original_uri":"http://portal.nifty.com/kiji/150203192686_1.htm",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://portal.nifty.com/kiji/150203192686_1.htm",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T07:46:28Z",
+"uri":"http://archive.is/20150203074628/http://portal.nifty.com/kiji/150203192686_1.htm"
+},
+{"datetime":"2015-02-03T07:46:55Z",
+"uri":"http://web.archive.org/web/20150203074655/http://portal.nifty.com/kiji/150203192686_1.htm"
+},
+{"datetime":"2015-04-19T05:29:27Z",
+"uri":"http://web.archive.org/web/20150419052927/http://portal.nifty.com/kiji/150203192686_1.htm"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://portal.nifty.com/kiji/150203192686_1.htm"}
+ }

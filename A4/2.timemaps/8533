@@ -1,0 +1,11 @@
+{"original_uri":"http://www.thelocal.fr/20150128/2513",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.thelocal.fr/20150128/2513",
+"mementos": {
+"list": [
+{"datetime":"2015-02-06T00:14:39Z",
+"uri":"http://web.archive.org/web/20150206001439/http://www.thelocal.fr/20150128/2513"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.thelocal.fr/20150128/2513"}
+ }

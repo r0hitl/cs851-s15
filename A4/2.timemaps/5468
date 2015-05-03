@@ -1,0 +1,14 @@
+{"original_uri":"http://cfd-m.com/wmgr01/index.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://cfd-m.com/wmgr01/index.html",
+"mementos": {
+"list": [
+{"datetime":"2015-01-31T23:19:31Z",
+"uri":"//wayback.archive-it.org/all/20150131231931/http://cfd-m.com/wmgr01/index.html"
+},
+{"datetime":"2015-01-31T23:19:31Z",
+"uri":"http://web.archive.org/web/20150131231931/http://cfd-m.com/wmgr01/index.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://cfd-m.com/wmgr01/index.html"}
+ }

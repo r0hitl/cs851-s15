@@ -1,0 +1,23 @@
+{"original_uri":"http://en.choizzes.eu/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://en.choizzes.eu/",
+"mementos": {
+"list": [
+{"datetime":"2015-01-07T15:39:28Z",
+"uri":"//wayback.archive-it.org/all/20150107153928/https://en.choizzes.eu/"
+},
+{"datetime":"2015-01-07T15:39:28Z",
+"uri":"http://web.archive.org/web/20150107153928/https://en.choizzes.eu/"
+},
+{"datetime":"2015-01-09T17:32:19Z",
+"uri":"//wayback.archive-it.org/all/20150109173219/https://en.choizzes.eu/"
+},
+{"datetime":"2015-01-09T17:32:19Z",
+"uri":"http://web.archive.org/web/20150109173219/https://en.choizzes.eu/"
+},
+{"datetime":"2015-03-19T03:15:22Z",
+"uri":"http://web.archive.org/web/20150319031522/https://en.choizzes.eu/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://en.choizzes.eu/"}
+ }

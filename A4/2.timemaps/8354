@@ -1,0 +1,14 @@
+{"original_uri":"http://derbystallion.jp/information01.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://derbystallion.jp/information01.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T02:54:08Z",
+"uri":"http://web.archive.org/web/20150204025408/http://derbystallion.jp/information01.html"
+},
+{"datetime":"2015-03-14T23:55:33Z",
+"uri":"http://web.archive.org/web/20150314235533/http://derbystallion.jp/information01.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://derbystallion.jp/information01.html"}
+ }

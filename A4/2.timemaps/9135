@@ -1,0 +1,14 @@
+{"original_uri":"http://4Gamer.net",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://4Gamer.net",
+"timemap_index": [
+{"from":"2000-09-19T05:20:23Z",
+"until":"2011-12-30T13:43:33Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://4Gamer.net"
+},{"from":"2012-01-02T20:48:15Z",
+"until":"2015-01-21T05:32:58Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://4Gamer.net"
+},{"from":"2015-01-22T00:52:17Z",
+"uri":"http://labs.mementoweb.org/timemap/json/2000/http://4Gamer.net"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://4Gamer.net",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://4Gamer.net"
+}}

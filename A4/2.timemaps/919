@@ -1,0 +1,32 @@
+{"original_uri":"http://utele.ktstv.net/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://utele.ktstv.net/",
+"mementos": {
+"list": [
+{"datetime":"2012-04-23T10:44:39Z",
+"uri":"http://web.archive.org/web/20120423104439/http://utele.ktstv.net/"
+},
+{"datetime":"2012-06-23T13:27:02Z",
+"uri":"http://web.archive.org/web/20120623132702/http://utele.ktstv.net/"
+},
+{"datetime":"2012-09-08T01:55:40Z",
+"uri":"http://web.archive.org/web/20120908015540/http://utele.ktstv.net/"
+},
+{"datetime":"2013-01-20T10:47:49Z",
+"uri":"http://web.archive.org/web/20130120104749/http://utele.ktstv.net/"
+},
+{"datetime":"2013-01-23T11:35:03Z",
+"uri":"http://web.archive.org/web/20130123113503/http://utele.ktstv.net/"
+},
+{"datetime":"2013-05-02T08:44:30Z",
+"uri":"http://archive.is/20130502084430/http://utele.ktstv.net/"
+},
+{"datetime":"2013-07-03T06:35:32Z",
+"uri":"http://archive.is/20130703063532/http://utele.ktstv.net/"
+},
+{"datetime":"2013-10-04T08:08:51Z",
+"uri":"http://web.archive.org/web/20131004080851/http://utele.ktstv.net/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://utele.ktstv.net/"}
+ }

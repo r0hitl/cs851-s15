@@ -1,0 +1,14 @@
+{"original_uri":"http://lenta.ru/news/2015/01/31/sovfed/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://lenta.ru/news/2015/01/31/sovfed/",
+"mementos": {
+"list": [
+{"datetime":"2015-01-31T22:12:26Z",
+"uri":"http://web.archive.org/web/20150131221226/http://lenta.ru/news/2015/01/31/sovfed/"
+},
+{"datetime":"2015-04-19T04:15:59Z",
+"uri":"http://web.archive.org/web/20150419041559/http://lenta.ru/news/2015/01/31/sovfed/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://lenta.ru/news/2015/01/31/sovfed/"}
+ }

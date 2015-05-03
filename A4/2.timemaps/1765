@@ -1,0 +1,14 @@
+{"original_uri":"http://streamdb3web.securenetsystems.net/v5/T25CL",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://streamdb3web.securenetsystems.net/v5/T25CL",
+"mementos": {
+"list": [
+{"datetime":"2013-10-22T01:34:08Z",
+"uri":"http://web.archive.org/web/20131022013408/http://streamdb3web.securenetsystems.net/v5/T25CL"
+},
+{"datetime":"2015-04-20T12:18:41Z",
+"uri":"http://web.archive.org/web/20150420121841/http://streamdb3web.securenetsystems.net/v5/T25CL"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://streamdb3web.securenetsystems.net/v5/T25CL"}
+ }

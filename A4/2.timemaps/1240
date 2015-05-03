@@ -1,0 +1,23 @@
+{"original_uri":"http://paper.li/hubworkspace/1344543117",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://paper.li/hubworkspace/1344543117",
+"mementos": {
+"list": [
+{"datetime":"2012-11-27T18:12:22Z",
+"uri":"http://web.archive.org/web/20121127181222/http://paper.li/hubworkspace/1344543117"
+},
+{"datetime":"2012-11-29T06:46:20Z",
+"uri":"http://web.archive.org/web/20121129064620/http://paper.li/hubworkspace/1344543117"
+},
+{"datetime":"2013-01-11T10:05:44Z",
+"uri":"http://web.archive.org/web/20130111100544/http://paper.li/hubworkspace/1344543117"
+},
+{"datetime":"2013-04-20T09:39:34Z",
+"uri":"http://web.archive.org/web/20130420093934/http://paper.li/hubworkspace/1344543117"
+},
+{"datetime":"2013-05-21T02:43:40Z",
+"uri":"http://web.archive.org/web/20130521024340/http://paper.li/hubworkspace/1344543117"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://paper.li/hubworkspace/1344543117"}
+ }

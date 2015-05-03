@@ -1,0 +1,11 @@
+{"original_uri":"http://www.laifeng.com/room/159",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.laifeng.com/room/159",
+"mementos": {
+"list": [
+{"datetime":"2015-03-17T17:11:23Z",
+"uri":"http://web.archive.org/web/20150317171123/http://www.laifeng.com/room/159"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.laifeng.com/room/159"}
+ }

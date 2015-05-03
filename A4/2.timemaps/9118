@@ -1,0 +1,11 @@
+{"original_uri":"http://chiiki-net.org/ibaraki/hitachi/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://chiiki-net.org/ibaraki/hitachi/",
+"mementos": {
+"list": [
+{"datetime":"2013-06-08T06:36:16Z",
+"uri":"http://web.archive.org/web/20130608063616/http://chiiki-net.org/ibaraki/hitachi"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://chiiki-net.org/ibaraki/hitachi/"}
+ }

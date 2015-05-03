@@ -1,0 +1,26 @@
+{"original_uri":"http://news.organicfoodmaps.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://news.organicfoodmaps.com",
+"mementos": {
+"list": [
+{"datetime":"2014-10-26T05:04:03Z",
+"uri":"//wayback.archive-it.org/all/20141026050403/http://news.organicfoodmaps.com/"
+},
+{"datetime":"2014-10-26T05:04:03Z",
+"uri":"http://web.archive.org/web/20141026050403/http://news.organicfoodmaps.com/"
+},
+{"datetime":"2015-01-23T09:18:29Z",
+"uri":"//wayback.archive-it.org/all/20150123091829/http://news.organicfoodmaps.com/"
+},
+{"datetime":"2015-01-23T09:18:29Z",
+"uri":"http://web.archive.org/web/20150123091829/http://news.organicfoodmaps.com/"
+},
+{"datetime":"2015-04-07T12:34:43Z",
+"uri":"http://web.archive.org/web/20150407123443/http://news.organicfoodmaps.com/"
+},
+{"datetime":"2015-04-20T21:19:21Z",
+"uri":"http://archive.is/20150420211921/http://news.organicfoodmaps.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://news.organicfoodmaps.com"}
+ }

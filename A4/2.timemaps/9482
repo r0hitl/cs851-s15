@@ -1,0 +1,11 @@
+{"original_uri":"http://app.famitsu.com/20150203_485763/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://app.famitsu.com/20150203_485763/",
+"mementos": {
+"list": [
+{"datetime":"2015-03-03T21:07:53Z",
+"uri":"http://web.archive.org/web/20150303210753/http://app.famitsu.com/20150203_485763/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://app.famitsu.com/20150203_485763/"}
+ }

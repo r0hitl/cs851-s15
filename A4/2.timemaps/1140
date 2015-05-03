@@ -1,0 +1,23 @@
+{"original_uri":"http://politica.elpais.com/politica/2015/01/25/actualidad/1422218089_546014.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://politica.elpais.com/politica/2015/01/25/actualidad/1422218089_546014.html",
+"mementos": {
+"list": [
+{"datetime":"2015-01-28T08:07:12Z",
+"uri":"http://web.archive.org/web/20150128080712/http://politica.elpais.com/politica/2015/01/25/actualidad/1422218089_546014.html"
+},
+{"datetime":"2015-01-28T14:28:00Z",
+"uri":"http://web.archive.org/web/20150128142800/http://politica.elpais.com/politica/2015/01/25/actualidad/1422218089_546014.html"
+},
+{"datetime":"2015-03-18T22:31:38Z",
+"uri":"http://web.archive.org/web/20150318223138/http://politica.elpais.com/politica/2015/01/25/actualidad/1422218089_546014.html"
+},
+{"datetime":"2015-03-30T18:14:42Z",
+"uri":"http://web.archive.org/web/20150330181442/http://politica.elpais.com/politica/2015/01/25/actualidad/1422218089_546014.html"
+},
+{"datetime":"2015-04-05T22:52:32Z",
+"uri":"http://web.archive.org/web/20150405225232/http://politica.elpais.com/politica/2015/01/25/actualidad/1422218089_546014.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://politica.elpais.com/politica/2015/01/25/actualidad/1422218089_546014.html"}
+ }

@@ -1,0 +1,26 @@
+{"original_uri":"http://p.booklog.jp/book/664",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://p.booklog.jp/book/664",
+"mementos": {
+"list": [
+{"datetime":"2012-02-01T23:13:47Z",
+"uri":"http://web.archive.org/web/20120201231347/http://p.booklog.jp/book/664"
+},
+{"datetime":"2012-04-18T05:26:13Z",
+"uri":"http://web.archive.org/web/20120418052613/http://p.booklog.jp/book/664"
+},
+{"datetime":"2012-09-17T09:58:49Z",
+"uri":"http://web.archive.org/web/20120917095849/http://p.booklog.jp/book/664"
+},
+{"datetime":"2012-10-18T06:59:23Z",
+"uri":"http://web.archive.org/web/20121018065923/http://p.booklog.jp/book/664"
+},
+{"datetime":"2013-11-27T17:01:42Z",
+"uri":"http://web.archive.org/web/20131127170142/http://p.booklog.jp/book/664"
+},
+{"datetime":"2015-02-20T18:16:05Z",
+"uri":"http://web.archive.org/web/20150220181605/http://p.booklog.jp/book/664"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://p.booklog.jp/book/664"}
+ }

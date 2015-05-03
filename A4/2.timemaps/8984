@@ -1,0 +1,14 @@
+{"original_uri":"http://www.cnet.com/au/news/scott-ludlam-exposes-ways-to-circumvent-data-retention/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.cnet.com/au/news/scott-ludlam-exposes-ways-to-circumvent-data-retention/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T18:17:37Z",
+"uri":"http://archive.is/20150203181737/http://www.cnet.com/au/news/scott-ludlam-exposes-ways-to-circumvent-data-retention/"
+},
+{"datetime":"2015-04-14T03:05:46Z",
+"uri":"http://web.archive.org/web/20150414030546/http://www.cnet.com/au/news/scott-ludlam-exposes-ways-to-circumvent-data-retention/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.cnet.com/au/news/scott-ludlam-exposes-ways-to-circumvent-data-retention/"}
+ }

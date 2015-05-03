@@ -1,0 +1,11 @@
+{"original_uri":"http://blog.naver.com/from_home",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://blog.naver.com/from_home",
+"mementos": {
+"list": [
+{"datetime":"2015-04-26T03:52:45Z",
+"uri":"http://web.archive.org/web/20150426035245/http://blog.naver.com/from_home"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://blog.naver.com/from_home"}
+ }

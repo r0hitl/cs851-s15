@@ -1,0 +1,23 @@
+{"original_uri":"http://www.geograph.org.uk/photo/413208",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.geograph.org.uk/photo/413208",
+"mementos": {
+"list": [
+{"datetime":"2009-01-08T00:42:14Z",
+"uri":"http://web.archive.org/web/20090108004214/http://geograph.org.uk/photo/413208"
+},
+{"datetime":"2009-10-13T04:10:05Z",
+"uri":"http://www.webarchive.org.uk:80/wayback/archive/20091013041005/http://www.geograph.org.uk/photo/413208"
+},
+{"datetime":"2011-11-28T23:47:42Z",
+"uri":"http://www.webarchive.org.uk:80/wayback/archive/20111128234742/http://www.geograph.org.uk/photo/413208"
+},
+{"datetime":"2013-01-24T21:03:04Z",
+"uri":"http://www.webarchive.org.uk:80/wayback/archive/20130124210304/http://www.geograph.org.uk/photo/413208"
+},
+{"datetime":"2014-02-26T21:32:05Z",
+"uri":"http://www.webarchive.org.uk:80/wayback/archive/20140226213205/http://www.geograph.org.uk/photo/413208"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.geograph.org.uk/photo/413208"}
+ }

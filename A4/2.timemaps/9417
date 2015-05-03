@@ -1,0 +1,32 @@
+{"original_uri":"http://www.vybzyaad.com/m",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.vybzyaad.com/m",
+"mementos": {
+"list": [
+{"datetime":"2013-08-07T08:58:32Z",
+"uri":"http://web.archive.org/web/20130807085832/http://vybzyaad.com/m"
+},
+{"datetime":"2013-08-07T08:58:32Z",
+"uri":"http://web.archive.org/web/20130807085832/http://vybzyaad.com/m/"
+},
+{"datetime":"2013-09-08T03:44:46Z",
+"uri":"http://web.archive.org/web/20130908034446/http://vybzyaad.com/m"
+},
+{"datetime":"2013-09-08T03:44:46Z",
+"uri":"http://web.archive.org/web/20130908034446/http://vybzyaad.com/m/"
+},
+{"datetime":"2013-10-14T10:39:50Z",
+"uri":"http://web.archive.org/web/20131014103950/http://vybzyaad.com/m"
+},
+{"datetime":"2013-10-14T10:39:58Z",
+"uri":"http://web.archive.org/web/20131014103958/http://vybzyaad.com/m/"
+},
+{"datetime":"2013-10-17T02:10:33Z",
+"uri":"http://web.archive.org/web/20131017021033/http://vybzyaad.com/m"
+},
+{"datetime":"2013-10-17T02:10:33Z",
+"uri":"http://web.archive.org/web/20131017021033/http://vybzyaad.com/m/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.vybzyaad.com/m"}
+ }

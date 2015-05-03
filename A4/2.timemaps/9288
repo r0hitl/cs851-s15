@@ -1,0 +1,11 @@
+{"original_uri":"http://jp.reuters.com/article/topNews/idJPKBN0L705R20150203",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://jp.reuters.com/article/topNews/idJPKBN0L705R20150203",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T10:51:13Z",
+"uri":"http://web.archive.org/web/20150203105113/http://jp.reuters.com/article/topNews/idJPKBN0L705R20150203"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://jp.reuters.com/article/topNews/idJPKBN0L705R20150203"}
+ }

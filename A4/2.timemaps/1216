@@ -1,0 +1,20 @@
+{"original_uri":"http://socialshare.jp/cs2/238/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://socialshare.jp/cs2/238/",
+"mementos": {
+"list": [
+{"datetime":"2013-01-13T01:34:39Z",
+"uri":"http://web.archive.org/web/20130113013439/http://socialshare.jp/cs2/238"
+},
+{"datetime":"2013-01-27T07:10:57Z",
+"uri":"http://web.archive.org/web/20130127071057/http://socialshare.jp/cs2/238/"
+},
+{"datetime":"2013-03-24T02:59:23Z",
+"uri":"http://web.archive.org/web/20130324025923/http://socialshare.jp/cs2/238/"
+},
+{"datetime":"2013-05-16T18:59:12Z",
+"uri":"http://web.archive.org/web/20130516185912/http://socialshare.jp/cs2/238"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://socialshare.jp/cs2/238/"}
+ }

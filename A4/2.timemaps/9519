@@ -1,0 +1,14 @@
+{"original_uri":"http://www.pravda.com.ua/news/2015/02/2/7057218/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.pravda.com.ua/news/2015/02/2/7057218/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-02T19:06:17Z",
+"uri":"http://web.archive.org/web/20150202190617/http://www.pravda.com.ua/news/2015/02/2/7057218/"
+},
+{"datetime":"2015-04-21T07:50:05Z",
+"uri":"http://web.archive.org/web/20150421075005/http://www.pravda.com.ua/news/2015/02/2/7057218/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.pravda.com.ua/news/2015/02/2/7057218/"}
+ }

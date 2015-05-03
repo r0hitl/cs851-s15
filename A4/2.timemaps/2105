@@ -1,0 +1,17 @@
+{"original_uri":"http://www.dicoding.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.dicoding.com/",
+"mementos": {
+"list": [
+{"datetime":"2015-03-14T22:10:14Z",
+"uri":"http://web.archive.org/web/20150314221014/http://dicoding.com/"
+},
+{"datetime":"2015-03-14T23:37:58Z",
+"uri":"http://web.archive.org/web/20150314233758/https://www.dicoding.com/"
+},
+{"datetime":"2015-03-23T20:48:19Z",
+"uri":"http://web.archive.org/web/20150323204819/http://dicoding.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.dicoding.com/"}
+ }

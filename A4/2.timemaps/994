@@ -1,0 +1,14 @@
+{"original_uri":"http://store.shopping.yahoo.co.jp/haircollashop/opc-1.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://store.shopping.yahoo.co.jp/haircollashop/opc-1.html",
+"mementos": {
+"list": [
+{"datetime":"2011-08-01T13:21:51Z",
+"uri":"http://www.webcitation.org/60c6MqI2a"
+},
+{"datetime":"2013-04-24T06:59:11Z",
+"uri":"http://web.archive.org/web/20130424065911/http://store.shopping.yahoo.co.jp/haircollashop/opc-1.html?"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://store.shopping.yahoo.co.jp/haircollashop/opc-1.html"}
+ }

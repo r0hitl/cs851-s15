@@ -1,0 +1,11 @@
+{"original_uri":"http://www.tickerchart.com/m/cmp/11/c469738773",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.tickerchart.com/m/cmp/11/c469738773",
+"mementos": {
+"list": [
+{"datetime":"2014-06-20T08:33:18Z",
+"uri":"http://web.archive.org/web/20140620083318/http://www.tickerchart.com/m/cmp/11/c469738773"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.tickerchart.com/m/cmp/11/c469738773"}
+ }

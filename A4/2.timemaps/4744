@@ -1,0 +1,11 @@
+{"original_uri":"http://www.aftonbladet.se/nyheter/article20257003.ab",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.aftonbladet.se/nyheter/article20257003.ab",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T04:31:58Z",
+"uri":"http://web.archive.org/web/20150203043158/http://www.aftonbladet.se/nyheter/article20257003.ab"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.aftonbladet.se/nyheter/article20257003.ab"}
+ }

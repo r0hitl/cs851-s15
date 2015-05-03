@@ -1,0 +1,38 @@
+{"original_uri":"http://cftime.co.kr/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://cftime.co.kr/",
+"mementos": {
+"list": [
+{"datetime":"2001-04-04T01:27:53Z",
+"uri":"http://web.archive.org/web/20010404012753/http://www.cftime.co.kr/"
+},
+{"datetime":"2001-05-19T00:19:41Z",
+"uri":"http://web.archive.org/web/20010519001941/http://www.cftime.co.kr/"
+},
+{"datetime":"2001-07-21T21:12:20Z",
+"uri":"http://web.archive.org/web/20010721211220/http://www.cftime.co.kr/"
+},
+{"datetime":"2001-09-26T16:33:35Z",
+"uri":"http://web.archive.org/web/20010926163335/http://www.cftime.co.kr/"
+},
+{"datetime":"2013-05-18T00:56:05Z",
+"uri":"http://web.archive.org/web/20130518005605/http://cftime.co.kr/"
+},
+{"datetime":"2013-10-13T02:47:46Z",
+"uri":"http://web.archive.org/web/20131013024746/http://www.cftime.co.kr/?"
+},
+{"datetime":"2013-10-14T13:45:01Z",
+"uri":"http://web.archive.org/web/20131014134501/http://www.cftime.co.kr/"
+},
+{"datetime":"2014-05-16T20:36:01Z",
+"uri":"http://web.archive.org/web/20140516203601/http://cftime.co.kr/"
+},
+{"datetime":"2014-08-04T03:32:27Z",
+"uri":"http://web.archive.org/web/20140804033227/http://cftime.co.kr/"
+},
+{"datetime":"2014-12-18T16:16:25Z",
+"uri":"http://web.archive.org/web/20141218161625/http://cftime.co.kr/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://cftime.co.kr/"}
+ }

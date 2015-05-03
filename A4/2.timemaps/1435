@@ -1,0 +1,11 @@
+{"original_uri":"http://my-tiny.com/pcsx/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://my-tiny.com/pcsx/",
+"mementos": {
+"list": [
+{"datetime":"2014-04-02T11:10:09Z",
+"uri":"http://web.archive.org/web/20140402111009/http://my-tiny.com/pcsx/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://my-tiny.com/pcsx/"}
+ }

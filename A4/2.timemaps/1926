@@ -1,0 +1,35 @@
+{"original_uri":"http://mexico.dondatos.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://mexico.dondatos.com",
+"mementos": {
+"list": [
+{"datetime":"2012-11-04T07:10:01Z",
+"uri":"http://web.archive.org/web/20121104071001/http://www.mexico.dondatos.com/"
+},
+{"datetime":"2013-03-01T03:25:39Z",
+"uri":"http://web.archive.org/web/20130301032539/http://www.mexico.dondatos.com/"
+},
+{"datetime":"2013-04-20T05:47:31Z",
+"uri":"http://web.archive.org/web/20130420054731/http://www.mexico.dondatos.com"
+},
+{"datetime":"2013-04-22T22:57:04Z",
+"uri":"http://web.archive.org/web/20130422225704/http://mexico.dondatos.com"
+},
+{"datetime":"2013-04-22T22:57:06Z",
+"uri":"http://web.archive.org/web/20130422225706/http://www.mexico.dondatos.com/"
+},
+{"datetime":"2013-04-24T10:05:28Z",
+"uri":"http://web.archive.org/web/20130424100528/http://www.mexico.dondatos.com"
+},
+{"datetime":"2013-06-27T22:21:58Z",
+"uri":"http://web.archive.org/web/20130627222158/http://www.mexico.dondatos.com/"
+},
+{"datetime":"2013-06-29T21:32:28Z",
+"uri":"http://web.archive.org/web/20130629213228/http://www.mexico.dondatos.com/"
+},
+{"datetime":"2013-10-01T14:03:57Z",
+"uri":"http://web.archive.org/web/20131001140357/http://www.mexico.dondatos.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://mexico.dondatos.com"}
+ }
